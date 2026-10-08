@@ -1,0 +1,4 @@
+Contact: mailto:security@renco.za.net
+Expires: 2027-06-30T23:59:00.000Z
+Preferred-Languages: en
+Canonical: https://renco.za.net/.well-known/security.txt
