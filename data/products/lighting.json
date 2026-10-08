@@ -1,0 +1,1300 @@
+[
+  {
+    "id": "p_000614",
+    "slug": "voltara-vt-led-12vdc-ip20",
+    "sku": "REN-LED-92700",
+    "mpn": "VT-LED-12VDC-IP20",
+    "brand": "Voltara",
+    "name": "LED floodlights, 12 V DC, IP20, 6500 lm",
+    "summary": "LED floodlights from Voltara with rated voltage 12 V DC, ip rating IP20, luminous flux 6500 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 28200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000615",
+    "slug": "duravolt-sample-co-dv-led-12vdc-ip54",
+    "sku": "REN-LED-39670",
+    "mpn": "DV-LED-12VDC-IP54",
+    "brand": "Duravolt Sample Co.",
+    "name": "LED floodlights, 12 V DC, IP54, 1200 lm",
+    "summary": "LED floodlights from Duravolt Sample Co. with rated voltage 12 V DC, ip rating IP54, luminous flux 1200 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 163900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000616",
+    "slug": "ampstead-am-led-12vdc-ip66",
+    "sku": "REN-LED-64777",
+    "mpn": "AM-LED-12VDC-IP66",
+    "brand": "Ampstead",
+    "name": "LED floodlights, 12 V DC, IP66, 1200 lm",
+    "summary": "LED floodlights from Ampstead with rated voltage 12 V DC, ip rating IP66, luminous flux 1200 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 137200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000617",
+    "slug": "kapbridge-controls-kc-led-110vac-ip44",
+    "sku": "REN-LED-62666",
+    "mpn": "KC-LED-110VAC-IP44",
+    "brand": "Kapbridge Controls",
+    "name": "LED floodlights, 110 V AC, IP44, 6500 lm",
+    "summary": "LED floodlights from Kapbridge Controls with rated voltage 110 V AC, ip rating IP44, luminous flux 6500 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 18800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000618",
+    "slug": "norvane-nv-led-12vdc-ip66",
+    "sku": "REN-LED-85898",
+    "mpn": "NV-LED-12VDC-IP66",
+    "brand": "Norvane",
+    "name": "LED floodlights, 12 V DC, IP66, 1200 lm",
+    "summary": "LED floodlights from Norvane with rated voltage 12 V DC, ip rating IP66, luminous flux 1200 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 209400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000619",
+    "slug": "voltara-vt-bulk-400vac-ip44",
+    "sku": "REN-BULK-79134",
+    "mpn": "VT-BULK-400VAC-IP44",
+    "brand": "Voltara",
+    "name": "Bulkheads, 400 V AC, IP44, 2400 lm",
+    "summary": "Bulkheads from Voltara with rated voltage 400 V AC, ip rating IP44, luminous flux 2400 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 105800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000620",
+    "slug": "norvane-nv-bulk-230vac-ip67",
+    "sku": "REN-BULK-32801",
+    "mpn": "NV-BULK-230VAC-IP67",
+    "brand": "Norvane",
+    "name": "Bulkheads, 230 V AC, IP67, 6500 lm",
+    "summary": "Bulkheads from Norvane with rated voltage 230 V AC, ip rating IP67, luminous flux 6500 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 152900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000621",
+    "slug": "ampstead-am-bulk-110vac-ip20",
+    "sku": "REN-BULK-49215",
+    "mpn": "AM-BULK-110VAC-IP20",
+    "brand": "Ampstead",
+    "name": "Bulkheads, 110 V AC, IP20, 6500 lm",
+    "summary": "Bulkheads from Ampstead with rated voltage 110 V AC, ip rating IP20, luminous flux 6500 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 31700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000622",
+    "slug": "lumeris-lm-bulk-400vac-ip44",
+    "sku": "REN-BULK-29509",
+    "mpn": "LM-BULK-400VAC-IP44",
+    "brand": "Lumeris",
+    "name": "Bulkheads, 400 V AC, IP44, 6500 lm",
+    "summary": "Bulkheads from Lumeris with rated voltage 400 V AC, ip rating IP44, luminous flux 6500 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 16200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000623",
+    "slug": "lumeris-lm-bulk-230vac-ip44",
+    "sku": "REN-BULK-10605",
+    "mpn": "LM-BULK-230VAC-IP44",
+    "brand": "Lumeris",
+    "name": "Bulkheads, 230 V AC, IP44, 4000 lm",
+    "summary": "Bulkheads from Lumeris with rated voltage 230 V AC, ip rating IP44, luminous flux 4000 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 114000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000624",
+    "slug": "voltara-vt-bulk-12vdc-ip54",
+    "sku": "REN-BULK-72712",
+    "mpn": "VT-BULK-12VDC-IP54",
+    "brand": "Voltara",
+    "name": "Bulkheads, 12 V DC, IP54, 1200 lm",
+    "summary": "Bulkheads from Voltara with rated voltage 12 V DC, ip rating IP54, luminous flux 1200 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 155700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000625",
+    "slug": "kapbridge-controls-kc-led-12vdc-ip67-1000",
+    "sku": "REN-LED-63018",
+    "mpn": "KC-LED-12VDC-IP67-1000",
+    "brand": "Kapbridge Controls",
+    "name": "LED battens, 12 V DC, IP67, 1000 mm, 2400 lm",
+    "summary": "LED battens from Kapbridge Controls with rated voltage 12 V DC, ip rating IP67, length 1000 mm, luminous flux 2400 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 162300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000626",
+    "slug": "lumeris-lm-led-110vac-ip44-1000",
+    "sku": "REN-LED-32096",
+    "mpn": "LM-LED-110VAC-IP44-1000",
+    "brand": "Lumeris",
+    "name": "LED battens, 110 V AC, IP44, 1000 mm, 6500 lm",
+    "summary": "LED battens from Lumeris with rated voltage 110 V AC, ip rating IP44, length 1000 mm, luminous flux 6500 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 215400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000627",
+    "slug": "norvane-nv-led-12vdc-ip67-100",
+    "sku": "REN-LED-87037",
+    "mpn": "NV-LED-12VDC-IP67-100",
+    "brand": "Norvane",
+    "name": "LED battens, 12 V DC, IP67, 100 mm, 2400 lm",
+    "summary": "LED battens from Norvane with rated voltage 12 V DC, ip rating IP67, length 100 mm, luminous flux 2400 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 180600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000628",
+    "slug": "duravolt-sample-co-dv-led-230vac-ip67-250",
+    "sku": "REN-LED-74336",
+    "mpn": "DV-LED-230VAC-IP67-250",
+    "brand": "Duravolt Sample Co.",
+    "name": "LED battens, 230 V AC, IP67, 250 mm, 1200 lm",
+    "summary": "LED battens from Duravolt Sample Co. with rated voltage 230 V AC, ip rating IP67, length 250 mm, luminous flux 1200 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 38400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000629",
+    "slug": "norvane-nv-led-230vac-ip66-1000",
+    "sku": "REN-LED-44330",
+    "mpn": "NV-LED-230VAC-IP66-1000",
+    "brand": "Norvane",
+    "name": "LED battens, 230 V AC, IP66, 1000 mm, 6500 lm",
+    "summary": "LED battens from Norvane with rated voltage 230 V AC, ip rating IP66, length 1000 mm, luminous flux 6500 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 85000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000630",
+    "slug": "voltara-vt-down-110vac-ip67",
+    "sku": "REN-DOWN-74310",
+    "mpn": "VT-DOWN-110VAC-IP67",
+    "brand": "Voltara",
+    "name": "Downlights, 110 V AC, IP67, 1200 lm",
+    "summary": "Downlights from Voltara with rated voltage 110 V AC, ip rating IP67, luminous flux 1200 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 44600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000631",
+    "slug": "voltara-vt-down-24vdc-ip66",
+    "sku": "REN-DOWN-98265",
+    "mpn": "VT-DOWN-24VDC-IP66",
+    "brand": "Voltara",
+    "name": "Downlights, 24 V DC, IP66, 2400 lm",
+    "summary": "Downlights from Voltara with rated voltage 24 V DC, ip rating IP66, luminous flux 2400 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 132800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000632",
+    "slug": "ampstead-am-down-110vac-ip44",
+    "sku": "REN-DOWN-69340",
+    "mpn": "AM-DOWN-110VAC-IP44",
+    "brand": "Ampstead",
+    "name": "Downlights, 110 V AC, IP44, 4000 lm",
+    "summary": "Downlights from Ampstead with rated voltage 110 V AC, ip rating IP44, luminous flux 4000 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 206100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000633",
+    "slug": "norvane-nv-down-12vdc-ip54",
+    "sku": "REN-DOWN-48809",
+    "mpn": "NV-DOWN-12VDC-IP54",
+    "brand": "Norvane",
+    "name": "Downlights, 12 V DC, IP54, 1200 lm",
+    "summary": "Downlights from Norvane with rated voltage 12 V DC, ip rating IP54, luminous flux 1200 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 181400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000634",
+    "slug": "voltara-vt-down-400vac-ip44",
+    "sku": "REN-DOWN-44688",
+    "mpn": "VT-DOWN-400VAC-IP44",
+    "brand": "Voltara",
+    "name": "Downlights, 400 V AC, IP44, 2400 lm",
+    "summary": "Downlights from Voltara with rated voltage 400 V AC, ip rating IP44, luminous flux 2400 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 248400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000635",
+    "slug": "voltara-vt-emer-230vac-ip65",
+    "sku": "REN-EMER-67405",
+    "mpn": "VT-EMER-230VAC-IP65",
+    "brand": "Voltara",
+    "name": "Emergency lighting, 230 V AC, IP65, 2400 lm",
+    "summary": "Emergency lighting from Voltara with rated voltage 230 V AC, ip rating IP65, luminous flux 2400 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 77700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000636",
+    "slug": "voltara-vt-emer-12vdc-ip65",
+    "sku": "REN-EMER-35457",
+    "mpn": "VT-EMER-12VDC-IP65",
+    "brand": "Voltara",
+    "name": "Emergency lighting, 12 V DC, IP65, 4000 lm",
+    "summary": "Emergency lighting from Voltara with rated voltage 12 V DC, ip rating IP65, luminous flux 4000 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 183700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000637",
+    "slug": "voltara-vt-emer-110vac-ip20",
+    "sku": "REN-EMER-72518",
+    "mpn": "VT-EMER-110VAC-IP20",
+    "brand": "Voltara",
+    "name": "Emergency lighting, 110 V AC, IP20, 2400 lm",
+    "summary": "Emergency lighting from Voltara with rated voltage 110 V AC, ip rating IP20, luminous flux 2400 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 24600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000638",
+    "slug": "ampstead-am-emer-110vac-ip66",
+    "sku": "REN-EMER-97414",
+    "mpn": "AM-EMER-110VAC-IP66",
+    "brand": "Ampstead",
+    "name": "Emergency lighting, 110 V AC, IP66, 2400 lm",
+    "summary": "Emergency lighting from Ampstead with rated voltage 110 V AC, ip rating IP66, luminous flux 2400 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 155700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000639",
+    "slug": "ampstead-am-emer-110vac-ip67",
+    "sku": "REN-EMER-79918",
+    "mpn": "AM-EMER-110VAC-IP67",
+    "brand": "Ampstead",
+    "name": "Emergency lighting, 110 V AC, IP67, 2400 lm",
+    "summary": "Emergency lighting from Ampstead with rated voltage 110 V AC, ip rating IP67, luminous flux 2400 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 204200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000640",
+    "slug": "lumeris-lm-emer-24vdc-ip67",
+    "sku": "REN-EMER-54323",
+    "mpn": "LM-EMER-24VDC-IP67",
+    "brand": "Lumeris",
+    "name": "Emergency lighting, 24 V DC, IP67, 1200 lm",
+    "summary": "Emergency lighting from Lumeris with rated voltage 24 V DC, ip rating IP67, luminous flux 1200 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 117900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000641",
+    "slug": "duravolt-sample-co-dv-lamp-230vac-2000",
+    "sku": "REN-LAMP-41754",
+    "mpn": "DV-LAMP-230VAC-2000",
+    "brand": "Duravolt Sample Co.",
+    "name": "Lamps & tubes, 230 V AC, Green, 2000 mm, 4000 lm",
+    "summary": "Lamps & tubes from Duravolt Sample Co. with rated voltage 230 V AC, colour Green, length 2000 mm, luminous flux 4000 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      }
+    ],
+    "unit": "box",
+    "packQty": 1,
+    "priceExclVatCents": 13500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000642",
+    "slug": "kapbridge-controls-kc-lamp-12vdc-100",
+    "sku": "REN-LAMP-26248",
+    "mpn": "KC-LAMP-12VDC-100",
+    "brand": "Kapbridge Controls",
+    "name": "Lamps & tubes, 12 V DC, Grey, 100 mm, 4000 lm",
+    "summary": "Lamps & tubes from Kapbridge Controls with rated voltage 12 V DC, colour Grey, length 100 mm, luminous flux 4000 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      }
+    ],
+    "unit": "box",
+    "packQty": 1,
+    "priceExclVatCents": 13800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000643",
+    "slug": "kapbridge-controls-kc-lamp-400vac-250",
+    "sku": "REN-LAMP-85963",
+    "mpn": "KC-LAMP-400VAC-250",
+    "brand": "Kapbridge Controls",
+    "name": "Lamps & tubes, 400 V AC, White, 250 mm, 2400 lm",
+    "summary": "Lamps & tubes from Kapbridge Controls with rated voltage 400 V AC, colour White, length 250 mm, luminous flux 2400 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "box",
+    "packQty": 1,
+    "priceExclVatCents": 13800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000644",
+    "slug": "lumeris-lm-lamp-12vdc-2000",
+    "sku": "REN-LAMP-36262",
+    "mpn": "LM-LAMP-12VDC-2000",
+    "brand": "Lumeris",
+    "name": "Lamps & tubes, 12 V DC, Grey, 2000 mm, 6500 lm",
+    "summary": "Lamps & tubes from Lumeris with rated voltage 12 V DC, colour Grey, length 2000 mm, luminous flux 6500 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      }
+    ],
+    "unit": "box",
+    "packQty": 1,
+    "priceExclVatCents": 9000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000645",
+    "slug": "ampstead-am-lamp-12vdc-500",
+    "sku": "REN-LAMP-38801",
+    "mpn": "AM-LAMP-12VDC-500",
+    "brand": "Ampstead",
+    "name": "Lamps & tubes, 12 V DC, Red, 500 mm, 4000 lm",
+    "summary": "Lamps & tubes from Ampstead with rated voltage 12 V DC, colour Red, length 500 mm, luminous flux 4000 lm.",
+    "categoryId": "c14",
+    "subcategoryId": "c14s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      }
+    ],
+    "unit": "box",
+    "packQty": 1,
+    "priceExclVatCents": 8200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

@@ -1,0 +1,1024 @@
+[
+  {
+    "id": "p_000257",
+    "slug": "lumeris-lm-ues-250",
+    "sku": "REN-UES-72269",
+    "mpn": "LM-UES-250",
+    "brand": "Lumeris",
+    "name": "Unmanaged ethernet switches, 250 A, 4 x RJ45, 2 NO",
+    "summary": "Unmanaged ethernet switches from Lumeris with rated current 250 A, ports 4 x RJ45, contacts 2 NO.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 190800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000258",
+    "slug": "ampstead-am-ues-63",
+    "sku": "REN-UES-52067",
+    "mpn": "AM-UES-63",
+    "brand": "Ampstead",
+    "name": "Unmanaged ethernet switches, 63 A, 8 x RJ45, 2 C/O",
+    "summary": "Unmanaged ethernet switches from Ampstead with rated current 63 A, ports 8 x RJ45, contacts 2 C/O.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 51700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000259",
+    "slug": "voltara-vt-ues-63",
+    "sku": "REN-UES-66466",
+    "mpn": "VT-UES-63",
+    "brand": "Voltara",
+    "name": "Unmanaged ethernet switches, 63 A, 4 x RJ45, 2 NO",
+    "summary": "Unmanaged ethernet switches from Voltara with rated current 63 A, ports 4 x RJ45, contacts 2 NO.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 194500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000260",
+    "slug": "duravolt-sample-co-dv-ues-400",
+    "sku": "REN-UES-34103",
+    "mpn": "DV-UES-400",
+    "brand": "Duravolt Sample Co.",
+    "name": "Unmanaged ethernet switches, 400 A, 4 x RJ45, 2 C/O",
+    "summary": "Unmanaged ethernet switches from Duravolt Sample Co. with rated current 400 A, ports 4 x RJ45, contacts 2 C/O.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 240300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000261",
+    "slug": "ampstead-am-ues-16",
+    "sku": "REN-UES-93015",
+    "mpn": "AM-UES-16",
+    "brand": "Ampstead",
+    "name": "Unmanaged ethernet switches, 16 A, 5 x RJ45 + 1 x SFP, 4 C/O",
+    "summary": "Unmanaged ethernet switches from Ampstead with rated current 16 A, ports 5 x RJ45 + 1 x SFP, contacts 4 C/O.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 137800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000262",
+    "slug": "duravolt-sample-co-dv-mana-250",
+    "sku": "REN-MANA-66404",
+    "mpn": "DV-MANA-250",
+    "brand": "Duravolt Sample Co.",
+    "name": "Managed switches, 250 A, 8 x RJ45, 1 C/O",
+    "summary": "Managed switches from Duravolt Sample Co. with rated current 250 A, ports 8 x RJ45, contacts 1 C/O.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 185500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000263",
+    "slug": "ampstead-am-mana-400",
+    "sku": "REN-MANA-86225",
+    "mpn": "AM-MANA-400",
+    "brand": "Ampstead",
+    "name": "Managed switches, 400 A, 5 x RJ45 + 1 x SFP, 2 C/O",
+    "summary": "Managed switches from Ampstead with rated current 400 A, ports 5 x RJ45 + 1 x SFP, contacts 2 C/O.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 816100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000264",
+    "slug": "lumeris-lm-mana-250",
+    "sku": "REN-MANA-90471",
+    "mpn": "LM-MANA-250",
+    "brand": "Lumeris",
+    "name": "Managed switches, 250 A, 8 x RJ45, 2 C/O",
+    "summary": "Managed switches from Lumeris with rated current 250 A, ports 8 x RJ45, contacts 2 C/O.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 583400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000265",
+    "slug": "ampstead-am-mana-20",
+    "sku": "REN-MANA-92234",
+    "mpn": "AM-MANA-20",
+    "brand": "Ampstead",
+    "name": "Managed switches, 20 A, 5 x RJ45 + 1 x SFP, 2 NO",
+    "summary": "Managed switches from Ampstead with rated current 20 A, ports 5 x RJ45 + 1 x SFP, contacts 2 NO.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 694000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000266",
+    "slug": "voltara-vt-mana-100",
+    "sku": "REN-MANA-96979",
+    "mpn": "VT-MANA-100",
+    "brand": "Voltara",
+    "name": "Managed switches, 100 A, 4 x RJ45, 1 C/O",
+    "summary": "Managed switches from Voltara with rated current 100 A, ports 4 x RJ45, contacts 1 C/O.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 463400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000267",
+    "slug": "kapbridge-controls-kc-indu-230vac",
+    "sku": "REN-INDU-85822",
+    "mpn": "KC-INDU-230VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Industrial routers, 230 V AC, 5 x RJ45 + 1 x SFP, 0 to 50 °C",
+    "summary": "Industrial routers from Kapbridge Controls with rated voltage 230 V AC, ports 5 x RJ45 + 1 x SFP, operating temperature 0 to 50 °C.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 454300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000268",
+    "slug": "norvane-nv-indu-12vdc",
+    "sku": "REN-INDU-13513",
+    "mpn": "NV-INDU-12VDC",
+    "brand": "Norvane",
+    "name": "Industrial routers, 12 V DC, 5 x RJ45 + 1 x SFP, -20 to 60 °C",
+    "summary": "Industrial routers from Norvane with rated voltage 12 V DC, ports 5 x RJ45 + 1 x SFP, operating temperature -20 to 60 °C.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 426900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000269",
+    "slug": "kapbridge-controls-kc-indu-24vdc",
+    "sku": "REN-INDU-83569",
+    "mpn": "KC-INDU-24VDC",
+    "brand": "Kapbridge Controls",
+    "name": "Industrial routers, 24 V DC, 5 x RJ45 + 1 x SFP, -25 to 70 °C",
+    "summary": "Industrial routers from Kapbridge Controls with rated voltage 24 V DC, ports 5 x RJ45 + 1 x SFP, operating temperature -25 to 70 °C.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 636300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000270",
+    "slug": "duravolt-sample-co-dv-indu-12vdc",
+    "sku": "REN-INDU-81798",
+    "mpn": "DV-INDU-12VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Industrial routers, 12 V DC, 8 x RJ45, 0 to 50 °C",
+    "summary": "Industrial routers from Duravolt Sample Co. with rated voltage 12 V DC, ports 8 x RJ45, operating temperature 0 to 50 °C.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 631200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000271",
+    "slug": "norvane-nv-indu-110vac",
+    "sku": "REN-INDU-83030",
+    "mpn": "NV-INDU-110VAC",
+    "brand": "Norvane",
+    "name": "Industrial routers, 110 V AC, 5 x RJ45 + 1 x SFP, 0 to 50 °C",
+    "summary": "Industrial routers from Norvane with rated voltage 110 V AC, ports 5 x RJ45 + 1 x SFP, operating temperature 0 to 50 °C.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 213500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000272",
+    "slug": "kapbridge-controls-kc-indu-110vac",
+    "sku": "REN-INDU-43553",
+    "mpn": "KC-INDU-110VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Industrial routers, 110 V AC, 8 x RJ45, -20 to 60 °C",
+    "summary": "Industrial routers from Kapbridge Controls with rated voltage 110 V AC, ports 8 x RJ45, operating temperature -20 to 60 °C.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 297800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000273",
+    "slug": "norvane-nv-leg-400vac",
+    "sku": "REN-LEG-42404",
+    "mpn": "NV-LEG-400VAC",
+    "brand": "Norvane",
+    "name": "LTE & ethernet gateways, 400 V AC, 4 x RJ45, Panel cut-out",
+    "summary": "LTE & ethernet gateways from Norvane with rated voltage 400 V AC, ports 4 x RJ45, mounting Panel cut-out.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 830700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000274",
+    "slug": "ampstead-am-leg-400vac",
+    "sku": "REN-LEG-18299",
+    "mpn": "AM-LEG-400VAC",
+    "brand": "Ampstead",
+    "name": "LTE & ethernet gateways, 400 V AC, 5 x RJ45 + 1 x SFP, DIN rail",
+    "summary": "LTE & ethernet gateways from Ampstead with rated voltage 400 V AC, ports 5 x RJ45 + 1 x SFP, mounting DIN rail.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 236200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000275",
+    "slug": "lumeris-lm-leg-230vac",
+    "sku": "REN-LEG-82304",
+    "mpn": "LM-LEG-230VAC",
+    "brand": "Lumeris",
+    "name": "LTE & ethernet gateways, 230 V AC, 8 x RJ45, Surface",
+    "summary": "LTE & ethernet gateways from Lumeris with rated voltage 230 V AC, ports 8 x RJ45, mounting Surface.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 160700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000276",
+    "slug": "lumeris-lm-leg-110vac",
+    "sku": "REN-LEG-85757",
+    "mpn": "LM-LEG-110VAC",
+    "brand": "Lumeris",
+    "name": "LTE & ethernet gateways, 110 V AC, 5 x RJ45 + 1 x SFP, DIN rail",
+    "summary": "LTE & ethernet gateways from Lumeris with rated voltage 110 V AC, ports 5 x RJ45 + 1 x SFP, mounting DIN rail.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 765100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000277",
+    "slug": "lumeris-lm-leg-24vdc",
+    "sku": "REN-LEG-90817",
+    "mpn": "LM-LEG-24VDC",
+    "brand": "Lumeris",
+    "name": "LTE & ethernet gateways, 24 V DC, 5 x RJ45 + 1 x SFP, Flush",
+    "summary": "LTE & ethernet gateways from Lumeris with rated voltage 24 V DC, ports 5 x RJ45 + 1 x SFP, mounting Flush.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 444700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000278",
+    "slug": "norvane-nv-edge-400vac",
+    "sku": "REN-EDGE-60444",
+    "mpn": "NV-EDGE-400VAC",
+    "brand": "Norvane",
+    "name": "Edge gateways, 400 V AC, 5 x RJ45 + 1 x SFP, DIN rail",
+    "summary": "Edge gateways from Norvane with rated voltage 400 V AC, ports 5 x RJ45 + 1 x SFP, mounting DIN rail.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 216600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000279",
+    "slug": "lumeris-lm-edge-400vac",
+    "sku": "REN-EDGE-70682",
+    "mpn": "LM-EDGE-400VAC",
+    "brand": "Lumeris",
+    "name": "Edge gateways, 400 V AC, 4 x RJ45, DIN rail",
+    "summary": "Edge gateways from Lumeris with rated voltage 400 V AC, ports 4 x RJ45, mounting DIN rail.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 861600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000280",
+    "slug": "duravolt-sample-co-dv-edge-24vdc",
+    "sku": "REN-EDGE-79038",
+    "mpn": "DV-EDGE-24VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Edge gateways, 24 V DC, 5 x RJ45 + 1 x SFP, DIN rail",
+    "summary": "Edge gateways from Duravolt Sample Co. with rated voltage 24 V DC, ports 5 x RJ45 + 1 x SFP, mounting DIN rail.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 398600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000281",
+    "slug": "kapbridge-controls-kc-edge-12vdc",
+    "sku": "REN-EDGE-63675",
+    "mpn": "KC-EDGE-12VDC",
+    "brand": "Kapbridge Controls",
+    "name": "Edge gateways, 12 V DC, 5 x RJ45 + 1 x SFP, Surface",
+    "summary": "Edge gateways from Kapbridge Controls with rated voltage 12 V DC, ports 5 x RJ45 + 1 x SFP, mounting Surface.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 612600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000282",
+    "slug": "lumeris-lm-edge-110vac",
+    "sku": "REN-EDGE-22821",
+    "mpn": "LM-EDGE-110VAC",
+    "brand": "Lumeris",
+    "name": "Edge gateways, 110 V AC, 8 x RJ45, DIN rail",
+    "summary": "Edge gateways from Lumeris with rated voltage 110 V AC, ports 8 x RJ45, mounting DIN rail.",
+    "categoryId": "c07",
+    "subcategoryId": "c07s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 662500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

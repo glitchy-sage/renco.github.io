@@ -1,0 +1,1265 @@
+[
+  {
+    "id": "p_000107",
+    "slug": "norvane-nv-plcs-12vdc",
+    "sku": "REN-PLCS-39657",
+    "mpn": "NV-PLCS-12VDC",
+    "brand": "Norvane",
+    "name": "PLCs, 12 V DC, 4 x RJ45, DIN rail",
+    "summary": "PLCs from Norvane with rated voltage 12 V DC, ports 4 x RJ45, mounting DIN rail.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 805900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000108",
+    "slug": "voltara-vt-plcs-400vac",
+    "sku": "REN-PLCS-13476",
+    "mpn": "VT-PLCS-400VAC",
+    "brand": "Voltara",
+    "name": "PLCs, 400 V AC, 8 x RJ45, DIN rail",
+    "summary": "PLCs from Voltara with rated voltage 400 V AC, ports 8 x RJ45, mounting DIN rail.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 441700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000109",
+    "slug": "ampstead-am-plcs-110vac",
+    "sku": "REN-PLCS-69918",
+    "mpn": "AM-PLCS-110VAC",
+    "brand": "Ampstead",
+    "name": "PLCs, 110 V AC, 8 x RJ45, Flush",
+    "summary": "PLCs from Ampstead with rated voltage 110 V AC, ports 8 x RJ45, mounting Flush.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 569200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000110",
+    "slug": "duravolt-sample-co-dv-plcs-110vac",
+    "sku": "REN-PLCS-51451",
+    "mpn": "DV-PLCS-110VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "PLCs, 110 V AC, 5 x RJ45 + 1 x SFP, Flush",
+    "summary": "PLCs from Duravolt Sample Co. with rated voltage 110 V AC, ports 5 x RJ45 + 1 x SFP, mounting Flush.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 540800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000111",
+    "slug": "kapbridge-controls-kc-plcs-400vac",
+    "sku": "REN-PLCS-87156",
+    "mpn": "KC-PLCS-400VAC",
+    "brand": "Kapbridge Controls",
+    "name": "PLCs, 400 V AC, 4 x RJ45, Panel cut-out",
+    "summary": "PLCs from Kapbridge Controls with rated voltage 400 V AC, ports 4 x RJ45, mounting Panel cut-out.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 792700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000112",
+    "slug": "norvane-nv-plcs-24vdc",
+    "sku": "REN-PLCS-73747",
+    "mpn": "NV-PLCS-24VDC",
+    "brand": "Norvane",
+    "name": "PLCs, 24 V DC, 4 x RJ45, Surface",
+    "summary": "PLCs from Norvane with rated voltage 24 V DC, ports 4 x RJ45, mounting Surface.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 864600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000113",
+    "slug": "duravolt-sample-co-dv-hts-400vac",
+    "sku": "REN-HTS-24421",
+    "mpn": "DV-HTS-400VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "HMI touch screens, 400 V AC, 4 x RJ45, DIN rail",
+    "summary": "HMI touch screens from Duravolt Sample Co. with rated voltage 400 V AC, ports 4 x RJ45, mounting DIN rail.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 564000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000114",
+    "slug": "ampstead-am-hts-110vac",
+    "sku": "REN-HTS-30733",
+    "mpn": "AM-HTS-110VAC",
+    "brand": "Ampstead",
+    "name": "HMI touch screens, 110 V AC, 4 x RJ45, Flush",
+    "summary": "HMI touch screens from Ampstead with rated voltage 110 V AC, ports 4 x RJ45, mounting Flush.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 793200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000115",
+    "slug": "norvane-nv-hts-12vdc",
+    "sku": "REN-HTS-29080",
+    "mpn": "NV-HTS-12VDC",
+    "brand": "Norvane",
+    "name": "HMI touch screens, 12 V DC, 8 x RJ45, Flush",
+    "summary": "HMI touch screens from Norvane with rated voltage 12 V DC, ports 8 x RJ45, mounting Flush.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 262300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000116",
+    "slug": "duravolt-sample-co-dv-hts-24vdc",
+    "sku": "REN-HTS-50299",
+    "mpn": "DV-HTS-24VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "HMI touch screens, 24 V DC, 4 x RJ45, Flush",
+    "summary": "HMI touch screens from Duravolt Sample Co. with rated voltage 24 V DC, ports 4 x RJ45, mounting Flush.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 666700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000117",
+    "slug": "norvane-nv-hts-230vac",
+    "sku": "REN-HTS-88114",
+    "mpn": "NV-HTS-230VAC",
+    "brand": "Norvane",
+    "name": "HMI touch screens, 230 V AC, 4 x RJ45, DIN rail",
+    "summary": "HMI touch screens from Norvane with rated voltage 230 V AC, ports 4 x RJ45, mounting DIN rail.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 671500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000118",
+    "slug": "voltara-vt-ipp-230vac-ip66",
+    "sku": "REN-IPP-52432",
+    "mpn": "VT-IPP-230VAC-IP66",
+    "brand": "Voltara",
+    "name": "Industrial panel PCs, 230 V AC, IP66, 8 x RJ45, -20 to 60 °C",
+    "summary": "Industrial panel PCs from Voltara with rated voltage 230 V AC, ip rating IP66, ports 8 x RJ45, operating temperature -20 to 60 °C.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1171800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000119",
+    "slug": "lumeris-lm-ipp-12vdc-ip44",
+    "sku": "REN-IPP-98020",
+    "mpn": "LM-IPP-12VDC-IP44",
+    "brand": "Lumeris",
+    "name": "Industrial panel PCs, 12 V DC, IP44, 4 x RJ45, -25 to 70 °C",
+    "summary": "Industrial panel PCs from Lumeris with rated voltage 12 V DC, ip rating IP44, ports 4 x RJ45, operating temperature -25 to 70 °C.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2010900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000120",
+    "slug": "voltara-vt-ipp-12vdc-ip54",
+    "sku": "REN-IPP-44031",
+    "mpn": "VT-IPP-12VDC-IP54",
+    "brand": "Voltara",
+    "name": "Industrial panel PCs, 12 V DC, IP54, 8 x RJ45, -25 to 70 °C",
+    "summary": "Industrial panel PCs from Voltara with rated voltage 12 V DC, ip rating IP54, ports 8 x RJ45, operating temperature -25 to 70 °C.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2715800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000121",
+    "slug": "kapbridge-controls-kc-ipp-110vac-ip65",
+    "sku": "REN-IPP-41611",
+    "mpn": "KC-IPP-110VAC-IP65",
+    "brand": "Kapbridge Controls",
+    "name": "Industrial panel PCs, 110 V AC, IP65, 5 x RJ45 + 1 x SFP, -25 to 70 °C",
+    "summary": "Industrial panel PCs from Kapbridge Controls with rated voltage 110 V AC, ip rating IP65, ports 5 x RJ45 + 1 x SFP, operating temperature -25 to 70 °C.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2517300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000122",
+    "slug": "kapbridge-controls-kc-ipp-12vdc-ip44",
+    "sku": "REN-IPP-22684",
+    "mpn": "KC-IPP-12VDC-IP44",
+    "brand": "Kapbridge Controls",
+    "name": "Industrial panel PCs, 12 V DC, IP44, 8 x RJ45, 0 to 50 °C",
+    "summary": "Industrial panel PCs from Kapbridge Controls with rated voltage 12 V DC, ip rating IP44, ports 8 x RJ45, operating temperature 0 to 50 °C.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1297100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000123",
+    "slug": "kapbridge-controls-kc-sdm-15",
+    "sku": "REN-SDM-82030",
+    "mpn": "KC-SDM-15",
+    "brand": "Kapbridge Controls",
+    "name": "Servo drives & motors, 1.5 kW, Surface, -25 to 70 °C",
+    "summary": "Servo drives & motors from Kapbridge Controls with rated power 1.5 kW, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s04",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "1.5",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2033200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000124",
+    "slug": "duravolt-sample-co-dv-sdm-15",
+    "sku": "REN-SDM-79036",
+    "mpn": "DV-SDM-15",
+    "brand": "Duravolt Sample Co.",
+    "name": "Servo drives & motors, 15 kW, Panel cut-out, 0 to 50 °C",
+    "summary": "Servo drives & motors from Duravolt Sample Co. with rated power 15 kW, mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s04",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "15",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3929800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000125",
+    "slug": "duravolt-sample-co-dv-sdm-15-2",
+    "sku": "REN-SDM-12505",
+    "mpn": "DV-SDM-15-2",
+    "brand": "Duravolt Sample Co.",
+    "name": "Servo drives & motors, 1.5 kW, Surface, 0 to 50 °C",
+    "summary": "Servo drives & motors from Duravolt Sample Co. with rated power 1.5 kW, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s04",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "1.5",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2501300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000126",
+    "slug": "norvane-nv-sdm-15",
+    "sku": "REN-SDM-62317",
+    "mpn": "NV-SDM-15",
+    "brand": "Norvane",
+    "name": "Servo drives & motors, 15 kW, DIN rail, 0 to 50 °C",
+    "summary": "Servo drives & motors from Norvane with rated power 15 kW, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s04",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "15",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1874900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000127",
+    "slug": "norvane-nv-sdm-075",
+    "sku": "REN-SDM-60153",
+    "mpn": "NV-SDM-075",
+    "brand": "Norvane",
+    "name": "Servo drives & motors, 0.75 kW, Panel cut-out, 0 to 50 °C",
+    "summary": "Servo drives & motors from Norvane with rated power 0.75 kW, mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s04",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.75",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2252900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000128",
+    "slug": "ampstead-am-sdm-037",
+    "sku": "REN-SDM-74534",
+    "mpn": "AM-SDM-037",
+    "brand": "Ampstead",
+    "name": "Servo drives & motors, 0.37 kW, Surface, 0 to 50 °C",
+    "summary": "Servo drives & motors from Ampstead with rated power 0.37 kW, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s04",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.37",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1117600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000129",
+    "slug": "ampstead-am-serv-75-ip44-300x400",
+    "sku": "REN-SERV-80235",
+    "mpn": "AM-SERV-75-IP44-300X400",
+    "brand": "Ampstead",
+    "name": "Servo gearboxes, 7.5 kW, IP44, Glass-reinforced polyester, 300 x 400 mm",
+    "summary": "Servo gearboxes from Ampstead with rated power 7.5 kW, ip rating IP44, material Glass-reinforced polyester, dimensions (w x h) 300 x 400 mm.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s05",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "7.5",
+        "unit": "kW"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "300 x 400",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2367200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000130",
+    "slug": "lumeris-lm-serv-15-ip44-400x600",
+    "sku": "REN-SERV-74354",
+    "mpn": "LM-SERV-15-IP44-400X600",
+    "brand": "Lumeris",
+    "name": "Servo gearboxes, 15 kW, IP44, Powder-coated steel, 400 x 600 mm",
+    "summary": "Servo gearboxes from Lumeris with rated power 15 kW, ip rating IP44, material Powder-coated steel, dimensions (w x h) 400 x 600 mm.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s05",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "15",
+        "unit": "kW"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "400 x 600",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1325400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000131",
+    "slug": "norvane-nv-serv-037-ip20-800x1000",
+    "sku": "REN-SERV-83592",
+    "mpn": "NV-SERV-037-IP20-800X1000",
+    "brand": "Norvane",
+    "name": "Servo gearboxes, 0.37 kW, IP20, Polycarbonate, 800 x 1000 mm",
+    "summary": "Servo gearboxes from Norvane with rated power 0.37 kW, ip rating IP20, material Polycarbonate, dimensions (w x h) 800 x 1000 mm.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s05",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.37",
+        "unit": "kW"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "800 x 1000",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2141200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000132",
+    "slug": "lumeris-lm-serv-075-ip67-800x1000",
+    "sku": "REN-SERV-73658",
+    "mpn": "LM-SERV-075-IP67-800X1000",
+    "brand": "Lumeris",
+    "name": "Servo gearboxes, 0.75 kW, IP67, Polycarbonate, 800 x 1000 mm",
+    "summary": "Servo gearboxes from Lumeris with rated power 0.75 kW, ip rating IP67, material Polycarbonate, dimensions (w x h) 800 x 1000 mm.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s05",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.75",
+        "unit": "kW"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "800 x 1000",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1506200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000133",
+    "slug": "norvane-nv-serv-037-ip44-200x300",
+    "sku": "REN-SERV-60889",
+    "mpn": "NV-SERV-037-IP44-200X300",
+    "brand": "Norvane",
+    "name": "Servo gearboxes, 0.37 kW, IP44, Galvanised steel, 200 x 300 mm",
+    "summary": "Servo gearboxes from Norvane with rated power 0.37 kW, ip rating IP44, material Galvanised steel, dimensions (w x h) 200 x 300 mm.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s05",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.37",
+        "unit": "kW"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "200 x 300",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1329200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000134",
+    "slug": "voltara-vt-enco-400vac",
+    "sku": "REN-ENCO-94566",
+    "mpn": "VT-ENCO-400VAC",
+    "brand": "Voltara",
+    "name": "Encoders, 400 V AC, 4 x RJ45, DIN rail",
+    "summary": "Encoders from Voltara with rated voltage 400 V AC, ports 4 x RJ45, mounting DIN rail.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 810300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000135",
+    "slug": "norvane-nv-enco-24vdc",
+    "sku": "REN-ENCO-52316",
+    "mpn": "NV-ENCO-24VDC",
+    "brand": "Norvane",
+    "name": "Encoders, 24 V DC, 4 x RJ45, Flush",
+    "summary": "Encoders from Norvane with rated voltage 24 V DC, ports 4 x RJ45, mounting Flush.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 350800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000136",
+    "slug": "ampstead-am-enco-12vdc",
+    "sku": "REN-ENCO-71505",
+    "mpn": "AM-ENCO-12VDC",
+    "brand": "Ampstead",
+    "name": "Encoders, 12 V DC, 4 x RJ45, DIN rail",
+    "summary": "Encoders from Ampstead with rated voltage 12 V DC, ports 4 x RJ45, mounting DIN rail.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 405000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000137",
+    "slug": "norvane-nv-enco-24vdc-2",
+    "sku": "REN-ENCO-72638",
+    "mpn": "NV-ENCO-24VDC-2",
+    "brand": "Norvane",
+    "name": "Encoders, 24 V DC, 8 x RJ45, DIN rail",
+    "summary": "Encoders from Norvane with rated voltage 24 V DC, ports 8 x RJ45, mounting DIN rail.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 419600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000138",
+    "slug": "kapbridge-controls-kc-enco-12vdc",
+    "sku": "REN-ENCO-48866",
+    "mpn": "KC-ENCO-12VDC",
+    "brand": "Kapbridge Controls",
+    "name": "Encoders, 12 V DC, 5 x RJ45 + 1 x SFP, Panel cut-out",
+    "summary": "Encoders from Kapbridge Controls with rated voltage 12 V DC, ports 5 x RJ45 + 1 x SFP, mounting Panel cut-out.",
+    "categoryId": "c03",
+    "subcategoryId": "c03s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 861300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

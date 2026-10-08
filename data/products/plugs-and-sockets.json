@@ -1,0 +1,1804 @@
+[
+  {
+    "id": "p_000326",
+    "slug": "kapbridge-controls-kc-ips-400-ip66-2000",
+    "sku": "REN-IPS-87631",
+    "mpn": "KC-IPS-400-IP66-2000",
+    "brand": "Kapbridge Controls",
+    "name": "Industrial plugs & sockets, 400 A, IP66, 2000 mm, 0.5-6 mm²",
+    "summary": "Industrial plugs & sockets from Kapbridge Controls with rated current 400 A, ip rating IP66, length 2000 mm, cable capacity 0.5-6 mm².",
+    "categoryId": "c09",
+    "subcategoryId": "c09s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "0.5-6",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 235600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000327",
+    "slug": "voltara-vt-ips-400-ip65-2000",
+    "sku": "REN-IPS-67207",
+    "mpn": "VT-IPS-400-IP65-2000",
+    "brand": "Voltara",
+    "name": "Industrial plugs & sockets, 400 A, IP65, 2000 mm, 10-35 mm²",
+    "summary": "Industrial plugs & sockets from Voltara with rated current 400 A, ip rating IP65, length 2000 mm, cable capacity 10-35 mm².",
+    "categoryId": "c09",
+    "subcategoryId": "c09s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 96400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000328",
+    "slug": "kapbridge-controls-kc-ips-6-ip54-500",
+    "sku": "REN-IPS-54797",
+    "mpn": "KC-IPS-6-IP54-500",
+    "brand": "Kapbridge Controls",
+    "name": "Industrial plugs & sockets, 6 A, IP54, 500 mm, 1.5-10 mm²",
+    "summary": "Industrial plugs & sockets from Kapbridge Controls with rated current 6 A, ip rating IP54, length 500 mm, cable capacity 1.5-10 mm².",
+    "categoryId": "c09",
+    "subcategoryId": "c09s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 139000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000329",
+    "slug": "duravolt-sample-co-dv-ips-16-ip54-2000",
+    "sku": "REN-IPS-47529",
+    "mpn": "DV-IPS-16-IP54-2000",
+    "brand": "Duravolt Sample Co.",
+    "name": "Industrial plugs & sockets, 16 A, IP54, 2000 mm, 10-35 mm²",
+    "summary": "Industrial plugs & sockets from Duravolt Sample Co. with rated current 16 A, ip rating IP54, length 2000 mm, cable capacity 10-35 mm².",
+    "categoryId": "c09",
+    "subcategoryId": "c09s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 237300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000330",
+    "slug": "voltara-vt-ips-20-ip54-2000",
+    "sku": "REN-IPS-36002",
+    "mpn": "VT-IPS-20-IP54-2000",
+    "brand": "Voltara",
+    "name": "Industrial plugs & sockets, 20 A, IP54, 2000 mm, 0.5-6 mm²",
+    "summary": "Industrial plugs & sockets from Voltara with rated current 20 A, ip rating IP54, length 2000 mm, cable capacity 0.5-6 mm².",
+    "categoryId": "c09",
+    "subcategoryId": "c09s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "0.5-6",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 121000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000331",
+    "slug": "duravolt-sample-co-dv-iso-32-ip67",
+    "sku": "REN-ISO-28395",
+    "mpn": "DV-ISO-32-IP67",
+    "brand": "Duravolt Sample Co.",
+    "name": "Industrial socket outlets, 32 A, IP67, Panel cut-out",
+    "summary": "Industrial socket outlets from Duravolt Sample Co. with rated current 32 A, ip rating IP67, mounting Panel cut-out.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 157300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000332",
+    "slug": "ampstead-am-iso-6-ip20",
+    "sku": "REN-ISO-86656",
+    "mpn": "AM-ISO-6-IP20",
+    "brand": "Ampstead",
+    "name": "Industrial socket outlets, 6 A, IP20, DIN rail",
+    "summary": "Industrial socket outlets from Ampstead with rated current 6 A, ip rating IP20, mounting DIN rail.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 42500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000333",
+    "slug": "duravolt-sample-co-dv-iso-100-ip66",
+    "sku": "REN-ISO-65431",
+    "mpn": "DV-ISO-100-IP66",
+    "brand": "Duravolt Sample Co.",
+    "name": "Industrial socket outlets, 100 A, IP66, DIN rail",
+    "summary": "Industrial socket outlets from Duravolt Sample Co. with rated current 100 A, ip rating IP66, mounting DIN rail.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 122000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000334",
+    "slug": "kapbridge-controls-kc-iso-32-ip66",
+    "sku": "REN-ISO-84218",
+    "mpn": "KC-ISO-32-IP66",
+    "brand": "Kapbridge Controls",
+    "name": "Industrial socket outlets, 32 A, IP66, Panel cut-out",
+    "summary": "Industrial socket outlets from Kapbridge Controls with rated current 32 A, ip rating IP66, mounting Panel cut-out.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 118400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000335",
+    "slug": "duravolt-sample-co-dv-iso-6-ip67",
+    "sku": "REN-ISO-73875",
+    "mpn": "DV-ISO-6-IP67",
+    "brand": "Duravolt Sample Co.",
+    "name": "Industrial socket outlets, 6 A, IP67, Panel cut-out",
+    "summary": "Industrial socket outlets from Duravolt Sample Co. with rated current 6 A, ip rating IP67, mounting Panel cut-out.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 130900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000336",
+    "slug": "ampstead-am-iso-16-ip20",
+    "sku": "REN-ISO-43526",
+    "mpn": "AM-ISO-16-IP20",
+    "brand": "Ampstead",
+    "name": "Industrial socket outlets, 16 A, IP20, Flush",
+    "summary": "Industrial socket outlets from Ampstead with rated current 16 A, ip rating IP20, mounting Flush.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 57400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000337",
+    "slug": "ampstead-am-sdb-16-ip66-600x800",
+    "sku": "REN-SDB-97916",
+    "mpn": "AM-SDB-16-IP66-600X800",
+    "brand": "Ampstead",
+    "name": "Socket distribution boxes, 16 A, IP66, Glass-reinforced polyester, 600 x 800 mm",
+    "summary": "Socket distribution boxes from Ampstead with rated current 16 A, ip rating IP66, material Glass-reinforced polyester, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 109200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000338",
+    "slug": "ampstead-am-sdb-400-ip54-600x800",
+    "sku": "REN-SDB-40841",
+    "mpn": "AM-SDB-400-IP54-600X800",
+    "brand": "Ampstead",
+    "name": "Socket distribution boxes, 400 A, IP54, Polycarbonate, 600 x 800 mm",
+    "summary": "Socket distribution boxes from Ampstead with rated current 400 A, ip rating IP54, material Polycarbonate, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 162200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000339",
+    "slug": "norvane-nv-sdb-6-ip67-200x300",
+    "sku": "REN-SDB-75059",
+    "mpn": "NV-SDB-6-IP67-200X300",
+    "brand": "Norvane",
+    "name": "Socket distribution boxes, 6 A, IP67, Stainless steel 316, 200 x 300 mm",
+    "summary": "Socket distribution boxes from Norvane with rated current 6 A, ip rating IP67, material Stainless steel 316, dimensions (w x h) 200 x 300 mm.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "200 x 300",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 164700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000340",
+    "slug": "kapbridge-controls-kc-sdb-400-ip44-300x400",
+    "sku": "REN-SDB-67219",
+    "mpn": "KC-SDB-400-IP44-300X400",
+    "brand": "Kapbridge Controls",
+    "name": "Socket distribution boxes, 400 A, IP44, Glass-reinforced polyester, 300 x 400 mm",
+    "summary": "Socket distribution boxes from Kapbridge Controls with rated current 400 A, ip rating IP44, material Glass-reinforced polyester, dimensions (w x h) 300 x 400 mm.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "300 x 400",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 158700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000341",
+    "slug": "duravolt-sample-co-dv-sdb-6-ip67-400x600",
+    "sku": "REN-SDB-98492",
+    "mpn": "DV-SDB-6-IP67-400X600",
+    "brand": "Duravolt Sample Co.",
+    "name": "Socket distribution boxes, 6 A, IP67, Polycarbonate, 400 x 600 mm",
+    "summary": "Socket distribution boxes from Duravolt Sample Co. with rated current 6 A, ip rating IP67, material Polycarbonate, dimensions (w x h) 400 x 600 mm.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "400 x 600",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 112200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000342",
+    "slug": "ampstead-am-rss-16-ip44",
+    "sku": "REN-RSS-12828",
+    "mpn": "AM-RSS-16-IP44",
+    "brand": "Ampstead",
+    "name": "Residential switches & sockets, 16 A, IP44, 5 x RJ45 + 1 x SFP, 2 C/O",
+    "summary": "Residential switches & sockets from Ampstead with rated current 16 A, ip rating IP44, ports 5 x RJ45 + 1 x SFP, contacts 2 C/O.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 129400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000343",
+    "slug": "norvane-nv-rss-6-ip66",
+    "sku": "REN-RSS-98534",
+    "mpn": "NV-RSS-6-IP66",
+    "brand": "Norvane",
+    "name": "Residential switches & sockets, 6 A, IP66, 4 x RJ45, 2 C/O",
+    "summary": "Residential switches & sockets from Norvane with rated current 6 A, ip rating IP66, ports 4 x RJ45, contacts 2 C/O.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 86600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000344",
+    "slug": "voltara-vt-rss-16-ip44",
+    "sku": "REN-RSS-82716",
+    "mpn": "VT-RSS-16-IP44",
+    "brand": "Voltara",
+    "name": "Residential switches & sockets, 16 A, IP44, 8 x RJ45, 4 C/O",
+    "summary": "Residential switches & sockets from Voltara with rated current 16 A, ip rating IP44, ports 8 x RJ45, contacts 4 C/O.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 211300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000345",
+    "slug": "lumeris-lm-rss-20-ip65",
+    "sku": "REN-RSS-74258",
+    "mpn": "LM-RSS-20-IP65",
+    "brand": "Lumeris",
+    "name": "Residential switches & sockets, 20 A, IP65, 5 x RJ45 + 1 x SFP, 1 C/O",
+    "summary": "Residential switches & sockets from Lumeris with rated current 20 A, ip rating IP65, ports 5 x RJ45 + 1 x SFP, contacts 1 C/O.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 225200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000346",
+    "slug": "ampstead-am-rss-250-ip54",
+    "sku": "REN-RSS-48712",
+    "mpn": "AM-RSS-250-IP54",
+    "brand": "Ampstead",
+    "name": "Residential switches & sockets, 250 A, IP54, 8 x RJ45, 1 C/O",
+    "summary": "Residential switches & sockets from Ampstead with rated current 250 A, ip rating IP54, ports 8 x RJ45, contacts 1 C/O.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 110600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000347",
+    "slug": "kapbridge-controls-kc-wps-6-ip54-500",
+    "sku": "REN-WPS-57000",
+    "mpn": "KC-WPS-6-IP54-500",
+    "brand": "Kapbridge Controls",
+    "name": "Weatherproof plugs & sockets, 6 A, IP54, 500 mm, 10-35 mm²",
+    "summary": "Weatherproof plugs & sockets from Kapbridge Controls with rated current 6 A, ip rating IP54, length 500 mm, cable capacity 10-35 mm².",
+    "categoryId": "c09",
+    "subcategoryId": "c09s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 85000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000348",
+    "slug": "kapbridge-controls-kc-wps-400-ip54-1000",
+    "sku": "REN-WPS-51202",
+    "mpn": "KC-WPS-400-IP54-1000",
+    "brand": "Kapbridge Controls",
+    "name": "Weatherproof plugs & sockets, 400 A, IP54, 1000 mm, 1.5-10 mm²",
+    "summary": "Weatherproof plugs & sockets from Kapbridge Controls with rated current 400 A, ip rating IP54, length 1000 mm, cable capacity 1.5-10 mm².",
+    "categoryId": "c09",
+    "subcategoryId": "c09s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 211200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000349",
+    "slug": "norvane-nv-wps-400-ip67-1000",
+    "sku": "REN-WPS-27400",
+    "mpn": "NV-WPS-400-IP67-1000",
+    "brand": "Norvane",
+    "name": "Weatherproof plugs & sockets, 400 A, IP67, 1000 mm, 10-35 mm²",
+    "summary": "Weatherproof plugs & sockets from Norvane with rated current 400 A, ip rating IP67, length 1000 mm, cable capacity 10-35 mm².",
+    "categoryId": "c09",
+    "subcategoryId": "c09s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 139200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000350",
+    "slug": "duravolt-sample-co-dv-wps-63-ip65-1000",
+    "sku": "REN-WPS-51895",
+    "mpn": "DV-WPS-63-IP65-1000",
+    "brand": "Duravolt Sample Co.",
+    "name": "Weatherproof plugs & sockets, 63 A, IP65, 1000 mm, 10-35 mm²",
+    "summary": "Weatherproof plugs & sockets from Duravolt Sample Co. with rated current 63 A, ip rating IP65, length 1000 mm, cable capacity 10-35 mm².",
+    "categoryId": "c09",
+    "subcategoryId": "c09s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 20200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000351",
+    "slug": "lumeris-lm-wps-6-ip44-1000",
+    "sku": "REN-WPS-21581",
+    "mpn": "LM-WPS-6-IP44-1000",
+    "brand": "Lumeris",
+    "name": "Weatherproof plugs & sockets, 6 A, IP44, 1000 mm, 4-16 mm²",
+    "summary": "Weatherproof plugs & sockets from Lumeris with rated current 6 A, ip rating IP44, length 1000 mm, cable capacity 4-16 mm².",
+    "categoryId": "c09",
+    "subcategoryId": "c09s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "4-16",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 50000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000352",
+    "slug": "norvane-nv-wps-32-ip65-250",
+    "sku": "REN-WPS-20914",
+    "mpn": "NV-WPS-32-IP65-250",
+    "brand": "Norvane",
+    "name": "Weatherproof plugs & sockets, 32 A, IP65, 250 mm, 10-35 mm²",
+    "summary": "Weatherproof plugs & sockets from Norvane with rated current 32 A, ip rating IP65, length 250 mm, cable capacity 10-35 mm².",
+    "categoryId": "c09",
+    "subcategoryId": "c09s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 123600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000353",
+    "slug": "norvane-nv-mpc-6",
+    "sku": "REN-MPC-79795",
+    "mpn": "NV-MPC-6",
+    "brand": "Norvane",
+    "name": "Multi-pole connectors, 6 A, DIN rail, -20 to 60 °C",
+    "summary": "Multi-pole connectors from Norvane with rated current 6 A, mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 198000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000354",
+    "slug": "kapbridge-controls-kc-mpc-6",
+    "sku": "REN-MPC-31340",
+    "mpn": "KC-MPC-6",
+    "brand": "Kapbridge Controls",
+    "name": "Multi-pole connectors, 6 A, Panel cut-out, -25 to 70 °C",
+    "summary": "Multi-pole connectors from Kapbridge Controls with rated current 6 A, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 107000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000355",
+    "slug": "kapbridge-controls-kc-mpc-16",
+    "sku": "REN-MPC-18885",
+    "mpn": "KC-MPC-16",
+    "brand": "Kapbridge Controls",
+    "name": "Multi-pole connectors, 16 A, Panel cut-out, 0 to 50 °C",
+    "summary": "Multi-pole connectors from Kapbridge Controls with rated current 16 A, mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 57400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000356",
+    "slug": "lumeris-lm-mpc-100",
+    "sku": "REN-MPC-68119",
+    "mpn": "LM-MPC-100",
+    "brand": "Lumeris",
+    "name": "Multi-pole connectors, 100 A, Panel cut-out, -25 to 70 °C",
+    "summary": "Multi-pole connectors from Lumeris with rated current 100 A, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 228900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000357",
+    "slug": "lumeris-lm-mpc-20",
+    "sku": "REN-MPC-62062",
+    "mpn": "LM-MPC-20",
+    "brand": "Lumeris",
+    "name": "Multi-pole connectors, 20 A, Surface, -20 to 60 °C",
+    "summary": "Multi-pole connectors from Lumeris with rated current 20 A, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 46500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000358",
+    "slug": "duravolt-sample-co-dv-pv-63-12vdc",
+    "sku": "REN-PV-42529",
+    "mpn": "DV-PV-63-12VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "PV connectors, 63 A, 12 V DC, DIN rail",
+    "summary": "PV connectors from Duravolt Sample Co. with rated current 63 A, rated voltage 12 V DC, mounting DIN rail.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s07",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 43400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000359",
+    "slug": "ampstead-am-pv-20-12vdc",
+    "sku": "REN-PV-22010",
+    "mpn": "AM-PV-20-12VDC",
+    "brand": "Ampstead",
+    "name": "PV connectors, 20 A, 12 V DC, DIN rail",
+    "summary": "PV connectors from Ampstead with rated current 20 A, rated voltage 12 V DC, mounting DIN rail.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s07",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 180400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000360",
+    "slug": "ampstead-am-pv-32-12vdc",
+    "sku": "REN-PV-24441",
+    "mpn": "AM-PV-32-12VDC",
+    "brand": "Ampstead",
+    "name": "PV connectors, 32 A, 12 V DC, Panel cut-out",
+    "summary": "PV connectors from Ampstead with rated current 32 A, rated voltage 12 V DC, mounting Panel cut-out.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s07",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 245700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000361",
+    "slug": "duravolt-sample-co-dv-pv-16-400vac",
+    "sku": "REN-PV-12912",
+    "mpn": "DV-PV-16-400VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "PV connectors, 16 A, 400 V AC, Panel cut-out",
+    "summary": "PV connectors from Duravolt Sample Co. with rated current 16 A, rated voltage 400 V AC, mounting Panel cut-out.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s07",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 46300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000362",
+    "slug": "duravolt-sample-co-dv-pv-20-24vdc",
+    "sku": "REN-PV-30155",
+    "mpn": "DV-PV-20-24VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "PV connectors, 20 A, 24 V DC, Panel cut-out",
+    "summary": "PV connectors from Duravolt Sample Co. with rated current 20 A, rated voltage 24 V DC, mounting Panel cut-out.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s07",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 163400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000363",
+    "slug": "lumeris-lm-bct-250-12vdc",
+    "sku": "REN-BCT-94119",
+    "mpn": "LM-BCT-250-12VDC",
+    "brand": "Lumeris",
+    "name": "Battery connectors & terminals, 250 A, 12 V DC, Panel cut-out",
+    "summary": "Battery connectors & terminals from Lumeris with rated current 250 A, rated voltage 12 V DC, mounting Panel cut-out.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s08",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 14500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000364",
+    "slug": "ampstead-am-bct-6-400vac",
+    "sku": "REN-BCT-98272",
+    "mpn": "AM-BCT-6-400VAC",
+    "brand": "Ampstead",
+    "name": "Battery connectors & terminals, 6 A, 400 V AC, Surface",
+    "summary": "Battery connectors & terminals from Ampstead with rated current 6 A, rated voltage 400 V AC, mounting Surface.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s08",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000365",
+    "slug": "ampstead-am-bct-100-110vac",
+    "sku": "REN-BCT-92685",
+    "mpn": "AM-BCT-100-110VAC",
+    "brand": "Ampstead",
+    "name": "Battery connectors & terminals, 100 A, 110 V AC, Surface",
+    "summary": "Battery connectors & terminals from Ampstead with rated current 100 A, rated voltage 110 V AC, mounting Surface.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s08",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 19500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000366",
+    "slug": "ampstead-am-bct-16-24vdc",
+    "sku": "REN-BCT-71144",
+    "mpn": "AM-BCT-16-24VDC",
+    "brand": "Ampstead",
+    "name": "Battery connectors & terminals, 16 A, 24 V DC, Flush",
+    "summary": "Battery connectors & terminals from Ampstead with rated current 16 A, rated voltage 24 V DC, mounting Flush.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s08",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 9700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000367",
+    "slug": "ampstead-am-bct-100-12vdc",
+    "sku": "REN-BCT-69845",
+    "mpn": "AM-BCT-100-12VDC",
+    "brand": "Ampstead",
+    "name": "Battery connectors & terminals, 100 A, 12 V DC, Flush",
+    "summary": "Battery connectors & terminals from Ampstead with rated current 100 A, rated voltage 12 V DC, mounting Flush.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s08",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 4500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000368",
+    "slug": "lumeris-lm-bct-400-230vac",
+    "sku": "REN-BCT-78606",
+    "mpn": "LM-BCT-400-230VAC",
+    "brand": "Lumeris",
+    "name": "Battery connectors & terminals, 400 A, 230 V AC, Flush",
+    "summary": "Battery connectors & terminals from Lumeris with rated current 400 A, rated voltage 230 V AC, mounting Flush.",
+    "categoryId": "c09",
+    "subcategoryId": "c09s08",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 5000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

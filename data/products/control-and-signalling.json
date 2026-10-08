@@ -1,0 +1,1900 @@
+[
+  {
+    "id": "p_000139",
+    "slug": "ampstead-am-pss-100",
+    "sku": "REN-PSS-11499",
+    "mpn": "AM-PSS-100",
+    "brand": "Ampstead",
+    "name": "Pushbuttons & selector switches, 100 A, Green, 8 x RJ45, 4 C/O",
+    "summary": "Pushbuttons & selector switches from Ampstead with rated current 100 A, colour Green, ports 8 x RJ45, contacts 4 C/O.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 8600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000140",
+    "slug": "kapbridge-controls-kc-pss-100",
+    "sku": "REN-PSS-19904",
+    "mpn": "KC-PSS-100",
+    "brand": "Kapbridge Controls",
+    "name": "Pushbuttons & selector switches, 100 A, Green, 5 x RJ45 + 1 x SFP, 4 C/O",
+    "summary": "Pushbuttons & selector switches from Kapbridge Controls with rated current 100 A, colour Green, ports 5 x RJ45 + 1 x SFP, contacts 4 C/O.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 9900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000141",
+    "slug": "ampstead-am-pss-6",
+    "sku": "REN-PSS-18773",
+    "mpn": "AM-PSS-6",
+    "brand": "Ampstead",
+    "name": "Pushbuttons & selector switches, 6 A, Red, 8 x RJ45, 1 C/O",
+    "summary": "Pushbuttons & selector switches from Ampstead with rated current 6 A, colour Red, ports 8 x RJ45, contacts 1 C/O.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 24100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000142",
+    "slug": "lumeris-lm-pss-20",
+    "sku": "REN-PSS-65216",
+    "mpn": "LM-PSS-20",
+    "brand": "Lumeris",
+    "name": "Pushbuttons & selector switches, 20 A, Red, 8 x RJ45, 2 C/O",
+    "summary": "Pushbuttons & selector switches from Lumeris with rated current 20 A, colour Red, ports 8 x RJ45, contacts 2 C/O.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000143",
+    "slug": "kapbridge-controls-kc-pss-16",
+    "sku": "REN-PSS-69428",
+    "mpn": "KC-PSS-16",
+    "brand": "Kapbridge Controls",
+    "name": "Pushbuttons & selector switches, 16 A, Green, 5 x RJ45 + 1 x SFP, 1 C/O",
+    "summary": "Pushbuttons & selector switches from Kapbridge Controls with rated current 16 A, colour Green, ports 5 x RJ45 + 1 x SFP, contacts 1 C/O.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 21500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000144",
+    "slug": "duravolt-sample-co-dv-pss-63",
+    "sku": "REN-PSS-63380",
+    "mpn": "DV-PSS-63",
+    "brand": "Duravolt Sample Co.",
+    "name": "Pushbuttons & selector switches, 63 A, White, 5 x RJ45 + 1 x SFP, 4 C/O",
+    "summary": "Pushbuttons & selector switches from Duravolt Sample Co. with rated current 63 A, colour White, ports 5 x RJ45 + 1 x SFP, contacts 4 C/O.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 7400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000145",
+    "slug": "lumeris-lm-meta-809",
+    "sku": "REN-META-73833",
+    "mpn": "LM-META-809",
+    "brand": "Lumeris",
+    "name": "Metal pushbuttons, White, Surface, -25 to 70 °C",
+    "summary": "Metal pushbuttons from Lumeris with colour White, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s02",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 21300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000146",
+    "slug": "ampstead-am-meta-959",
+    "sku": "REN-META-43659",
+    "mpn": "AM-META-959",
+    "brand": "Ampstead",
+    "name": "Metal pushbuttons, Black, DIN rail, -20 to 60 °C",
+    "summary": "Metal pushbuttons from Ampstead with colour Black, mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s02",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 12200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000147",
+    "slug": "voltara-vt-meta-804",
+    "sku": "REN-META-43990",
+    "mpn": "VT-META-804",
+    "brand": "Voltara",
+    "name": "Metal pushbuttons, Black, DIN rail, 0 to 50 °C",
+    "summary": "Metal pushbuttons from Voltara with colour Black, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s02",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000148",
+    "slug": "kapbridge-controls-kc-meta-760",
+    "sku": "REN-META-52139",
+    "mpn": "KC-META-760",
+    "brand": "Kapbridge Controls",
+    "name": "Metal pushbuttons, Black, Surface, -20 to 60 °C",
+    "summary": "Metal pushbuttons from Kapbridge Controls with colour Black, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s02",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 23200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000149",
+    "slug": "kapbridge-controls-kc-meta-103",
+    "sku": "REN-META-96585",
+    "mpn": "KC-META-103",
+    "brand": "Kapbridge Controls",
+    "name": "Metal pushbuttons, Green, Panel cut-out, -20 to 60 °C",
+    "summary": "Metal pushbuttons from Kapbridge Controls with colour Green, mounting Panel cut-out, operating temperature -20 to 60 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s02",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 9800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000150",
+    "slug": "voltara-vt-opcd-ip67",
+    "sku": "REN-OPCD-78515",
+    "mpn": "VT-OPCD-IP67",
+    "brand": "Voltara",
+    "name": "One-piece control devices, DIN rail, -20 to 60 °C, IP67",
+    "summary": "One-piece control devices from Voltara with mounting DIN rail, operating temperature -20 to 60 °C, ip rating IP67.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s03",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 28100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000151",
+    "slug": "ampstead-am-opcd-ip54",
+    "sku": "REN-OPCD-64419",
+    "mpn": "AM-OPCD-IP54",
+    "brand": "Ampstead",
+    "name": "One-piece control devices, Panel cut-out, -20 to 60 °C, IP54",
+    "summary": "One-piece control devices from Ampstead with mounting Panel cut-out, operating temperature -20 to 60 °C, ip rating IP54.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s03",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 206000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000152",
+    "slug": "ampstead-am-opcd-ip67",
+    "sku": "REN-OPCD-35080",
+    "mpn": "AM-OPCD-IP67",
+    "brand": "Ampstead",
+    "name": "One-piece control devices, Flush, -20 to 60 °C, IP67",
+    "summary": "One-piece control devices from Ampstead with mounting Flush, operating temperature -20 to 60 °C, ip rating IP67.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s03",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 145700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000153",
+    "slug": "kapbridge-controls-kc-opcd-ip44",
+    "sku": "REN-OPCD-13770",
+    "mpn": "KC-OPCD-IP44",
+    "brand": "Kapbridge Controls",
+    "name": "One-piece control devices, Surface, 0 to 50 °C, IP44",
+    "summary": "One-piece control devices from Kapbridge Controls with mounting Surface, operating temperature 0 to 50 °C, ip rating IP44.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s03",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 210900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000154",
+    "slug": "lumeris-lm-opcd-ip20",
+    "sku": "REN-OPCD-62649",
+    "mpn": "LM-OPCD-IP20",
+    "brand": "Lumeris",
+    "name": "One-piece control devices, DIN rail, -25 to 70 °C, IP20",
+    "summary": "One-piece control devices from Lumeris with mounting DIN rail, operating temperature -25 to 70 °C, ip rating IP20.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s03",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 63400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000155",
+    "slug": "lumeris-lm-rcs-16",
+    "sku": "REN-RCS-91202",
+    "mpn": "LM-RCS-16",
+    "brand": "Lumeris",
+    "name": "Rotary cam switches, 16 A, 4 x RJ45, 1 C/O",
+    "summary": "Rotary cam switches from Lumeris with rated current 16 A, ports 4 x RJ45, contacts 1 C/O.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 231300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000156",
+    "slug": "kapbridge-controls-kc-rcs-6",
+    "sku": "REN-RCS-89475",
+    "mpn": "KC-RCS-6",
+    "brand": "Kapbridge Controls",
+    "name": "Rotary cam switches, 6 A, 8 x RJ45, 1 C/O",
+    "summary": "Rotary cam switches from Kapbridge Controls with rated current 6 A, ports 8 x RJ45, contacts 1 C/O.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 15700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000157",
+    "slug": "ampstead-am-rcs-32",
+    "sku": "REN-RCS-50033",
+    "mpn": "AM-RCS-32",
+    "brand": "Ampstead",
+    "name": "Rotary cam switches, 32 A, 5 x RJ45 + 1 x SFP, 2 NO",
+    "summary": "Rotary cam switches from Ampstead with rated current 32 A, ports 5 x RJ45 + 1 x SFP, contacts 2 NO.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 216100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000158",
+    "slug": "ampstead-am-rcs-6",
+    "sku": "REN-RCS-53209",
+    "mpn": "AM-RCS-6",
+    "brand": "Ampstead",
+    "name": "Rotary cam switches, 6 A, 4 x RJ45, 1 C/O",
+    "summary": "Rotary cam switches from Ampstead with rated current 6 A, ports 4 x RJ45, contacts 1 C/O.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 177200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000159",
+    "slug": "voltara-vt-rcs-400",
+    "sku": "REN-RCS-88338",
+    "mpn": "VT-RCS-400",
+    "brand": "Voltara",
+    "name": "Rotary cam switches, 400 A, 5 x RJ45 + 1 x SFP, 2 C/O",
+    "summary": "Rotary cam switches from Voltara with rated current 400 A, ports 5 x RJ45 + 1 x SFP, contacts 2 C/O.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 150900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000160",
+    "slug": "norvane-nv-rcs-250",
+    "sku": "REN-RCS-66601",
+    "mpn": "NV-RCS-250",
+    "brand": "Norvane",
+    "name": "Rotary cam switches, 250 A, 5 x RJ45 + 1 x SFP, 4 C/O",
+    "summary": "Rotary cam switches from Norvane with rated current 250 A, ports 5 x RJ45 + 1 x SFP, contacts 4 C/O.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 107400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000161",
+    "slug": "norvane-nv-indi-12vdc",
+    "sku": "REN-INDI-26606",
+    "mpn": "NV-INDI-12VDC",
+    "brand": "Norvane",
+    "name": "Indicator lights, 12 V DC, Grey, 1200 lm",
+    "summary": "Indicator lights from Norvane with rated voltage 12 V DC, colour Grey, luminous flux 1200 lm.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 5600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000162",
+    "slug": "norvane-nv-indi-230vac",
+    "sku": "REN-INDI-59448",
+    "mpn": "NV-INDI-230VAC",
+    "brand": "Norvane",
+    "name": "Indicator lights, 230 V AC, Green, 2400 lm",
+    "summary": "Indicator lights from Norvane with rated voltage 230 V AC, colour Green, luminous flux 2400 lm.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 16200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000163",
+    "slug": "ampstead-am-indi-12vdc",
+    "sku": "REN-INDI-28284",
+    "mpn": "AM-INDI-12VDC",
+    "brand": "Ampstead",
+    "name": "Indicator lights, 12 V DC, Red, 6500 lm",
+    "summary": "Indicator lights from Ampstead with rated voltage 12 V DC, colour Red, luminous flux 6500 lm.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 13000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000164",
+    "slug": "voltara-vt-indi-12vdc",
+    "sku": "REN-INDI-61283",
+    "mpn": "VT-INDI-12VDC",
+    "brand": "Voltara",
+    "name": "Indicator lights, 12 V DC, Red, 1200 lm",
+    "summary": "Indicator lights from Voltara with rated voltage 12 V DC, colour Red, luminous flux 1200 lm.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 11000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000165",
+    "slug": "norvane-nv-indi-400vac",
+    "sku": "REN-INDI-68289",
+    "mpn": "NV-INDI-400VAC",
+    "brand": "Norvane",
+    "name": "Indicator lights, 400 V AC, Grey, 4000 lm",
+    "summary": "Indicator lights from Norvane with rated voltage 400 V AC, colour Grey, luminous flux 4000 lm.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000166",
+    "slug": "ampstead-am-pcs-ip54",
+    "sku": "REN-PCS-29801",
+    "mpn": "AM-PCS-IP54",
+    "brand": "Ampstead",
+    "name": "Pendant control stations, IP54, White, DIN rail",
+    "summary": "Pendant control stations from Ampstead with ip rating IP54, colour White, mounting DIN rail.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s06",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 92900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000167",
+    "slug": "ampstead-am-pcs-ip66",
+    "sku": "REN-PCS-30298",
+    "mpn": "AM-PCS-IP66",
+    "brand": "Ampstead",
+    "name": "Pendant control stations, IP66, White, Flush",
+    "summary": "Pendant control stations from Ampstead with ip rating IP66, colour White, mounting Flush.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s06",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 225000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000168",
+    "slug": "lumeris-lm-pcs-ip65",
+    "sku": "REN-PCS-16576",
+    "mpn": "LM-PCS-IP65",
+    "brand": "Lumeris",
+    "name": "Pendant control stations, IP65, Grey, Surface",
+    "summary": "Pendant control stations from Lumeris with ip rating IP65, colour Grey, mounting Surface.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s06",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 230900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000169",
+    "slug": "voltara-vt-pcs-ip67",
+    "sku": "REN-PCS-27286",
+    "mpn": "VT-PCS-IP67",
+    "brand": "Voltara",
+    "name": "Pendant control stations, IP67, Grey, Flush",
+    "summary": "Pendant control stations from Voltara with ip rating IP67, colour Grey, mounting Flush.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s06",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 186800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000170",
+    "slug": "voltara-vt-pcs-ip67-2",
+    "sku": "REN-PCS-56003",
+    "mpn": "VT-PCS-IP67-2",
+    "brand": "Voltara",
+    "name": "Pendant control stations, IP67, Red, Panel cut-out",
+    "summary": "Pendant control stations from Voltara with ip rating IP67, colour Red, mounting Panel cut-out.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s06",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 74400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000171",
+    "slug": "lumeris-lm-joys-659",
+    "sku": "REN-JOYS-62936",
+    "mpn": "LM-JOYS-659",
+    "brand": "Lumeris",
+    "name": "Joysticks, Yellow, Surface, -25 to 70 °C",
+    "summary": "Joysticks from Lumeris with colour Yellow, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s07",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 159500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000172",
+    "slug": "ampstead-am-joys-850",
+    "sku": "REN-JOYS-28601",
+    "mpn": "AM-JOYS-850",
+    "brand": "Ampstead",
+    "name": "Joysticks, Yellow, DIN rail, -25 to 70 °C",
+    "summary": "Joysticks from Ampstead with colour Yellow, mounting DIN rail, operating temperature -25 to 70 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s07",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 19700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000173",
+    "slug": "ampstead-am-joys-749",
+    "sku": "REN-JOYS-58825",
+    "mpn": "AM-JOYS-749",
+    "brand": "Ampstead",
+    "name": "Joysticks, Grey, Surface, 0 to 50 °C",
+    "summary": "Joysticks from Ampstead with colour Grey, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s07",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 99700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000174",
+    "slug": "norvane-nv-joys-708",
+    "sku": "REN-JOYS-11660",
+    "mpn": "NV-JOYS-708",
+    "brand": "Norvane",
+    "name": "Joysticks, Green, Surface, -20 to 60 °C",
+    "summary": "Joysticks from Norvane with colour Green, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s07",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 38200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000175",
+    "slug": "kapbridge-controls-kc-joys-893",
+    "sku": "REN-JOYS-25459",
+    "mpn": "KC-JOYS-893",
+    "brand": "Kapbridge Controls",
+    "name": "Joysticks, White, Surface, -20 to 60 °C",
+    "summary": "Joysticks from Kapbridge Controls with colour White, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s07",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 233700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000176",
+    "slug": "kapbridge-controls-kc-joys-877",
+    "sku": "REN-JOYS-32636",
+    "mpn": "KC-JOYS-877",
+    "brand": "Kapbridge Controls",
+    "name": "Joysticks, Green, Flush, -25 to 70 °C",
+    "summary": "Joysticks from Kapbridge Controls with colour Green, mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s07",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 102400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000177",
+    "slug": "duravolt-sample-co-dv-stb-ip66",
+    "sku": "REN-STB-86438",
+    "mpn": "DV-STB-IP66",
+    "brand": "Duravolt Sample Co.",
+    "name": "Signal towers & beacons, IP66, Green, Stainless steel 316",
+    "summary": "Signal towers & beacons from Duravolt Sample Co. with ip rating IP66, colour Green, material Stainless steel 316.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s08",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 171100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000178",
+    "slug": "norvane-nv-stb-ip66",
+    "sku": "REN-STB-79579",
+    "mpn": "NV-STB-IP66",
+    "brand": "Norvane",
+    "name": "Signal towers & beacons, IP66, Black, Stainless steel 316",
+    "summary": "Signal towers & beacons from Norvane with ip rating IP66, colour Black, material Stainless steel 316.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s08",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 128000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000179",
+    "slug": "ampstead-am-stb-ip54",
+    "sku": "REN-STB-82248",
+    "mpn": "AM-STB-IP54",
+    "brand": "Ampstead",
+    "name": "Signal towers & beacons, IP54, Grey, Polycarbonate",
+    "summary": "Signal towers & beacons from Ampstead with ip rating IP54, colour Grey, material Polycarbonate.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s08",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 35500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000180",
+    "slug": "voltara-vt-stb-ip66",
+    "sku": "REN-STB-60865",
+    "mpn": "VT-STB-IP66",
+    "brand": "Voltara",
+    "name": "Signal towers & beacons, IP66, Grey, Polycarbonate",
+    "summary": "Signal towers & beacons from Voltara with ip rating IP66, colour Grey, material Polycarbonate.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s08",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 20000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000181",
+    "slug": "lumeris-lm-stb-ip54",
+    "sku": "REN-STB-18225",
+    "mpn": "LM-STB-IP54",
+    "brand": "Lumeris",
+    "name": "Signal towers & beacons, IP54, Black, Powder-coated steel",
+    "summary": "Signal towers & beacons from Lumeris with ip rating IP54, colour Black, material Powder-coated steel.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s08",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 185000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000182",
+    "slug": "lumeris-lm-sire-ip67",
+    "sku": "REN-SIRE-58902",
+    "mpn": "LM-SIRE-IP67",
+    "brand": "Lumeris",
+    "name": "Sirens & hooters, IP67, Panel cut-out, 0 to 50 °C",
+    "summary": "Sirens & hooters from Lumeris with ip rating IP67, mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s09",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 173900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000183",
+    "slug": "lumeris-lm-sire-ip54",
+    "sku": "REN-SIRE-39565",
+    "mpn": "LM-SIRE-IP54",
+    "brand": "Lumeris",
+    "name": "Sirens & hooters, IP54, Flush, 0 to 50 °C",
+    "summary": "Sirens & hooters from Lumeris with ip rating IP54, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s09",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 154100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000184",
+    "slug": "voltara-vt-sire-ip20",
+    "sku": "REN-SIRE-33941",
+    "mpn": "VT-SIRE-IP20",
+    "brand": "Voltara",
+    "name": "Sirens & hooters, IP20, Surface, 0 to 50 °C",
+    "summary": "Sirens & hooters from Voltara with ip rating IP20, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s09",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 176100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000185",
+    "slug": "duravolt-sample-co-dv-sire-ip67",
+    "sku": "REN-SIRE-86020",
+    "mpn": "DV-SIRE-IP67",
+    "brand": "Duravolt Sample Co.",
+    "name": "Sirens & hooters, IP67, Surface, 0 to 50 °C",
+    "summary": "Sirens & hooters from Duravolt Sample Co. with ip rating IP67, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s09",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 86900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000186",
+    "slug": "duravolt-sample-co-dv-sire-ip66",
+    "sku": "REN-SIRE-97826",
+    "mpn": "DV-SIRE-IP66",
+    "brand": "Duravolt Sample Co.",
+    "name": "Sirens & hooters, IP66, Surface, -25 to 70 °C",
+    "summary": "Sirens & hooters from Duravolt Sample Co. with ip rating IP66, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c04",
+    "subcategoryId": "c04s09",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 164600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

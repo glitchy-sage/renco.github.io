@@ -1,0 +1,2329 @@
+[
+  {
+    "id": "p_000369",
+    "slug": "voltara-vt-pcb-400vac",
+    "sku": "REN-PCB-30244",
+    "mpn": "VT-PCB-400VAC",
+    "brand": "Voltara",
+    "name": "PCB relays, 400 V AC, 2 C/O, Panel cut-out",
+    "summary": "PCB relays from Voltara with rated voltage 400 V AC, contacts 2 C/O, mounting Panel cut-out.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 17100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000370",
+    "slug": "voltara-vt-pcb-230vac",
+    "sku": "REN-PCB-56327",
+    "mpn": "VT-PCB-230VAC",
+    "brand": "Voltara",
+    "name": "PCB relays, 230 V AC, 4 C/O, Flush",
+    "summary": "PCB relays from Voltara with rated voltage 230 V AC, contacts 4 C/O, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 17300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000371",
+    "slug": "norvane-nv-pcb-110vac",
+    "sku": "REN-PCB-61547",
+    "mpn": "NV-PCB-110VAC",
+    "brand": "Norvane",
+    "name": "PCB relays, 110 V AC, 2 C/O, Surface",
+    "summary": "PCB relays from Norvane with rated voltage 110 V AC, contacts 2 C/O, mounting Surface.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 18700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000372",
+    "slug": "norvane-nv-pcb-230vac",
+    "sku": "REN-PCB-62048",
+    "mpn": "NV-PCB-230VAC",
+    "brand": "Norvane",
+    "name": "PCB relays, 230 V AC, 2 NO, Flush",
+    "summary": "PCB relays from Norvane with rated voltage 230 V AC, contacts 2 NO, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 20600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000373",
+    "slug": "lumeris-lm-pcb-400vac",
+    "sku": "REN-PCB-87755",
+    "mpn": "LM-PCB-400VAC",
+    "brand": "Lumeris",
+    "name": "PCB relays, 400 V AC, 1 C/O, Surface",
+    "summary": "PCB relays from Lumeris with rated voltage 400 V AC, contacts 1 C/O, mounting Surface.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 9700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000374",
+    "slug": "voltara-vt-mini-230vac",
+    "sku": "REN-MINI-68482",
+    "mpn": "VT-MINI-230VAC",
+    "brand": "Voltara",
+    "name": "Miniature relays, 230 V AC, 1 C/O, Surface",
+    "summary": "Miniature relays from Voltara with rated voltage 230 V AC, contacts 1 C/O, mounting Surface.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 17900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000375",
+    "slug": "lumeris-lm-mini-230vac",
+    "sku": "REN-MINI-39985",
+    "mpn": "LM-MINI-230VAC",
+    "brand": "Lumeris",
+    "name": "Miniature relays, 230 V AC, 2 C/O, Surface",
+    "summary": "Miniature relays from Lumeris with rated voltage 230 V AC, contacts 2 C/O, mounting Surface.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 11900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000376",
+    "slug": "ampstead-am-mini-400vac",
+    "sku": "REN-MINI-38868",
+    "mpn": "AM-MINI-400VAC",
+    "brand": "Ampstead",
+    "name": "Miniature relays, 400 V AC, 2 C/O, Flush",
+    "summary": "Miniature relays from Ampstead with rated voltage 400 V AC, contacts 2 C/O, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000377",
+    "slug": "voltara-vt-mini-24vdc",
+    "sku": "REN-MINI-19148",
+    "mpn": "VT-MINI-24VDC",
+    "brand": "Voltara",
+    "name": "Miniature relays, 24 V DC, 1 C/O, Flush",
+    "summary": "Miniature relays from Voltara with rated voltage 24 V DC, contacts 1 C/O, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 23100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000378",
+    "slug": "lumeris-lm-mini-230vac-2",
+    "sku": "REN-MINI-52358",
+    "mpn": "LM-MINI-230VAC-2",
+    "brand": "Lumeris",
+    "name": "Miniature relays, 230 V AC, 4 C/O, Panel cut-out",
+    "summary": "Miniature relays from Lumeris with rated voltage 230 V AC, contacts 4 C/O, mounting Panel cut-out.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 12900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000379",
+    "slug": "lumeris-lm-rim-230vac",
+    "sku": "REN-RIM-69479",
+    "mpn": "LM-RIM-230VAC",
+    "brand": "Lumeris",
+    "name": "Relay interface modules, 230 V AC, 1 C/O, Surface",
+    "summary": "Relay interface modules from Lumeris with rated voltage 230 V AC, contacts 1 C/O, mounting Surface.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 10000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000380",
+    "slug": "lumeris-lm-rim-110vac",
+    "sku": "REN-RIM-47158",
+    "mpn": "LM-RIM-110VAC",
+    "brand": "Lumeris",
+    "name": "Relay interface modules, 110 V AC, 2 C/O, DIN rail",
+    "summary": "Relay interface modules from Lumeris with rated voltage 110 V AC, contacts 2 C/O, mounting DIN rail.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 18200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000381",
+    "slug": "lumeris-lm-rim-12vdc",
+    "sku": "REN-RIM-25573",
+    "mpn": "LM-RIM-12VDC",
+    "brand": "Lumeris",
+    "name": "Relay interface modules, 12 V DC, 2 NO, Flush",
+    "summary": "Relay interface modules from Lumeris with rated voltage 12 V DC, contacts 2 NO, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000382",
+    "slug": "duravolt-sample-co-dv-rim-12vdc",
+    "sku": "REN-RIM-25547",
+    "mpn": "DV-RIM-12VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Relay interface modules, 12 V DC, 4 C/O, Flush",
+    "summary": "Relay interface modules from Duravolt Sample Co. with rated voltage 12 V DC, contacts 4 C/O, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000383",
+    "slug": "lumeris-lm-rim-230vac-2",
+    "sku": "REN-RIM-29234",
+    "mpn": "LM-RIM-230VAC-2",
+    "brand": "Lumeris",
+    "name": "Relay interface modules, 230 V AC, 2 NO, Flush",
+    "summary": "Relay interface modules from Lumeris with rated voltage 230 V AC, contacts 2 NO, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 16300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000384",
+    "slug": "voltara-vt-rim-230vac",
+    "sku": "REN-RIM-92771",
+    "mpn": "VT-RIM-230VAC",
+    "brand": "Voltara",
+    "name": "Relay interface modules, 230 V AC, 4 C/O, Flush",
+    "summary": "Relay interface modules from Voltara with rated voltage 230 V AC, contacts 4 C/O, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 18100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000385",
+    "slug": "norvane-nv-modu-16-230vac",
+    "sku": "REN-MODU-19018",
+    "mpn": "NV-MODU-16-230VAC",
+    "brand": "Norvane",
+    "name": "Modular contactors, 16 A, 230 V AC, 2 NO",
+    "summary": "Modular contactors from Norvane with rated current 16 A, rated voltage 230 V AC, contacts 2 NO.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 188800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000386",
+    "slug": "duravolt-sample-co-dv-modu-16-110vac",
+    "sku": "REN-MODU-25762",
+    "mpn": "DV-MODU-16-110VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Modular contactors, 16 A, 110 V AC, 1 C/O",
+    "summary": "Modular contactors from Duravolt Sample Co. with rated current 16 A, rated voltage 110 V AC, contacts 1 C/O.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 298600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000387",
+    "slug": "norvane-nv-modu-20-400vac",
+    "sku": "REN-MODU-33179",
+    "mpn": "NV-MODU-20-400VAC",
+    "brand": "Norvane",
+    "name": "Modular contactors, 20 A, 400 V AC, 2 NO",
+    "summary": "Modular contactors from Norvane with rated current 20 A, rated voltage 400 V AC, contacts 2 NO.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 844000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000388",
+    "slug": "lumeris-lm-modu-20-24vdc",
+    "sku": "REN-MODU-43548",
+    "mpn": "LM-MODU-20-24VDC",
+    "brand": "Lumeris",
+    "name": "Modular contactors, 20 A, 24 V DC, 1 C/O",
+    "summary": "Modular contactors from Lumeris with rated current 20 A, rated voltage 24 V DC, contacts 1 C/O.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 326100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000389",
+    "slug": "voltara-vt-modu-400-110vac",
+    "sku": "REN-MODU-64169",
+    "mpn": "VT-MODU-400-110VAC",
+    "brand": "Voltara",
+    "name": "Modular contactors, 400 A, 110 V AC, 2 C/O",
+    "summary": "Modular contactors from Voltara with rated current 400 A, rated voltage 110 V AC, contacts 2 C/O.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 367500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000390",
+    "slug": "norvane-nv-ssr-24vdc",
+    "sku": "REN-SSR-82691",
+    "mpn": "NV-SSR-24VDC",
+    "brand": "Norvane",
+    "name": "Solid-state relays, 24 V DC, 4 C/O, Panel cut-out",
+    "summary": "Solid-state relays from Norvane with rated voltage 24 V DC, contacts 4 C/O, mounting Panel cut-out.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 22300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000391",
+    "slug": "kapbridge-controls-kc-ssr-12vdc",
+    "sku": "REN-SSR-98668",
+    "mpn": "KC-SSR-12VDC",
+    "brand": "Kapbridge Controls",
+    "name": "Solid-state relays, 12 V DC, 1 C/O, DIN rail",
+    "summary": "Solid-state relays from Kapbridge Controls with rated voltage 12 V DC, contacts 1 C/O, mounting DIN rail.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 11000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000392",
+    "slug": "voltara-vt-ssr-12vdc",
+    "sku": "REN-SSR-20897",
+    "mpn": "VT-SSR-12VDC",
+    "brand": "Voltara",
+    "name": "Solid-state relays, 12 V DC, 4 C/O, Flush",
+    "summary": "Solid-state relays from Voltara with rated voltage 12 V DC, contacts 4 C/O, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 8600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000393",
+    "slug": "ampstead-am-ssr-400vac",
+    "sku": "REN-SSR-76676",
+    "mpn": "AM-SSR-400VAC",
+    "brand": "Ampstead",
+    "name": "Solid-state relays, 400 V AC, 2 NO, Surface",
+    "summary": "Solid-state relays from Ampstead with rated voltage 400 V AC, contacts 2 NO, mounting Surface.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 11500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000394",
+    "slug": "ampstead-am-ssr-400vac-2",
+    "sku": "REN-SSR-34157",
+    "mpn": "AM-SSR-400VAC-2",
+    "brand": "Ampstead",
+    "name": "Solid-state relays, 400 V AC, 4 C/O, DIN rail",
+    "summary": "Solid-state relays from Ampstead with rated voltage 400 V AC, contacts 4 C/O, mounting DIN rail.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 10100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000395",
+    "slug": "norvane-nv-modu-110vac",
+    "sku": "REN-MODU-30836",
+    "mpn": "NV-MODU-110VAC",
+    "brand": "Norvane",
+    "name": "Modular timers, 110 V AC, 1 C/O, DIN rail",
+    "summary": "Modular timers from Norvane with rated voltage 110 V AC, contacts 1 C/O, mounting DIN rail.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 103200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000396",
+    "slug": "voltara-vt-modu-110vac",
+    "sku": "REN-MODU-90886",
+    "mpn": "VT-MODU-110VAC",
+    "brand": "Voltara",
+    "name": "Modular timers, 110 V AC, 4 C/O, Surface",
+    "summary": "Modular timers from Voltara with rated voltage 110 V AC, contacts 4 C/O, mounting Surface.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 91000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000397",
+    "slug": "norvane-nv-modu-24vdc",
+    "sku": "REN-MODU-57064",
+    "mpn": "NV-MODU-24VDC",
+    "brand": "Norvane",
+    "name": "Modular timers, 24 V DC, 1 C/O, Surface",
+    "summary": "Modular timers from Norvane with rated voltage 24 V DC, contacts 1 C/O, mounting Surface.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 57100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000398",
+    "slug": "kapbridge-controls-kc-modu-110vac",
+    "sku": "REN-MODU-22412",
+    "mpn": "KC-MODU-110VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Modular timers, 110 V AC, 2 C/O, Flush",
+    "summary": "Modular timers from Kapbridge Controls with rated voltage 110 V AC, contacts 2 C/O, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 18200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000399",
+    "slug": "norvane-nv-modu-230vac",
+    "sku": "REN-MODU-94126",
+    "mpn": "NV-MODU-230VAC",
+    "brand": "Norvane",
+    "name": "Modular timers, 230 V AC, 2 NO, DIN rail",
+    "summary": "Modular timers from Norvane with rated voltage 230 V AC, contacts 2 NO, mounting DIN rail.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 33500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000400",
+    "slug": "kapbridge-controls-kc-modu-110vac-2",
+    "sku": "REN-MODU-70431",
+    "mpn": "KC-MODU-110VAC-2",
+    "brand": "Kapbridge Controls",
+    "name": "Modular timers, 110 V AC, 1 C/O, Surface",
+    "summary": "Modular timers from Kapbridge Controls with rated voltage 110 V AC, contacts 1 C/O, mounting Surface.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 96900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000401",
+    "slug": "lumeris-lm-pmr-24vdc",
+    "sku": "REN-PMR-15874",
+    "mpn": "LM-PMR-24VDC",
+    "brand": "Lumeris",
+    "name": "Protection & monitoring relays, 24 V DC, 0.5, 1 C/O",
+    "summary": "Protection & monitoring relays from Lumeris with rated voltage 24 V DC, accuracy class 0.5, contacts 1 C/O.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 434400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000402",
+    "slug": "ampstead-am-pmr-12vdc",
+    "sku": "REN-PMR-40665",
+    "mpn": "AM-PMR-12VDC",
+    "brand": "Ampstead",
+    "name": "Protection & monitoring relays, 12 V DC, 0.5, 2 NO",
+    "summary": "Protection & monitoring relays from Ampstead with rated voltage 12 V DC, accuracy class 0.5, contacts 2 NO.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 597100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000403",
+    "slug": "ampstead-am-pmr-110vac",
+    "sku": "REN-PMR-66017",
+    "mpn": "AM-PMR-110VAC",
+    "brand": "Ampstead",
+    "name": "Protection & monitoring relays, 110 V AC, 1, 2 C/O",
+    "summary": "Protection & monitoring relays from Ampstead with rated voltage 110 V AC, accuracy class 1, contacts 2 C/O.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 448100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000404",
+    "slug": "kapbridge-controls-kc-pmr-110vac",
+    "sku": "REN-PMR-42986",
+    "mpn": "KC-PMR-110VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Protection & monitoring relays, 110 V AC, 0.5, 4 C/O",
+    "summary": "Protection & monitoring relays from Kapbridge Controls with rated voltage 110 V AC, accuracy class 0.5, contacts 4 C/O.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 425600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000405",
+    "slug": "duravolt-sample-co-dv-pmr-12vdc",
+    "sku": "REN-PMR-76466",
+    "mpn": "DV-PMR-12VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Protection & monitoring relays, 12 V DC, 1, 2 C/O",
+    "summary": "Protection & monitoring relays from Duravolt Sample Co. with rated voltage 12 V DC, accuracy class 1, contacts 2 C/O.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 527700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000406",
+    "slug": "ampstead-am-lcr-24vdc",
+    "sku": "REN-LCR-44890",
+    "mpn": "AM-LCR-24VDC",
+    "brand": "Ampstead",
+    "name": "Level control relays, 24 V DC, 1 C/O, Flush",
+    "summary": "Level control relays from Ampstead with rated voltage 24 V DC, contacts 1 C/O, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s08",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 20200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000407",
+    "slug": "norvane-nv-lcr-12vdc",
+    "sku": "REN-LCR-22084",
+    "mpn": "NV-LCR-12VDC",
+    "brand": "Norvane",
+    "name": "Level control relays, 12 V DC, 1 C/O, Surface",
+    "summary": "Level control relays from Norvane with rated voltage 12 V DC, contacts 1 C/O, mounting Surface.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s08",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 18300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000408",
+    "slug": "kapbridge-controls-kc-lcr-400vac",
+    "sku": "REN-LCR-70817",
+    "mpn": "KC-LCR-400VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Level control relays, 400 V AC, 1 C/O, Flush",
+    "summary": "Level control relays from Kapbridge Controls with rated voltage 400 V AC, contacts 1 C/O, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s08",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 14800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000409",
+    "slug": "ampstead-am-lcr-400vac",
+    "sku": "REN-LCR-17533",
+    "mpn": "AM-LCR-400VAC",
+    "brand": "Ampstead",
+    "name": "Level control relays, 400 V AC, 4 C/O, Flush",
+    "summary": "Level control relays from Ampstead with rated voltage 400 V AC, contacts 4 C/O, mounting Flush.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s08",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 23100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000410",
+    "slug": "norvane-nv-lcr-230vac",
+    "sku": "REN-LCR-44197",
+    "mpn": "NV-LCR-230VAC",
+    "brand": "Norvane",
+    "name": "Level control relays, 230 V AC, 4 C/O, Surface",
+    "summary": "Level control relays from Norvane with rated voltage 230 V AC, contacts 4 C/O, mounting Surface.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s08",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 19600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000411",
+    "slug": "norvane-nv-dts-6-24vdc",
+    "sku": "REN-DTS-85888",
+    "mpn": "NV-DTS-6-24VDC",
+    "brand": "Norvane",
+    "name": "Daylight & time switches, 6 A, 24 V DC, 8 x RJ45, 6500 lm, 2 NO",
+    "summary": "Daylight & time switches from Norvane with rated current 6 A, rated voltage 24 V DC, ports 8 x RJ45, luminous flux 6500 lm, contacts 2 NO.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s09",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 120800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000412",
+    "slug": "kapbridge-controls-kc-dts-20-24vdc",
+    "sku": "REN-DTS-91632",
+    "mpn": "KC-DTS-20-24VDC",
+    "brand": "Kapbridge Controls",
+    "name": "Daylight & time switches, 20 A, 24 V DC, 5 x RJ45 + 1 x SFP, 1200 lm, 1 C/O",
+    "summary": "Daylight & time switches from Kapbridge Controls with rated current 20 A, rated voltage 24 V DC, ports 5 x RJ45 + 1 x SFP, luminous flux 1200 lm, contacts 1 C/O.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s09",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 233500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000413",
+    "slug": "kapbridge-controls-kc-dts-20-230vac",
+    "sku": "REN-DTS-23156",
+    "mpn": "KC-DTS-20-230VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Daylight & time switches, 20 A, 230 V AC, 8 x RJ45, 1200 lm, 2 C/O",
+    "summary": "Daylight & time switches from Kapbridge Controls with rated current 20 A, rated voltage 230 V AC, ports 8 x RJ45, luminous flux 1200 lm, contacts 2 C/O.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s09",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 173400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000414",
+    "slug": "norvane-nv-dts-16-230vac",
+    "sku": "REN-DTS-93549",
+    "mpn": "NV-DTS-16-230VAC",
+    "brand": "Norvane",
+    "name": "Daylight & time switches, 16 A, 230 V AC, 5 x RJ45 + 1 x SFP, 4000 lm, 2 NO",
+    "summary": "Daylight & time switches from Norvane with rated current 16 A, rated voltage 230 V AC, ports 5 x RJ45 + 1 x SFP, luminous flux 4000 lm, contacts 2 NO.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s09",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 111100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000415",
+    "slug": "norvane-nv-dts-250-110vac",
+    "sku": "REN-DTS-37104",
+    "mpn": "NV-DTS-250-110VAC",
+    "brand": "Norvane",
+    "name": "Daylight & time switches, 250 A, 110 V AC, 4 x RJ45, 4000 lm, 4 C/O",
+    "summary": "Daylight & time switches from Norvane with rated current 250 A, rated voltage 110 V AC, ports 4 x RJ45, luminous flux 4000 lm, contacts 4 C/O.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s09",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 154200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000416",
+    "slug": "voltara-vt-dts-20-24vdc",
+    "sku": "REN-DTS-69000",
+    "mpn": "VT-DTS-20-24VDC",
+    "brand": "Voltara",
+    "name": "Daylight & time switches, 20 A, 24 V DC, 8 x RJ45, 1200 lm, 4 C/O",
+    "summary": "Daylight & time switches from Voltara with rated current 20 A, rated voltage 24 V DC, ports 8 x RJ45, luminous flux 1200 lm, contacts 4 C/O.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s09",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 176400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000417",
+    "slug": "kapbridge-controls-kc-sign-400vac",
+    "sku": "REN-SIGN-16287",
+    "mpn": "KC-SIGN-400VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Signal converters, 400 V AC, Panel cut-out, -20 to 60 °C",
+    "summary": "Signal converters from Kapbridge Controls with rated voltage 400 V AC, mounting Panel cut-out, operating temperature -20 to 60 °C.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 63400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000418",
+    "slug": "norvane-nv-sign-24vdc",
+    "sku": "REN-SIGN-78972",
+    "mpn": "NV-SIGN-24VDC",
+    "brand": "Norvane",
+    "name": "Signal converters, 24 V DC, DIN rail, -20 to 60 °C",
+    "summary": "Signal converters from Norvane with rated voltage 24 V DC, mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 155900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000419",
+    "slug": "lumeris-lm-sign-110vac",
+    "sku": "REN-SIGN-45728",
+    "mpn": "LM-SIGN-110VAC",
+    "brand": "Lumeris",
+    "name": "Signal converters, 110 V AC, Panel cut-out, -20 to 60 °C",
+    "summary": "Signal converters from Lumeris with rated voltage 110 V AC, mounting Panel cut-out, operating temperature -20 to 60 °C.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 57100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000420",
+    "slug": "duravolt-sample-co-dv-sign-110vac",
+    "sku": "REN-SIGN-73737",
+    "mpn": "DV-SIGN-110VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Signal converters, 110 V AC, Surface, 0 to 50 °C",
+    "summary": "Signal converters from Duravolt Sample Co. with rated voltage 110 V AC, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 43500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000421",
+    "slug": "voltara-vt-sign-12vdc",
+    "sku": "REN-SIGN-24878",
+    "mpn": "VT-SIGN-12VDC",
+    "brand": "Voltara",
+    "name": "Signal converters, 12 V DC, DIN rail, -20 to 60 °C",
+    "summary": "Signal converters from Voltara with rated voltage 12 V DC, mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c10",
+    "subcategoryId": "c10s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 164600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000422",
+    "slug": "voltara-vt-pit-100-110vac-ip44",
+    "sku": "REN-PIT-40415",
+    "mpn": "VT-PIT-100-110VAC-IP44",
+    "brand": "Voltara",
+    "name": "Plug-in timers, 100 A, 110 V AC, IP44, 100 mm, 10-35 mm²",
+    "summary": "Plug-in timers from Voltara with rated current 100 A, rated voltage 110 V AC, ip rating IP44, length 100 mm, cable capacity 10-35 mm².",
+    "categoryId": "c10",
+    "subcategoryId": "c10s11",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 80800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000423",
+    "slug": "norvane-nv-pit-250-24vdc-ip20",
+    "sku": "REN-PIT-64609",
+    "mpn": "NV-PIT-250-24VDC-IP20",
+    "brand": "Norvane",
+    "name": "Plug-in timers, 250 A, 24 V DC, IP20, 250 mm, 1.5-10 mm²",
+    "summary": "Plug-in timers from Norvane with rated current 250 A, rated voltage 24 V DC, ip rating IP20, length 250 mm, cable capacity 1.5-10 mm².",
+    "categoryId": "c10",
+    "subcategoryId": "c10s11",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 127400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000424",
+    "slug": "voltara-vt-pit-20-110vac-ip54",
+    "sku": "REN-PIT-79368",
+    "mpn": "VT-PIT-20-110VAC-IP54",
+    "brand": "Voltara",
+    "name": "Plug-in timers, 20 A, 110 V AC, IP54, 2000 mm, 4-16 mm²",
+    "summary": "Plug-in timers from Voltara with rated current 20 A, rated voltage 110 V AC, ip rating IP54, length 2000 mm, cable capacity 4-16 mm².",
+    "categoryId": "c10",
+    "subcategoryId": "c10s11",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "4-16",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 80800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000425",
+    "slug": "lumeris-lm-pit-400-230vac-ip44",
+    "sku": "REN-PIT-72297",
+    "mpn": "LM-PIT-400-230VAC-IP44",
+    "brand": "Lumeris",
+    "name": "Plug-in timers, 400 A, 230 V AC, IP44, 100 mm, 4-16 mm²",
+    "summary": "Plug-in timers from Lumeris with rated current 400 A, rated voltage 230 V AC, ip rating IP44, length 100 mm, cable capacity 4-16 mm².",
+    "categoryId": "c10",
+    "subcategoryId": "c10s11",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "4-16",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 151200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000426",
+    "slug": "norvane-nv-pit-6-12vdc-ip65",
+    "sku": "REN-PIT-80118",
+    "mpn": "NV-PIT-6-12VDC-IP65",
+    "brand": "Norvane",
+    "name": "Plug-in timers, 6 A, 12 V DC, IP65, 2000 mm, 1.5-10 mm²",
+    "summary": "Plug-in timers from Norvane with rated current 6 A, rated voltage 12 V DC, ip rating IP65, length 2000 mm, cable capacity 1.5-10 mm².",
+    "categoryId": "c10",
+    "subcategoryId": "c10s11",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 82400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

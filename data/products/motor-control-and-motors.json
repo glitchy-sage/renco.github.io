@@ -1,0 +1,1918 @@
+[
+  {
+    "id": "p_000001",
+    "slug": "lumeris-lm-cont-3p-11kw-110vac",
+    "sku": "REN-CONT-39033",
+    "mpn": "LM-CONT-3P-11KW-110VAC",
+    "brand": "Lumeris",
+    "name": "Contactor, 3 poles, 11 kW, 110 V AC coil, 2NC auxiliary",
+    "summary": "Contactor from Lumeris with poles 3, ac-3 rating 11 kW, coil voltage 110 V AC, auxiliary contacts 2NC.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s01",
+    "specs": [
+      {
+        "label": "Poles",
+        "value": "3"
+      },
+      {
+        "label": "AC-3 rating",
+        "value": "11",
+        "unit": "kW"
+      },
+      {
+        "label": "Coil voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Auxiliary contacts",
+        "value": "2NC"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 438900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000002",
+    "slug": "duravolt-sample-co-dv-cont-3p-5-5kw-230vac",
+    "sku": "REN-CONT-34615",
+    "mpn": "DV-CONT-3P-5.5KW-230VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Contactor, 3 poles, 5.5 kW, 230 V AC coil, 1NC auxiliary",
+    "summary": "Contactor from Duravolt Sample Co. with poles 3, ac-3 rating 5.5 kW, coil voltage 230 V AC, auxiliary contacts 1NC.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s01",
+    "specs": [
+      {
+        "label": "Poles",
+        "value": "3"
+      },
+      {
+        "label": "AC-3 rating",
+        "value": "5.5",
+        "unit": "kW"
+      },
+      {
+        "label": "Coil voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Auxiliary contacts",
+        "value": "1NC"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 660400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000003",
+    "slug": "duravolt-sample-co-dv-cont-4p-22kw-230vac",
+    "sku": "REN-CONT-71391",
+    "mpn": "DV-CONT-4P-22KW-230VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Contactor, 4 poles, 22 kW, 230 V AC coil, 2NO auxiliary",
+    "summary": "Contactor from Duravolt Sample Co. with poles 4, ac-3 rating 22 kW, coil voltage 230 V AC, auxiliary contacts 2NO.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s01",
+    "specs": [
+      {
+        "label": "Poles",
+        "value": "4"
+      },
+      {
+        "label": "AC-3 rating",
+        "value": "22",
+        "unit": "kW"
+      },
+      {
+        "label": "Coil voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Auxiliary contacts",
+        "value": "2NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 252100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000004",
+    "slug": "lumeris-lm-cont-4p-22kw-24vac",
+    "sku": "REN-CONT-27867",
+    "mpn": "LM-CONT-4P-22KW-24VAC",
+    "brand": "Lumeris",
+    "name": "Contactor, 4 poles, 22 kW, 24 V AC coil, 1NC auxiliary",
+    "summary": "Contactor from Lumeris with poles 4, ac-3 rating 22 kW, coil voltage 24 V AC, auxiliary contacts 1NC.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s01",
+    "specs": [
+      {
+        "label": "Poles",
+        "value": "4"
+      },
+      {
+        "label": "AC-3 rating",
+        "value": "22",
+        "unit": "kW"
+      },
+      {
+        "label": "Coil voltage",
+        "value": "24 V AC"
+      },
+      {
+        "label": "Auxiliary contacts",
+        "value": "1NC"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 894000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000005",
+    "slug": "voltara-vt-cont-3p-11kw-24vdc",
+    "sku": "REN-CONT-63725",
+    "mpn": "VT-CONT-3P-11KW-24VDC",
+    "brand": "Voltara",
+    "name": "Contactor, 3 poles, 11 kW, 24 V DC coil, 1NO auxiliary",
+    "summary": "Contactor from Voltara with poles 3, ac-3 rating 11 kW, coil voltage 24 V DC, auxiliary contacts 1NO.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s01",
+    "specs": [
+      {
+        "label": "Poles",
+        "value": "3"
+      },
+      {
+        "label": "AC-3 rating",
+        "value": "11",
+        "unit": "kW"
+      },
+      {
+        "label": "Coil voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Auxiliary contacts",
+        "value": "1NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 627500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000006",
+    "slug": "ampstead-am-dss-6",
+    "sku": "REN-DSS-97736",
+    "mpn": "AM-DSS-6",
+    "brand": "Ampstead",
+    "name": "DOL & soft starters, 6 A, Flush, 0 to 50 °C",
+    "summary": "DOL & soft starters from Ampstead with rated current 6 A, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 880300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000007",
+    "slug": "duravolt-sample-co-dv-dss-20",
+    "sku": "REN-DSS-42211",
+    "mpn": "DV-DSS-20",
+    "brand": "Duravolt Sample Co.",
+    "name": "DOL & soft starters, 20 A, Surface, -25 to 70 °C",
+    "summary": "DOL & soft starters from Duravolt Sample Co. with rated current 20 A, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 409400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000008",
+    "slug": "duravolt-sample-co-dv-dss-63",
+    "sku": "REN-DSS-77837",
+    "mpn": "DV-DSS-63",
+    "brand": "Duravolt Sample Co.",
+    "name": "DOL & soft starters, 63 A, Flush, -20 to 60 °C",
+    "summary": "DOL & soft starters from Duravolt Sample Co. with rated current 63 A, mounting Flush, operating temperature -20 to 60 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 333000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000009",
+    "slug": "kapbridge-controls-kc-dss-100",
+    "sku": "REN-DSS-50113",
+    "mpn": "KC-DSS-100",
+    "brand": "Kapbridge Controls",
+    "name": "DOL & soft starters, 100 A, DIN rail, -25 to 70 °C",
+    "summary": "DOL & soft starters from Kapbridge Controls with rated current 100 A, mounting DIN rail, operating temperature -25 to 70 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 864300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000010",
+    "slug": "norvane-nv-dss-20",
+    "sku": "REN-DSS-28579",
+    "mpn": "NV-DSS-20",
+    "brand": "Norvane",
+    "name": "DOL & soft starters, 20 A, DIN rail, 0 to 50 °C",
+    "summary": "DOL & soft starters from Norvane with rated current 20 A, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 493200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000011",
+    "slug": "duravolt-sample-co-dv-lbcs-250",
+    "sku": "REN-LBCS-65508",
+    "mpn": "DV-LBCS-250",
+    "brand": "Duravolt Sample Co.",
+    "name": "Load break & changeover switches, 250 A, 8 x RJ45, 4 C/O",
+    "summary": "Load break & changeover switches from Duravolt Sample Co. with rated current 250 A, ports 8 x RJ45, contacts 4 C/O.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 20900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000012",
+    "slug": "norvane-nv-lbcs-20",
+    "sku": "REN-LBCS-84995",
+    "mpn": "NV-LBCS-20",
+    "brand": "Norvane",
+    "name": "Load break & changeover switches, 20 A, 8 x RJ45, 1 C/O",
+    "summary": "Load break & changeover switches from Norvane with rated current 20 A, ports 8 x RJ45, contacts 1 C/O.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 34900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000013",
+    "slug": "voltara-vt-lbcs-63",
+    "sku": "REN-LBCS-24574",
+    "mpn": "VT-LBCS-63",
+    "brand": "Voltara",
+    "name": "Load break & changeover switches, 63 A, 5 x RJ45 + 1 x SFP, 4 C/O",
+    "summary": "Load break & changeover switches from Voltara with rated current 63 A, ports 5 x RJ45 + 1 x SFP, contacts 4 C/O.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 49600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000014",
+    "slug": "voltara-vt-lbcs-6",
+    "sku": "REN-LBCS-43510",
+    "mpn": "VT-LBCS-6",
+    "brand": "Voltara",
+    "name": "Load break & changeover switches, 6 A, 5 x RJ45 + 1 x SFP, 4 C/O",
+    "summary": "Load break & changeover switches from Voltara with rated current 6 A, ports 5 x RJ45 + 1 x SFP, contacts 4 C/O.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 26500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000015",
+    "slug": "norvane-nv-lbcs-100",
+    "sku": "REN-LBCS-57509",
+    "mpn": "NV-LBCS-100",
+    "brand": "Norvane",
+    "name": "Load break & changeover switches, 100 A, 8 x RJ45, 2 C/O",
+    "summary": "Load break & changeover switches from Norvane with rated current 100 A, ports 8 x RJ45, contacts 2 C/O.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 129100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000016",
+    "slug": "kapbridge-controls-kc-lbcs-100",
+    "sku": "REN-LBCS-60813",
+    "mpn": "KC-LBCS-100",
+    "brand": "Kapbridge Controls",
+    "name": "Load break & changeover switches, 100 A, 8 x RJ45, 2 NO",
+    "summary": "Load break & changeover switches from Kapbridge Controls with rated current 100 A, ports 8 x RJ45, contacts 2 NO.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 187000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000017",
+    "slug": "norvane-nv-vsd-15",
+    "sku": "REN-VSD-36241",
+    "mpn": "NV-VSD-15",
+    "brand": "Norvane",
+    "name": "Variable speed drives, 15 kW, Flush, 0 to 50 °C",
+    "summary": "Variable speed drives from Norvane with rated power 15 kW, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s04",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "15",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1229700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000018",
+    "slug": "kapbridge-controls-kc-vsd-075",
+    "sku": "REN-VSD-84297",
+    "mpn": "KC-VSD-075",
+    "brand": "Kapbridge Controls",
+    "name": "Variable speed drives, 0.75 kW, Panel cut-out, -25 to 70 °C",
+    "summary": "Variable speed drives from Kapbridge Controls with rated power 0.75 kW, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s04",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.75",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2692200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000019",
+    "slug": "ampstead-am-vsd-075",
+    "sku": "REN-VSD-79059",
+    "mpn": "AM-VSD-075",
+    "brand": "Ampstead",
+    "name": "Variable speed drives, 0.75 kW, Panel cut-out, 0 to 50 °C",
+    "summary": "Variable speed drives from Ampstead with rated power 0.75 kW, mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s04",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.75",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1038500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000020",
+    "slug": "lumeris-lm-vsd-4",
+    "sku": "REN-VSD-15496",
+    "mpn": "LM-VSD-4",
+    "brand": "Lumeris",
+    "name": "Variable speed drives, 4 kW, Flush, 0 to 50 °C",
+    "summary": "Variable speed drives from Lumeris with rated power 4 kW, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s04",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "4",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1364300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000021",
+    "slug": "norvane-nv-vsd-15-2",
+    "sku": "REN-VSD-17282",
+    "mpn": "NV-VSD-15-2",
+    "brand": "Norvane",
+    "name": "Variable speed drives, 15 kW, Flush, 0 to 50 °C",
+    "summary": "Variable speed drives from Norvane with rated power 15 kW, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s04",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "15",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2756900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000022",
+    "slug": "kapbridge-controls-kc-pump-037-110vac-ip54",
+    "sku": "REN-PUMP-80578",
+    "mpn": "KC-PUMP-037-110VAC-IP54",
+    "brand": "Kapbridge Controls",
+    "name": "Pump panels, 0.37 kW, 110 V AC, IP54",
+    "summary": "Pump panels from Kapbridge Controls with rated power 0.37 kW, rated voltage 110 V AC, ip rating IP54.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s05",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.37",
+        "unit": "kW"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3669400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000023",
+    "slug": "norvane-nv-pump-15-24vdc-ip54",
+    "sku": "REN-PUMP-70666",
+    "mpn": "NV-PUMP-15-24VDC-IP54",
+    "brand": "Norvane",
+    "name": "Pump panels, 1.5 kW, 24 V DC, IP54",
+    "summary": "Pump panels from Norvane with rated power 1.5 kW, rated voltage 24 V DC, ip rating IP54.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s05",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "1.5",
+        "unit": "kW"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1103300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000024",
+    "slug": "ampstead-am-pump-075-400vac-ip44",
+    "sku": "REN-PUMP-73247",
+    "mpn": "AM-PUMP-075-400VAC-IP44",
+    "brand": "Ampstead",
+    "name": "Pump panels, 0.75 kW, 400 V AC, IP44",
+    "summary": "Pump panels from Ampstead with rated power 0.75 kW, rated voltage 400 V AC, ip rating IP44.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s05",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.75",
+        "unit": "kW"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2523100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000025",
+    "slug": "norvane-nv-pump-22-400vac-ip67",
+    "sku": "REN-PUMP-86378",
+    "mpn": "NV-PUMP-22-400VAC-IP67",
+    "brand": "Norvane",
+    "name": "Pump panels, 2.2 kW, 400 V AC, IP67",
+    "summary": "Pump panels from Norvane with rated power 2.2 kW, rated voltage 400 V AC, ip rating IP67.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s05",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "2.2",
+        "unit": "kW"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3888100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000026",
+    "slug": "kapbridge-controls-kc-pump-4-12vdc-ip66",
+    "sku": "REN-PUMP-58786",
+    "mpn": "KC-PUMP-4-12VDC-IP66",
+    "brand": "Kapbridge Controls",
+    "name": "Pump panels, 4 kW, 12 V DC, IP66",
+    "summary": "Pump panels from Kapbridge Controls with rated power 4 kW, rated voltage 12 V DC, ip rating IP66.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s05",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "4",
+        "unit": "kW"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2351200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000027",
+    "slug": "voltara-vt-arsw-6",
+    "sku": "REN-ARSW-80020",
+    "mpn": "VT-ARSW-6",
+    "brand": "Voltara",
+    "name": "AC reactors & sine-wave filters, 6 A, DIN rail, 0 to 50 °C",
+    "summary": "AC reactors & sine-wave filters from Voltara with rated current 6 A, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 187300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000028",
+    "slug": "kapbridge-controls-kc-arsw-250",
+    "sku": "REN-ARSW-56073",
+    "mpn": "KC-ARSW-250",
+    "brand": "Kapbridge Controls",
+    "name": "AC reactors & sine-wave filters, 250 A, DIN rail, 0 to 50 °C",
+    "summary": "AC reactors & sine-wave filters from Kapbridge Controls with rated current 250 A, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 95200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000029",
+    "slug": "norvane-nv-arsw-63",
+    "sku": "REN-ARSW-22343",
+    "mpn": "NV-ARSW-63",
+    "brand": "Norvane",
+    "name": "AC reactors & sine-wave filters, 63 A, Surface, 0 to 50 °C",
+    "summary": "AC reactors & sine-wave filters from Norvane with rated current 63 A, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 113500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000030",
+    "slug": "lumeris-lm-arsw-16",
+    "sku": "REN-ARSW-11782",
+    "mpn": "LM-ARSW-16",
+    "brand": "Lumeris",
+    "name": "AC reactors & sine-wave filters, 16 A, Surface, 0 to 50 °C",
+    "summary": "AC reactors & sine-wave filters from Lumeris with rated current 16 A, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 102000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000031",
+    "slug": "ampstead-am-arsw-100",
+    "sku": "REN-ARSW-54739",
+    "mpn": "AM-ARSW-100",
+    "brand": "Ampstead",
+    "name": "AC reactors & sine-wave filters, 100 A, Flush, -20 to 60 °C",
+    "summary": "AC reactors & sine-wave filters from Ampstead with rated current 100 A, mounting Flush, operating temperature -20 to 60 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 166700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000032",
+    "slug": "duravolt-sample-co-dv-arsw-400",
+    "sku": "REN-ARSW-43597",
+    "mpn": "DV-ARSW-400",
+    "brand": "Duravolt Sample Co.",
+    "name": "AC reactors & sine-wave filters, 400 A, Flush, -25 to 70 °C",
+    "summary": "AC reactors & sine-wave filters from Duravolt Sample Co. with rated current 400 A, mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 114400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000033",
+    "slug": "kapbridge-controls-kc-emci-15",
+    "sku": "REN-EMCI-52390",
+    "mpn": "KC-EMCI-15",
+    "brand": "Kapbridge Controls",
+    "name": "Electric motors (cast iron), 1.5 kW, Panel cut-out, -25 to 70 °C",
+    "summary": "Electric motors (cast iron) from Kapbridge Controls with rated power 1.5 kW, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s07",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "1.5",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2503700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000034",
+    "slug": "ampstead-am-emci-15",
+    "sku": "REN-EMCI-58973",
+    "mpn": "AM-EMCI-15",
+    "brand": "Ampstead",
+    "name": "Electric motors (cast iron), 15 kW, DIN rail, 0 to 50 °C",
+    "summary": "Electric motors (cast iron) from Ampstead with rated power 15 kW, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s07",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "15",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3690100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000035",
+    "slug": "ampstead-am-emci-037",
+    "sku": "REN-EMCI-95839",
+    "mpn": "AM-EMCI-037",
+    "brand": "Ampstead",
+    "name": "Electric motors (cast iron), 0.37 kW, Surface, -20 to 60 °C",
+    "summary": "Electric motors (cast iron) from Ampstead with rated power 0.37 kW, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s07",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.37",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2600000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000036",
+    "slug": "voltara-vt-emci-075",
+    "sku": "REN-EMCI-75797",
+    "mpn": "VT-EMCI-075",
+    "brand": "Voltara",
+    "name": "Electric motors (cast iron), 0.75 kW, Panel cut-out, -25 to 70 °C",
+    "summary": "Electric motors (cast iron) from Voltara with rated power 0.75 kW, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s07",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.75",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2512000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000037",
+    "slug": "duravolt-sample-co-dv-emci-22",
+    "sku": "REN-EMCI-33793",
+    "mpn": "DV-EMCI-22",
+    "brand": "Duravolt Sample Co.",
+    "name": "Electric motors (cast iron), 2.2 kW, Flush, -20 to 60 °C",
+    "summary": "Electric motors (cast iron) from Duravolt Sample Co. with rated power 2.2 kW, mounting Flush, operating temperature -20 to 60 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s07",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "2.2",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1799400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000038",
+    "slug": "ampstead-am-ema-075",
+    "sku": "REN-EMA-49858",
+    "mpn": "AM-EMA-075",
+    "brand": "Ampstead",
+    "name": "Electric motors (aluminium), 0.75 kW, Flush, -20 to 60 °C",
+    "summary": "Electric motors (aluminium) from Ampstead with rated power 0.75 kW, mounting Flush, operating temperature -20 to 60 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s08",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.75",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 638200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000039",
+    "slug": "kapbridge-controls-kc-ema-075",
+    "sku": "REN-EMA-91180",
+    "mpn": "KC-EMA-075",
+    "brand": "Kapbridge Controls",
+    "name": "Electric motors (aluminium), 0.75 kW, Surface, -20 to 60 °C",
+    "summary": "Electric motors (aluminium) from Kapbridge Controls with rated power 0.75 kW, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s08",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.75",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3930800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000040",
+    "slug": "duravolt-sample-co-dv-ema-15",
+    "sku": "REN-EMA-42463",
+    "mpn": "DV-EMA-15",
+    "brand": "Duravolt Sample Co.",
+    "name": "Electric motors (aluminium), 15 kW, Flush, 0 to 50 °C",
+    "summary": "Electric motors (aluminium) from Duravolt Sample Co. with rated power 15 kW, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s08",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "15",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1465000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000041",
+    "slug": "ampstead-am-ema-037",
+    "sku": "REN-EMA-42665",
+    "mpn": "AM-EMA-037",
+    "brand": "Ampstead",
+    "name": "Electric motors (aluminium), 0.37 kW, Flush, 0 to 50 °C",
+    "summary": "Electric motors (aluminium) from Ampstead with rated power 0.37 kW, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s08",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.37",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2086900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000042",
+    "slug": "duravolt-sample-co-dv-ema-30",
+    "sku": "REN-EMA-41713",
+    "mpn": "DV-EMA-30",
+    "brand": "Duravolt Sample Co.",
+    "name": "Electric motors (aluminium), 30 kW, DIN rail, 0 to 50 °C",
+    "summary": "Electric motors (aluminium) from Duravolt Sample Co. with rated power 30 kW, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s08",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "30",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 735800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000043",
+    "slug": "norvane-nv-moto-15",
+    "sku": "REN-MOTO-60283",
+    "mpn": "NV-MOTO-15",
+    "brand": "Norvane",
+    "name": "Motor accessories, 1.5 kW, Panel cut-out, -25 to 70 °C",
+    "summary": "Motor accessories from Norvane with rated power 1.5 kW, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s09",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "1.5",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 3217800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000044",
+    "slug": "norvane-nv-moto-037",
+    "sku": "REN-MOTO-17997",
+    "mpn": "NV-MOTO-037",
+    "brand": "Norvane",
+    "name": "Motor accessories, 0.37 kW, DIN rail, -20 to 60 °C",
+    "summary": "Motor accessories from Norvane with rated power 0.37 kW, mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s09",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.37",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 1991800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000045",
+    "slug": "norvane-nv-moto-75",
+    "sku": "REN-MOTO-70218",
+    "mpn": "NV-MOTO-75",
+    "brand": "Norvane",
+    "name": "Motor accessories, 7.5 kW, Surface, 0 to 50 °C",
+    "summary": "Motor accessories from Norvane with rated power 7.5 kW, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s09",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "7.5",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 2894100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000046",
+    "slug": "duravolt-sample-co-dv-moto-15",
+    "sku": "REN-MOTO-61431",
+    "mpn": "DV-MOTO-15",
+    "brand": "Duravolt Sample Co.",
+    "name": "Motor accessories, 15 kW, DIN rail, -25 to 70 °C",
+    "summary": "Motor accessories from Duravolt Sample Co. with rated power 15 kW, mounting DIN rail, operating temperature -25 to 70 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s09",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "15",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 2216200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000047",
+    "slug": "voltara-vt-moto-4",
+    "sku": "REN-MOTO-72143",
+    "mpn": "VT-MOTO-4",
+    "brand": "Voltara",
+    "name": "Motor accessories, 4 kW, Panel cut-out, -25 to 70 °C",
+    "summary": "Motor accessories from Voltara with rated power 4 kW, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s09",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "4",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 2196200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000048",
+    "slug": "duravolt-sample-co-dv-moto-037",
+    "sku": "REN-MOTO-43494",
+    "mpn": "DV-MOTO-037",
+    "brand": "Duravolt Sample Co.",
+    "name": "Motor accessories, 0.37 kW, Surface, -20 to 60 °C",
+    "summary": "Motor accessories from Duravolt Sample Co. with rated power 0.37 kW, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c01",
+    "subcategoryId": "c01s09",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.37",
+        "unit": "kW"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 3026000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

@@ -1,0 +1,1478 @@
+[
+  {
+    "id": "p_000219",
+    "slug": "ampstead-am-gene-24vdc",
+    "sku": "REN-GENE-82581",
+    "mpn": "AM-GENE-24VDC",
+    "brand": "Ampstead",
+    "name": "Generator controllers, 24 V DC, Surface, -25 to 70 °C",
+    "summary": "Generator controllers from Ampstead with rated voltage 24 V DC, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2024500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000220",
+    "slug": "voltara-vt-gene-24vdc",
+    "sku": "REN-GENE-77782",
+    "mpn": "VT-GENE-24VDC",
+    "brand": "Voltara",
+    "name": "Generator controllers, 24 V DC, DIN rail, 0 to 50 °C",
+    "summary": "Generator controllers from Voltara with rated voltage 24 V DC, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3464400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000221",
+    "slug": "lumeris-lm-gene-12vdc",
+    "sku": "REN-GENE-76137",
+    "mpn": "LM-GENE-12VDC",
+    "brand": "Lumeris",
+    "name": "Generator controllers, 12 V DC, Surface, -25 to 70 °C",
+    "summary": "Generator controllers from Lumeris with rated voltage 12 V DC, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3365000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000222",
+    "slug": "lumeris-lm-gene-110vac",
+    "sku": "REN-GENE-36441",
+    "mpn": "LM-GENE-110VAC",
+    "brand": "Lumeris",
+    "name": "Generator controllers, 110 V AC, Flush, 0 to 50 °C",
+    "summary": "Generator controllers from Lumeris with rated voltage 110 V AC, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2623300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000223",
+    "slug": "lumeris-lm-gene-400vac",
+    "sku": "REN-GENE-22084",
+    "mpn": "LM-GENE-400VAC",
+    "brand": "Lumeris",
+    "name": "Generator controllers, 400 V AC, Surface, -25 to 70 °C",
+    "summary": "Generator controllers from Lumeris with rated voltage 400 V AC, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2818200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000224",
+    "slug": "norvane-nv-gene-24vdc",
+    "sku": "REN-GENE-84477",
+    "mpn": "NV-GENE-24VDC",
+    "brand": "Norvane",
+    "name": "Generator controllers, 24 V DC, Surface, -25 to 70 °C",
+    "summary": "Generator controllers from Norvane with rated voltage 24 V DC, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3084000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000225",
+    "slug": "duravolt-sample-co-dv-ats-400vac",
+    "sku": "REN-ATS-17709",
+    "mpn": "DV-ATS-400VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "ATS controllers, 400 V AC, Surface, -25 to 70 °C",
+    "summary": "ATS controllers from Duravolt Sample Co. with rated voltage 400 V AC, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 812200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000226",
+    "slug": "lumeris-lm-ats-110vac",
+    "sku": "REN-ATS-24758",
+    "mpn": "LM-ATS-110VAC",
+    "brand": "Lumeris",
+    "name": "ATS controllers, 110 V AC, Surface, -25 to 70 °C",
+    "summary": "ATS controllers from Lumeris with rated voltage 110 V AC, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2668700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000227",
+    "slug": "lumeris-lm-ats-230vac",
+    "sku": "REN-ATS-37572",
+    "mpn": "LM-ATS-230VAC",
+    "brand": "Lumeris",
+    "name": "ATS controllers, 230 V AC, DIN rail, -25 to 70 °C",
+    "summary": "ATS controllers from Lumeris with rated voltage 230 V AC, mounting DIN rail, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3006700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000228",
+    "slug": "kapbridge-controls-kc-ats-400vac",
+    "sku": "REN-ATS-41204",
+    "mpn": "KC-ATS-400VAC",
+    "brand": "Kapbridge Controls",
+    "name": "ATS controllers, 400 V AC, Panel cut-out, 0 to 50 °C",
+    "summary": "ATS controllers from Kapbridge Controls with rated voltage 400 V AC, mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3991900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000229",
+    "slug": "norvane-nv-ats-230vac",
+    "sku": "REN-ATS-45205",
+    "mpn": "NV-ATS-230VAC",
+    "brand": "Norvane",
+    "name": "ATS controllers, 230 V AC, DIN rail, -20 to 60 °C",
+    "summary": "ATS controllers from Norvane with rated voltage 230 V AC, mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3916100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000230",
+    "slug": "norvane-nv-batt-6-230vac",
+    "sku": "REN-BATT-95111",
+    "mpn": "NV-BATT-6-230VAC",
+    "brand": "Norvane",
+    "name": "Battery chargers, 6 A, 230 V AC, Surface",
+    "summary": "Battery chargers from Norvane with rated current 6 A, rated voltage 230 V AC, mounting Surface.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 292500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000231",
+    "slug": "lumeris-lm-batt-16-12vdc",
+    "sku": "REN-BATT-16408",
+    "mpn": "LM-BATT-16-12VDC",
+    "brand": "Lumeris",
+    "name": "Battery chargers, 16 A, 12 V DC, Flush",
+    "summary": "Battery chargers from Lumeris with rated current 16 A, rated voltage 12 V DC, mounting Flush.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 748100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000232",
+    "slug": "ampstead-am-batt-16-24vdc",
+    "sku": "REN-BATT-17941",
+    "mpn": "AM-BATT-16-24VDC",
+    "brand": "Ampstead",
+    "name": "Battery chargers, 16 A, 24 V DC, Surface",
+    "summary": "Battery chargers from Ampstead with rated current 16 A, rated voltage 24 V DC, mounting Surface.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 655200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000233",
+    "slug": "lumeris-lm-batt-6-24vdc",
+    "sku": "REN-BATT-83333",
+    "mpn": "LM-BATT-6-24VDC",
+    "brand": "Lumeris",
+    "name": "Battery chargers, 6 A, 24 V DC, Flush",
+    "summary": "Battery chargers from Lumeris with rated current 6 A, rated voltage 24 V DC, mounting Flush.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 622300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000234",
+    "slug": "voltara-vt-batt-400-12vdc",
+    "sku": "REN-BATT-36137",
+    "mpn": "VT-BATT-400-12VDC",
+    "brand": "Voltara",
+    "name": "Battery chargers, 400 A, 12 V DC, Surface",
+    "summary": "Battery chargers from Voltara with rated current 400 A, rated voltage 12 V DC, mounting Surface.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 450200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000235",
+    "slug": "norvane-nv-pfc-12vdc",
+    "sku": "REN-PFC-72364",
+    "mpn": "NV-PFC-12VDC",
+    "brand": "Norvane",
+    "name": "Power factor controllers, 12 V DC, Surface, -25 to 70 °C",
+    "summary": "Power factor controllers from Norvane with rated voltage 12 V DC, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 142200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000236",
+    "slug": "voltara-vt-pfc-12vdc",
+    "sku": "REN-PFC-38321",
+    "mpn": "VT-PFC-12VDC",
+    "brand": "Voltara",
+    "name": "Power factor controllers, 12 V DC, Surface, 0 to 50 °C",
+    "summary": "Power factor controllers from Voltara with rated voltage 12 V DC, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 142000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000237",
+    "slug": "voltara-vt-pfc-12vdc-2",
+    "sku": "REN-PFC-14435",
+    "mpn": "VT-PFC-12VDC-2",
+    "brand": "Voltara",
+    "name": "Power factor controllers, 12 V DC, DIN rail, 0 to 50 °C",
+    "summary": "Power factor controllers from Voltara with rated voltage 12 V DC, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 56300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000238",
+    "slug": "ampstead-am-pfc-400vac",
+    "sku": "REN-PFC-99728",
+    "mpn": "AM-PFC-400VAC",
+    "brand": "Ampstead",
+    "name": "Power factor controllers, 400 V AC, Surface, -20 to 60 °C",
+    "summary": "Power factor controllers from Ampstead with rated voltage 400 V AC, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 214700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000239",
+    "slug": "kapbridge-controls-kc-pfc-230vac",
+    "sku": "REN-PFC-35316",
+    "mpn": "KC-PFC-230VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Power factor controllers, 230 V AC, DIN rail, -25 to 70 °C",
+    "summary": "Power factor controllers from Kapbridge Controls with rated voltage 230 V AC, mounting DIN rail, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 181200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000240",
+    "slug": "norvane-nv-pfc-230vac",
+    "sku": "REN-PFC-16216",
+    "mpn": "NV-PFC-230VAC",
+    "brand": "Norvane",
+    "name": "Power factor controllers, 230 V AC, Panel cut-out, -25 to 70 °C",
+    "summary": "Power factor controllers from Norvane with rated voltage 230 V AC, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 44800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000241",
+    "slug": "duravolt-sample-co-dv-pfc-ip66",
+    "sku": "REN-PFC-47100",
+    "mpn": "DV-PFC-IP66",
+    "brand": "Duravolt Sample Co.",
+    "name": "Power factor correction, Flush, 0 to 50 °C, IP66",
+    "summary": "Power factor correction from Duravolt Sample Co. with mounting Flush, operating temperature 0 to 50 °C, ip rating IP66.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s05",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 892000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000242",
+    "slug": "ampstead-am-pfc-ip67",
+    "sku": "REN-PFC-11602",
+    "mpn": "AM-PFC-IP67",
+    "brand": "Ampstead",
+    "name": "Power factor correction, Panel cut-out, -20 to 60 °C, IP67",
+    "summary": "Power factor correction from Ampstead with mounting Panel cut-out, operating temperature -20 to 60 °C, ip rating IP67.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s05",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 708100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000243",
+    "slug": "voltara-vt-pfc-ip66",
+    "sku": "REN-PFC-75436",
+    "mpn": "VT-PFC-IP66",
+    "brand": "Voltara",
+    "name": "Power factor correction, DIN rail, -20 to 60 °C, IP66",
+    "summary": "Power factor correction from Voltara with mounting DIN rail, operating temperature -20 to 60 °C, ip rating IP66.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s05",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 179000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000244",
+    "slug": "norvane-nv-pfc-ip66",
+    "sku": "REN-PFC-17904",
+    "mpn": "NV-PFC-IP66",
+    "brand": "Norvane",
+    "name": "Power factor correction, DIN rail, -25 to 70 °C, IP66",
+    "summary": "Power factor correction from Norvane with mounting DIN rail, operating temperature -25 to 70 °C, ip rating IP66.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s05",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 617400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000245",
+    "slug": "lumeris-lm-pfc-ip44",
+    "sku": "REN-PFC-98074",
+    "mpn": "LM-PFC-IP44",
+    "brand": "Lumeris",
+    "name": "Power factor correction, Flush, 0 to 50 °C, IP44",
+    "summary": "Power factor correction from Lumeris with mounting Flush, operating temperature 0 to 50 °C, ip rating IP44.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s05",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 877700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000246",
+    "slug": "norvane-nv-ahf-16-110vac",
+    "sku": "REN-AHF-39276",
+    "mpn": "NV-AHF-16-110VAC",
+    "brand": "Norvane",
+    "name": "Active harmonic filters, 16 A, 110 V AC, Flush",
+    "summary": "Active harmonic filters from Norvane with rated current 16 A, rated voltage 110 V AC, mounting Flush.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2815600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000247",
+    "slug": "duravolt-sample-co-dv-ahf-100-12vdc",
+    "sku": "REN-AHF-78879",
+    "mpn": "DV-AHF-100-12VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Active harmonic filters, 100 A, 12 V DC, DIN rail",
+    "summary": "Active harmonic filters from Duravolt Sample Co. with rated current 100 A, rated voltage 12 V DC, mounting DIN rail.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3151200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000248",
+    "slug": "duravolt-sample-co-dv-ahf-6-12vdc",
+    "sku": "REN-AHF-94555",
+    "mpn": "DV-AHF-6-12VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Active harmonic filters, 6 A, 12 V DC, Surface",
+    "summary": "Active harmonic filters from Duravolt Sample Co. with rated current 6 A, rated voltage 12 V DC, mounting Surface.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2373800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000249",
+    "slug": "duravolt-sample-co-dv-ahf-32-400vac",
+    "sku": "REN-AHF-71478",
+    "mpn": "DV-AHF-32-400VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Active harmonic filters, 32 A, 400 V AC, Flush",
+    "summary": "Active harmonic filters from Duravolt Sample Co. with rated current 32 A, rated voltage 400 V AC, mounting Flush.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3303500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000250",
+    "slug": "lumeris-lm-ahf-32-400vac",
+    "sku": "REN-AHF-15500",
+    "mpn": "LM-AHF-32-400VAC",
+    "brand": "Lumeris",
+    "name": "Active harmonic filters, 32 A, 400 V AC, Panel cut-out",
+    "summary": "Active harmonic filters from Lumeris with rated current 32 A, rated voltage 400 V AC, mounting Panel cut-out.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1424700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000251",
+    "slug": "duravolt-sample-co-dv-svg-110vac",
+    "sku": "REN-SVG-56825",
+    "mpn": "DV-SVG-110VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Static var generators, 110 V AC, Flush, 0 to 50 °C",
+    "summary": "Static var generators from Duravolt Sample Co. with rated voltage 110 V AC, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1911300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000252",
+    "slug": "kapbridge-controls-kc-svg-12vdc",
+    "sku": "REN-SVG-18274",
+    "mpn": "KC-SVG-12VDC",
+    "brand": "Kapbridge Controls",
+    "name": "Static var generators, 12 V DC, Flush, 0 to 50 °C",
+    "summary": "Static var generators from Kapbridge Controls with rated voltage 12 V DC, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 767700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000253",
+    "slug": "voltara-vt-svg-24vdc",
+    "sku": "REN-SVG-13872",
+    "mpn": "VT-SVG-24VDC",
+    "brand": "Voltara",
+    "name": "Static var generators, 24 V DC, Surface, 0 to 50 °C",
+    "summary": "Static var generators from Voltara with rated voltage 24 V DC, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 907500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000254",
+    "slug": "norvane-nv-svg-110vac",
+    "sku": "REN-SVG-14661",
+    "mpn": "NV-SVG-110VAC",
+    "brand": "Norvane",
+    "name": "Static var generators, 110 V AC, Flush, -25 to 70 °C",
+    "summary": "Static var generators from Norvane with rated voltage 110 V AC, mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1006200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000255",
+    "slug": "norvane-nv-svg-110vac-2",
+    "sku": "REN-SVG-57155",
+    "mpn": "NV-SVG-110VAC-2",
+    "brand": "Norvane",
+    "name": "Static var generators, 110 V AC, Panel cut-out, -20 to 60 °C",
+    "summary": "Static var generators from Norvane with rated voltage 110 V AC, mounting Panel cut-out, operating temperature -20 to 60 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 889100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000256",
+    "slug": "duravolt-sample-co-dv-svg-24vdc",
+    "sku": "REN-SVG-12935",
+    "mpn": "DV-SVG-24VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Static var generators, 24 V DC, Surface, -25 to 70 °C",
+    "summary": "Static var generators from Duravolt Sample Co. with rated voltage 24 V DC, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c06",
+    "subcategoryId": "c06s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1926600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

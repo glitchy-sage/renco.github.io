@@ -1,0 +1,2327 @@
+[
+  {
+    "id": "p_000049",
+    "slug": "kapbridge-controls-kc-mcb-4p-25a-b",
+    "sku": "REN-MCB-91165",
+    "mpn": "KC-MCB-4P-25A-B",
+    "brand": "Kapbridge Controls",
+    "name": "Miniature circuit breaker, 4 poles, 25 A, B curve, 4.5 kA",
+    "summary": "Miniature circuit breaker from Kapbridge Controls with poles 4, rated current 25 A, curve B, breaking capacity 4.5 kA.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s01",
+    "specs": [
+      {
+        "label": "Poles",
+        "value": "4"
+      },
+      {
+        "label": "Rated current",
+        "value": "25",
+        "unit": "A"
+      },
+      {
+        "label": "Curve",
+        "value": "B"
+      },
+      {
+        "label": "Breaking capacity",
+        "value": "4.5",
+        "unit": "kA"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 195100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000050",
+    "slug": "norvane-nv-mcb-3p-50a-c",
+    "sku": "REN-MCB-48793",
+    "mpn": "NV-MCB-3P-50A-C",
+    "brand": "Norvane",
+    "name": "Miniature circuit breaker, 3 poles, 50 A, C curve, 4.5 kA",
+    "summary": "Miniature circuit breaker from Norvane with poles 3, rated current 50 A, curve C, breaking capacity 4.5 kA.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s01",
+    "specs": [
+      {
+        "label": "Poles",
+        "value": "3"
+      },
+      {
+        "label": "Rated current",
+        "value": "50",
+        "unit": "A"
+      },
+      {
+        "label": "Curve",
+        "value": "C"
+      },
+      {
+        "label": "Breaking capacity",
+        "value": "4.5",
+        "unit": "kA"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 205500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000051",
+    "slug": "duravolt-sample-co-dv-mcb-1p-20a-d",
+    "sku": "REN-MCB-40744",
+    "mpn": "DV-MCB-1P-20A-D",
+    "brand": "Duravolt Sample Co.",
+    "name": "Miniature circuit breaker, 1 pole, 20 A, D curve, 4.5 kA",
+    "summary": "Miniature circuit breaker from Duravolt Sample Co. with poles 1, rated current 20 A, curve D, breaking capacity 4.5 kA.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s01",
+    "specs": [
+      {
+        "label": "Poles",
+        "value": "1"
+      },
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Curve",
+        "value": "D"
+      },
+      {
+        "label": "Breaking capacity",
+        "value": "4.5",
+        "unit": "kA"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 91800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000052",
+    "slug": "lumeris-lm-mcb-2p-32a-b",
+    "sku": "REN-MCB-44924",
+    "mpn": "LM-MCB-2P-32A-B",
+    "brand": "Lumeris",
+    "name": "Miniature circuit breaker, 2 poles, 32 A, B curve, 6 kA",
+    "summary": "Miniature circuit breaker from Lumeris with poles 2, rated current 32 A, curve B, breaking capacity 6 kA.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s01",
+    "specs": [
+      {
+        "label": "Poles",
+        "value": "2"
+      },
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Curve",
+        "value": "B"
+      },
+      {
+        "label": "Breaking capacity",
+        "value": "6",
+        "unit": "kA"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 32100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000053",
+    "slug": "norvane-nv-mcb-3p-10a-b",
+    "sku": "REN-MCB-54996",
+    "mpn": "NV-MCB-3P-10A-B",
+    "brand": "Norvane",
+    "name": "Miniature circuit breaker, 3 poles, 10 A, B curve, 10 kA",
+    "summary": "Miniature circuit breaker from Norvane with poles 3, rated current 10 A, curve B, breaking capacity 10 kA.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s01",
+    "specs": [
+      {
+        "label": "Poles",
+        "value": "3"
+      },
+      {
+        "label": "Rated current",
+        "value": "10",
+        "unit": "A"
+      },
+      {
+        "label": "Curve",
+        "value": "B"
+      },
+      {
+        "label": "Breaking capacity",
+        "value": "10",
+        "unit": "kA"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 73200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000054",
+    "slug": "norvane-nv-elp-ip67",
+    "sku": "REN-ELP-78723",
+    "mpn": "NV-ELP-IP67",
+    "brand": "Norvane",
+    "name": "Earth leakage protection, Flush, -20 to 60 °C, IP67",
+    "summary": "Earth leakage protection from Norvane with mounting Flush, operating temperature -20 to 60 °C, ip rating IP67.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s02",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 164400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000055",
+    "slug": "voltara-vt-elp-ip54",
+    "sku": "REN-ELP-41011",
+    "mpn": "VT-ELP-IP54",
+    "brand": "Voltara",
+    "name": "Earth leakage protection, Panel cut-out, 0 to 50 °C, IP54",
+    "summary": "Earth leakage protection from Voltara with mounting Panel cut-out, operating temperature 0 to 50 °C, ip rating IP54.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s02",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 162500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000056",
+    "slug": "norvane-nv-elp-ip65",
+    "sku": "REN-ELP-72783",
+    "mpn": "NV-ELP-IP65",
+    "brand": "Norvane",
+    "name": "Earth leakage protection, DIN rail, -20 to 60 °C, IP65",
+    "summary": "Earth leakage protection from Norvane with mounting DIN rail, operating temperature -20 to 60 °C, ip rating IP65.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s02",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 84400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000057",
+    "slug": "kapbridge-controls-kc-elp-ip66",
+    "sku": "REN-ELP-84543",
+    "mpn": "KC-ELP-IP66",
+    "brand": "Kapbridge Controls",
+    "name": "Earth leakage protection, Surface, -25 to 70 °C, IP66",
+    "summary": "Earth leakage protection from Kapbridge Controls with mounting Surface, operating temperature -25 to 70 °C, ip rating IP66.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s02",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 132600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000058",
+    "slug": "norvane-nv-elp-ip20",
+    "sku": "REN-ELP-84393",
+    "mpn": "NV-ELP-IP20",
+    "brand": "Norvane",
+    "name": "Earth leakage protection, Surface, -20 to 60 °C, IP20",
+    "summary": "Earth leakage protection from Norvane with mounting Surface, operating temperature -20 to 60 °C, ip rating IP20.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s02",
+    "specs": [
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 51200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000059",
+    "slug": "lumeris-lm-mccb-400",
+    "sku": "REN-MCCB-20033",
+    "mpn": "LM-MCCB-400",
+    "brand": "Lumeris",
+    "name": "Moulded case circuit breakers, 400 A, Flush, -25 to 70 °C",
+    "summary": "Moulded case circuit breakers from Lumeris with rated current 400 A, mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2231100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000060",
+    "slug": "voltara-vt-mccb-32",
+    "sku": "REN-MCCB-34143",
+    "mpn": "VT-MCCB-32",
+    "brand": "Voltara",
+    "name": "Moulded case circuit breakers, 32 A, Panel cut-out, -25 to 70 °C",
+    "summary": "Moulded case circuit breakers from Voltara with rated current 32 A, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3446000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000061",
+    "slug": "voltara-vt-mccb-16",
+    "sku": "REN-MCCB-52772",
+    "mpn": "VT-MCCB-16",
+    "brand": "Voltara",
+    "name": "Moulded case circuit breakers, 16 A, DIN rail, -20 to 60 °C",
+    "summary": "Moulded case circuit breakers from Voltara with rated current 16 A, mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2364500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000062",
+    "slug": "voltara-vt-mccb-16-2",
+    "sku": "REN-MCCB-83776",
+    "mpn": "VT-MCCB-16-2",
+    "brand": "Voltara",
+    "name": "Moulded case circuit breakers, 16 A, Panel cut-out, -25 to 70 °C",
+    "summary": "Moulded case circuit breakers from Voltara with rated current 16 A, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3168000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000063",
+    "slug": "duravolt-sample-co-dv-mccb-6",
+    "sku": "REN-MCCB-56191",
+    "mpn": "DV-MCCB-6",
+    "brand": "Duravolt Sample Co.",
+    "name": "Moulded case circuit breakers, 6 A, DIN rail, -25 to 70 °C",
+    "summary": "Moulded case circuit breakers from Duravolt Sample Co. with rated current 6 A, mounting DIN rail, operating temperature -25 to 70 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1365300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000064",
+    "slug": "voltara-vt-mccb-63",
+    "sku": "REN-MCCB-60277",
+    "mpn": "VT-MCCB-63",
+    "brand": "Voltara",
+    "name": "Moulded case circuit breakers, 63 A, Flush, 0 to 50 °C",
+    "summary": "Moulded case circuit breakers from Voltara with rated current 63 A, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1612000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000065",
+    "slug": "ampstead-am-acb-16",
+    "sku": "REN-ACB-93491",
+    "mpn": "AM-ACB-16",
+    "brand": "Ampstead",
+    "name": "Air circuit breakers, 16 A, DIN rail, -25 to 70 °C",
+    "summary": "Air circuit breakers from Ampstead with rated current 16 A, mounting DIN rail, operating temperature -25 to 70 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1156200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000066",
+    "slug": "norvane-nv-acb-400",
+    "sku": "REN-ACB-45139",
+    "mpn": "NV-ACB-400",
+    "brand": "Norvane",
+    "name": "Air circuit breakers, 400 A, Panel cut-out, -20 to 60 °C",
+    "summary": "Air circuit breakers from Norvane with rated current 400 A, mounting Panel cut-out, operating temperature -20 to 60 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1553700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000067",
+    "slug": "duravolt-sample-co-dv-acb-16",
+    "sku": "REN-ACB-22599",
+    "mpn": "DV-ACB-16",
+    "brand": "Duravolt Sample Co.",
+    "name": "Air circuit breakers, 16 A, Panel cut-out, -20 to 60 °C",
+    "summary": "Air circuit breakers from Duravolt Sample Co. with rated current 16 A, mounting Panel cut-out, operating temperature -20 to 60 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3804200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000068",
+    "slug": "kapbridge-controls-kc-acb-250",
+    "sku": "REN-ACB-84251",
+    "mpn": "KC-ACB-250",
+    "brand": "Kapbridge Controls",
+    "name": "Air circuit breakers, 250 A, Flush, 0 to 50 °C",
+    "summary": "Air circuit breakers from Kapbridge Controls with rated current 250 A, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 769500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000069",
+    "slug": "duravolt-sample-co-dv-acb-6",
+    "sku": "REN-ACB-40205",
+    "mpn": "DV-ACB-6",
+    "brand": "Duravolt Sample Co.",
+    "name": "Air circuit breakers, 6 A, Surface, -25 to 70 °C",
+    "summary": "Air circuit breakers from Duravolt Sample Co. with rated current 6 A, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s04",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3267900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000070",
+    "slug": "lumeris-lm-ilbs-63",
+    "sku": "REN-ILBS-67891",
+    "mpn": "LM-ILBS-63",
+    "brand": "Lumeris",
+    "name": "Isolators & load break switches, 63 A, 8 x RJ45, 2 NO",
+    "summary": "Isolators & load break switches from Lumeris with rated current 63 A, ports 8 x RJ45, contacts 2 NO.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 26000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000071",
+    "slug": "kapbridge-controls-kc-ilbs-250",
+    "sku": "REN-ILBS-27703",
+    "mpn": "KC-ILBS-250",
+    "brand": "Kapbridge Controls",
+    "name": "Isolators & load break switches, 250 A, 8 x RJ45, 4 C/O",
+    "summary": "Isolators & load break switches from Kapbridge Controls with rated current 250 A, ports 8 x RJ45, contacts 4 C/O.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 93100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000072",
+    "slug": "kapbridge-controls-kc-ilbs-400",
+    "sku": "REN-ILBS-81591",
+    "mpn": "KC-ILBS-400",
+    "brand": "Kapbridge Controls",
+    "name": "Isolators & load break switches, 400 A, 8 x RJ45, 2 NO",
+    "summary": "Isolators & load break switches from Kapbridge Controls with rated current 400 A, ports 8 x RJ45, contacts 2 NO.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 169900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000073",
+    "slug": "voltara-vt-ilbs-400",
+    "sku": "REN-ILBS-43794",
+    "mpn": "VT-ILBS-400",
+    "brand": "Voltara",
+    "name": "Isolators & load break switches, 400 A, 5 x RJ45 + 1 x SFP, 1 C/O",
+    "summary": "Isolators & load break switches from Voltara with rated current 400 A, ports 5 x RJ45 + 1 x SFP, contacts 1 C/O.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 75300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000074",
+    "slug": "ampstead-am-ilbs-63",
+    "sku": "REN-ILBS-95295",
+    "mpn": "AM-ILBS-63",
+    "brand": "Ampstead",
+    "name": "Isolators & load break switches, 63 A, 4 x RJ45, 2 C/O",
+    "summary": "Isolators & load break switches from Ampstead with rated current 63 A, ports 4 x RJ45, contacts 2 C/O.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 147900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000075",
+    "slug": "kapbridge-controls-kc-flh-400",
+    "sku": "REN-FLH-14213",
+    "mpn": "KC-FLH-400",
+    "brand": "Kapbridge Controls",
+    "name": "Fuse links & holders, 400 A, Panel cut-out, 0 to 50 °C",
+    "summary": "Fuse links & holders from Kapbridge Controls with rated current 400 A, mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 40500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000076",
+    "slug": "ampstead-am-flh-250",
+    "sku": "REN-FLH-35601",
+    "mpn": "AM-FLH-250",
+    "brand": "Ampstead",
+    "name": "Fuse links & holders, 250 A, DIN rail, 0 to 50 °C",
+    "summary": "Fuse links & holders from Ampstead with rated current 250 A, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 81700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000077",
+    "slug": "duravolt-sample-co-dv-flh-250",
+    "sku": "REN-FLH-20348",
+    "mpn": "DV-FLH-250",
+    "brand": "Duravolt Sample Co.",
+    "name": "Fuse links & holders, 250 A, Panel cut-out, -25 to 70 °C",
+    "summary": "Fuse links & holders from Duravolt Sample Co. with rated current 250 A, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 210900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000078",
+    "slug": "voltara-vt-flh-20",
+    "sku": "REN-FLH-59430",
+    "mpn": "VT-FLH-20",
+    "brand": "Voltara",
+    "name": "Fuse links & holders, 20 A, Flush, 0 to 50 °C",
+    "summary": "Fuse links & holders from Voltara with rated current 20 A, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 114200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000079",
+    "slug": "duravolt-sample-co-dv-flh-32",
+    "sku": "REN-FLH-97169",
+    "mpn": "DV-FLH-32",
+    "brand": "Duravolt Sample Co.",
+    "name": "Fuse links & holders, 32 A, Panel cut-out, 0 to 50 °C",
+    "summary": "Fuse links & holders from Duravolt Sample Co. with rated current 32 A, mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 241100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000080",
+    "slug": "lumeris-lm-flh-400",
+    "sku": "REN-FLH-79877",
+    "mpn": "LM-FLH-400",
+    "brand": "Lumeris",
+    "name": "Fuse links & holders, 400 A, Surface, -20 to 60 °C",
+    "summary": "Fuse links & holders from Lumeris with rated current 400 A, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 142700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000081",
+    "slug": "voltara-vt-fsd-6",
+    "sku": "REN-FSD-81588",
+    "mpn": "VT-FSD-6",
+    "brand": "Voltara",
+    "name": "Fuse switch disconnectors, 6 A, 4 x RJ45, 1 C/O",
+    "summary": "Fuse switch disconnectors from Voltara with rated current 6 A, ports 4 x RJ45, contacts 1 C/O.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s07",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 94800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000082",
+    "slug": "kapbridge-controls-kc-fsd-100",
+    "sku": "REN-FSD-13320",
+    "mpn": "KC-FSD-100",
+    "brand": "Kapbridge Controls",
+    "name": "Fuse switch disconnectors, 100 A, 8 x RJ45, 2 C/O",
+    "summary": "Fuse switch disconnectors from Kapbridge Controls with rated current 100 A, ports 8 x RJ45, contacts 2 C/O.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s07",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 185100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000083",
+    "slug": "kapbridge-controls-kc-fsd-16",
+    "sku": "REN-FSD-31314",
+    "mpn": "KC-FSD-16",
+    "brand": "Kapbridge Controls",
+    "name": "Fuse switch disconnectors, 16 A, 4 x RJ45, 4 C/O",
+    "summary": "Fuse switch disconnectors from Kapbridge Controls with rated current 16 A, ports 4 x RJ45, contacts 4 C/O.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s07",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 231000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000084",
+    "slug": "duravolt-sample-co-dv-fsd-20",
+    "sku": "REN-FSD-36142",
+    "mpn": "DV-FSD-20",
+    "brand": "Duravolt Sample Co.",
+    "name": "Fuse switch disconnectors, 20 A, 8 x RJ45, 2 NO",
+    "summary": "Fuse switch disconnectors from Duravolt Sample Co. with rated current 20 A, ports 8 x RJ45, contacts 2 NO.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s07",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 110600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000085",
+    "slug": "ampstead-am-fsd-250",
+    "sku": "REN-FSD-75873",
+    "mpn": "AM-FSD-250",
+    "brand": "Ampstead",
+    "name": "Fuse switch disconnectors, 250 A, 8 x RJ45, 4 C/O",
+    "summary": "Fuse switch disconnectors from Ampstead with rated current 250 A, ports 8 x RJ45, contacts 4 C/O.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s07",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 84400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000086",
+    "slug": "norvane-nv-surg-400vac",
+    "sku": "REN-SURG-89442",
+    "mpn": "NV-SURG-400VAC",
+    "brand": "Norvane",
+    "name": "Surge protection, 400 V AC, Panel cut-out, -25 to 70 °C",
+    "summary": "Surge protection from Norvane with rated voltage 400 V AC, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s08",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 24000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000087",
+    "slug": "duravolt-sample-co-dv-surg-400vac",
+    "sku": "REN-SURG-83420",
+    "mpn": "DV-SURG-400VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Surge protection, 400 V AC, DIN rail, 0 to 50 °C",
+    "summary": "Surge protection from Duravolt Sample Co. with rated voltage 400 V AC, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s08",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 190300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000088",
+    "slug": "lumeris-lm-surg-230vac",
+    "sku": "REN-SURG-73617",
+    "mpn": "LM-SURG-230VAC",
+    "brand": "Lumeris",
+    "name": "Surge protection, 230 V AC, Surface, -20 to 60 °C",
+    "summary": "Surge protection from Lumeris with rated voltage 230 V AC, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s08",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 107900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000089",
+    "slug": "kapbridge-controls-kc-surg-12vdc",
+    "sku": "REN-SURG-31849",
+    "mpn": "KC-SURG-12VDC",
+    "brand": "Kapbridge Controls",
+    "name": "Surge protection, 12 V DC, Surface, -20 to 60 °C",
+    "summary": "Surge protection from Kapbridge Controls with rated voltage 12 V DC, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s08",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 138500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000090",
+    "slug": "norvane-nv-surg-24vdc",
+    "sku": "REN-SURG-97996",
+    "mpn": "NV-SURG-24VDC",
+    "brand": "Norvane",
+    "name": "Surge protection, 24 V DC, Panel cut-out, 0 to 50 °C",
+    "summary": "Surge protection from Norvane with rated voltage 24 V DC, mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s08",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 243300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000091",
+    "slug": "duravolt-sample-co-dv-psp-110vac",
+    "sku": "REN-PSP-67011",
+    "mpn": "DV-PSP-110VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "PV surge protection, 110 V AC, Flush, -25 to 70 °C",
+    "summary": "PV surge protection from Duravolt Sample Co. with rated voltage 110 V AC, mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s09",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 85300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000092",
+    "slug": "kapbridge-controls-kc-psp-400vac",
+    "sku": "REN-PSP-91652",
+    "mpn": "KC-PSP-400VAC",
+    "brand": "Kapbridge Controls",
+    "name": "PV surge protection, 400 V AC, Surface, -25 to 70 °C",
+    "summary": "PV surge protection from Kapbridge Controls with rated voltage 400 V AC, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s09",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 240100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000093",
+    "slug": "norvane-nv-psp-12vdc",
+    "sku": "REN-PSP-31150",
+    "mpn": "NV-PSP-12VDC",
+    "brand": "Norvane",
+    "name": "PV surge protection, 12 V DC, Panel cut-out, -20 to 60 °C",
+    "summary": "PV surge protection from Norvane with rated voltage 12 V DC, mounting Panel cut-out, operating temperature -20 to 60 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s09",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 94900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000094",
+    "slug": "ampstead-am-psp-110vac",
+    "sku": "REN-PSP-14102",
+    "mpn": "AM-PSP-110VAC",
+    "brand": "Ampstead",
+    "name": "PV surge protection, 110 V AC, Flush, 0 to 50 °C",
+    "summary": "PV surge protection from Ampstead with rated voltage 110 V AC, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s09",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 157500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000095",
+    "slug": "duravolt-sample-co-dv-psp-230vac",
+    "sku": "REN-PSP-59738",
+    "mpn": "DV-PSP-230VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "PV surge protection, 230 V AC, Surface, -20 to 60 °C",
+    "summary": "PV surge protection from Duravolt Sample Co. with rated voltage 230 V AC, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s09",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 148000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000096",
+    "slug": "kapbridge-controls-kc-psp-110vac",
+    "sku": "REN-PSP-61143",
+    "mpn": "KC-PSP-110VAC",
+    "brand": "Kapbridge Controls",
+    "name": "PV surge protection, 110 V AC, Flush, -25 to 70 °C",
+    "summary": "PV surge protection from Kapbridge Controls with rated voltage 110 V AC, mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s09",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 26500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000097",
+    "slug": "kapbridge-controls-kc-psad-230vac",
+    "sku": "REN-PSAD-27549",
+    "mpn": "KC-PSAD-230VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Power supplies (AC-DC), 230 V AC, Surface, 0 to 50 °C",
+    "summary": "Power supplies (AC-DC) from Kapbridge Controls with rated voltage 230 V AC, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 327700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000098",
+    "slug": "voltara-vt-psad-400vac",
+    "sku": "REN-PSAD-32625",
+    "mpn": "VT-PSAD-400VAC",
+    "brand": "Voltara",
+    "name": "Power supplies (AC-DC), 400 V AC, Flush, 0 to 50 °C",
+    "summary": "Power supplies (AC-DC) from Voltara with rated voltage 400 V AC, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 704800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000099",
+    "slug": "lumeris-lm-psad-12vdc",
+    "sku": "REN-PSAD-11446",
+    "mpn": "LM-PSAD-12VDC",
+    "brand": "Lumeris",
+    "name": "Power supplies (AC-DC), 12 V DC, Panel cut-out, -20 to 60 °C",
+    "summary": "Power supplies (AC-DC) from Lumeris with rated voltage 12 V DC, mounting Panel cut-out, operating temperature -20 to 60 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 850300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000100",
+    "slug": "kapbridge-controls-kc-psad-230vac-2",
+    "sku": "REN-PSAD-11155",
+    "mpn": "KC-PSAD-230VAC-2",
+    "brand": "Kapbridge Controls",
+    "name": "Power supplies (AC-DC), 230 V AC, Surface, -20 to 60 °C",
+    "summary": "Power supplies (AC-DC) from Kapbridge Controls with rated voltage 230 V AC, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 519800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000101",
+    "slug": "ampstead-am-psad-12vdc",
+    "sku": "REN-PSAD-99994",
+    "mpn": "AM-PSAD-12VDC",
+    "brand": "Ampstead",
+    "name": "Power supplies (AC-DC), 12 V DC, DIN rail, 0 to 50 °C",
+    "summary": "Power supplies (AC-DC) from Ampstead with rated voltage 12 V DC, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 214000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000102",
+    "slug": "kapbridge-controls-kc-cst-12vdc",
+    "sku": "REN-CST-41396",
+    "mpn": "KC-CST-12VDC",
+    "brand": "Kapbridge Controls",
+    "name": "Control & safety transformers, 12 V DC, 1, Surface",
+    "summary": "Control & safety transformers from Kapbridge Controls with rated voltage 12 V DC, accuracy class 1, mounting Surface.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s11",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 29700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000103",
+    "slug": "ampstead-am-cst-12vdc",
+    "sku": "REN-CST-83083",
+    "mpn": "AM-CST-12VDC",
+    "brand": "Ampstead",
+    "name": "Control & safety transformers, 12 V DC, 0.5, Panel cut-out",
+    "summary": "Control & safety transformers from Ampstead with rated voltage 12 V DC, accuracy class 0.5, mounting Panel cut-out.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s11",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 66100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000104",
+    "slug": "kapbridge-controls-kc-cst-400vac",
+    "sku": "REN-CST-30190",
+    "mpn": "KC-CST-400VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Control & safety transformers, 400 V AC, 0.2S, DIN rail",
+    "summary": "Control & safety transformers from Kapbridge Controls with rated voltage 400 V AC, accuracy class 0.2S, mounting DIN rail.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s11",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 147500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000105",
+    "slug": "lumeris-lm-cst-12vdc",
+    "sku": "REN-CST-48816",
+    "mpn": "LM-CST-12VDC",
+    "brand": "Lumeris",
+    "name": "Control & safety transformers, 12 V DC, 0.5, DIN rail",
+    "summary": "Control & safety transformers from Lumeris with rated voltage 12 V DC, accuracy class 0.5, mounting DIN rail.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s11",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 175600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000106",
+    "slug": "duravolt-sample-co-dv-cst-12vdc",
+    "sku": "REN-CST-61844",
+    "mpn": "DV-CST-12VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Control & safety transformers, 12 V DC, 1, Surface",
+    "summary": "Control & safety transformers from Duravolt Sample Co. with rated voltage 12 V DC, accuracy class 1, mounting Surface.",
+    "categoryId": "c02",
+    "subcategoryId": "c02s11",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 56600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

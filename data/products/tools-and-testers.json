@@ -1,0 +1,1771 @@
+[
+  {
+    "id": "p_000571",
+    "slug": "duravolt-sample-co-dv-cabl-525",
+    "sku": "REN-CABL-12508",
+    "mpn": "DV-CABL-525",
+    "brand": "Duravolt Sample Co.",
+    "name": "Cable strippers, 1.5-10 mm², Panel cut-out, 0 to 50 °C",
+    "summary": "Cable strippers from Duravolt Sample Co. with cable capacity 1.5-10 mm², mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s01",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 10300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000572",
+    "slug": "lumeris-lm-cabl-699",
+    "sku": "REN-CABL-99986",
+    "mpn": "LM-CABL-699",
+    "brand": "Lumeris",
+    "name": "Cable strippers, 0.5-6 mm², Surface, 0 to 50 °C",
+    "summary": "Cable strippers from Lumeris with cable capacity 0.5-6 mm², mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s01",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "0.5-6",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 24300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000573",
+    "slug": "duravolt-sample-co-dv-cabl-272",
+    "sku": "REN-CABL-73469",
+    "mpn": "DV-CABL-272",
+    "brand": "Duravolt Sample Co.",
+    "name": "Cable strippers, 0.5-6 mm², DIN rail, 0 to 50 °C",
+    "summary": "Cable strippers from Duravolt Sample Co. with cable capacity 0.5-6 mm², mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s01",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "0.5-6",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 23300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000574",
+    "slug": "kapbridge-controls-kc-cabl-383",
+    "sku": "REN-CABL-82098",
+    "mpn": "KC-CABL-383",
+    "brand": "Kapbridge Controls",
+    "name": "Cable strippers, 0.5-6 mm², Panel cut-out, -25 to 70 °C",
+    "summary": "Cable strippers from Kapbridge Controls with cable capacity 0.5-6 mm², mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s01",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "0.5-6",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 6300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000575",
+    "slug": "ampstead-am-cabl-585",
+    "sku": "REN-CABL-71388",
+    "mpn": "AM-CABL-585",
+    "brand": "Ampstead",
+    "name": "Cable strippers, 1.5-10 mm², Flush, 0 to 50 °C",
+    "summary": "Cable strippers from Ampstead with cable capacity 1.5-10 mm², mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s01",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 5400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000576",
+    "slug": "norvane-nv-cabl-969",
+    "sku": "REN-CABL-35768",
+    "mpn": "NV-CABL-969",
+    "brand": "Norvane",
+    "name": "Cable strippers, 10-35 mm², Panel cut-out, 0 to 50 °C",
+    "summary": "Cable strippers from Norvane with cable capacity 10-35 mm², mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s01",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 9200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000577",
+    "slug": "duravolt-sample-co-dv-crim-324",
+    "sku": "REN-CRIM-74807",
+    "mpn": "DV-CRIM-324",
+    "brand": "Duravolt Sample Co.",
+    "name": "Crimping tools, 0.5-6 mm², Surface, -25 to 70 °C",
+    "summary": "Crimping tools from Duravolt Sample Co. with cable capacity 0.5-6 mm², mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s02",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "0.5-6",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 19100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000578",
+    "slug": "ampstead-am-crim-282",
+    "sku": "REN-CRIM-25146",
+    "mpn": "AM-CRIM-282",
+    "brand": "Ampstead",
+    "name": "Crimping tools, 1.5-10 mm², Flush, -25 to 70 °C",
+    "summary": "Crimping tools from Ampstead with cable capacity 1.5-10 mm², mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s02",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 25000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000579",
+    "slug": "ampstead-am-crim-392",
+    "sku": "REN-CRIM-30816",
+    "mpn": "AM-CRIM-392",
+    "brand": "Ampstead",
+    "name": "Crimping tools, 1.5-10 mm², Surface, 0 to 50 °C",
+    "summary": "Crimping tools from Ampstead with cable capacity 1.5-10 mm², mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s02",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 24600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000580",
+    "slug": "norvane-nv-crim-140",
+    "sku": "REN-CRIM-22925",
+    "mpn": "NV-CRIM-140",
+    "brand": "Norvane",
+    "name": "Crimping tools, 1.5-10 mm², DIN rail, -20 to 60 °C",
+    "summary": "Crimping tools from Norvane with cable capacity 1.5-10 mm², mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s02",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 24500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000581",
+    "slug": "duravolt-sample-co-dv-crim-562",
+    "sku": "REN-CRIM-86702",
+    "mpn": "DV-CRIM-562",
+    "brand": "Duravolt Sample Co.",
+    "name": "Crimping tools, 4-16 mm², Panel cut-out, 0 to 50 °C",
+    "summary": "Crimping tools from Duravolt Sample Co. with cable capacity 4-16 mm², mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s02",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "4-16",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 6300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000582",
+    "slug": "lumeris-lm-cabl-967",
+    "sku": "REN-CABL-68227",
+    "mpn": "LM-CABL-967",
+    "brand": "Lumeris",
+    "name": "Cable cutters, 0.5-6 mm², Surface, -20 to 60 °C",
+    "summary": "Cable cutters from Lumeris with cable capacity 0.5-6 mm², mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s03",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "0.5-6",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 19400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000583",
+    "slug": "ampstead-am-cabl-723",
+    "sku": "REN-CABL-60309",
+    "mpn": "AM-CABL-723",
+    "brand": "Ampstead",
+    "name": "Cable cutters, 1.5-10 mm², Panel cut-out, 0 to 50 °C",
+    "summary": "Cable cutters from Ampstead with cable capacity 1.5-10 mm², mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s03",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 17900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000584",
+    "slug": "duravolt-sample-co-dv-cabl-919",
+    "sku": "REN-CABL-75929",
+    "mpn": "DV-CABL-919",
+    "brand": "Duravolt Sample Co.",
+    "name": "Cable cutters, 10-35 mm², Surface, 0 to 50 °C",
+    "summary": "Cable cutters from Duravolt Sample Co. with cable capacity 10-35 mm², mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s03",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 10600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000585",
+    "slug": "voltara-vt-cabl-183",
+    "sku": "REN-CABL-26499",
+    "mpn": "VT-CABL-183",
+    "brand": "Voltara",
+    "name": "Cable cutters, 10-35 mm², Surface, 0 to 50 °C",
+    "summary": "Cable cutters from Voltara with cable capacity 10-35 mm², mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s03",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 18400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000586",
+    "slug": "voltara-vt-cabl-387",
+    "sku": "REN-CABL-74208",
+    "mpn": "VT-CABL-387",
+    "brand": "Voltara",
+    "name": "Cable cutters, 10-35 mm², Panel cut-out, -20 to 60 °C",
+    "summary": "Cable cutters from Voltara with cable capacity 10-35 mm², mounting Panel cut-out, operating temperature -20 to 60 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s03",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000587",
+    "slug": "kapbridge-controls-kc-hydr-565",
+    "sku": "REN-HYDR-96869",
+    "mpn": "KC-HYDR-565",
+    "brand": "Kapbridge Controls",
+    "name": "Hydraulic tools, 0.5-6 mm², Flush, -25 to 70 °C",
+    "summary": "Hydraulic tools from Kapbridge Controls with cable capacity 0.5-6 mm², mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s04",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "0.5-6",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 306100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000588",
+    "slug": "ampstead-am-hydr-601",
+    "sku": "REN-HYDR-38040",
+    "mpn": "AM-HYDR-601",
+    "brand": "Ampstead",
+    "name": "Hydraulic tools, 0.5-6 mm², Flush, -25 to 70 °C",
+    "summary": "Hydraulic tools from Ampstead with cable capacity 0.5-6 mm², mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s04",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "0.5-6",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 751500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000589",
+    "slug": "ampstead-am-hydr-405",
+    "sku": "REN-HYDR-37514",
+    "mpn": "AM-HYDR-405",
+    "brand": "Ampstead",
+    "name": "Hydraulic tools, 4-16 mm², Flush, -25 to 70 °C",
+    "summary": "Hydraulic tools from Ampstead with cable capacity 4-16 mm², mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s04",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "4-16",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 347400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000590",
+    "slug": "kapbridge-controls-kc-hydr-823",
+    "sku": "REN-HYDR-83815",
+    "mpn": "KC-HYDR-823",
+    "brand": "Kapbridge Controls",
+    "name": "Hydraulic tools, 10-35 mm², Surface, -25 to 70 °C",
+    "summary": "Hydraulic tools from Kapbridge Controls with cable capacity 10-35 mm², mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s04",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 698700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000591",
+    "slug": "voltara-vt-hydr-856",
+    "sku": "REN-HYDR-95962",
+    "mpn": "VT-HYDR-856",
+    "brand": "Voltara",
+    "name": "Hydraulic tools, 10-35 mm², Panel cut-out, -20 to 60 °C",
+    "summary": "Hydraulic tools from Voltara with cable capacity 10-35 mm², mounting Panel cut-out, operating temperature -20 to 60 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s04",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 774400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000592",
+    "slug": "norvane-nv-hydr-783",
+    "sku": "REN-HYDR-51733",
+    "mpn": "NV-HYDR-783",
+    "brand": "Norvane",
+    "name": "Hydraulic tools, 4-16 mm², Panel cut-out, 0 to 50 °C",
+    "summary": "Hydraulic tools from Norvane with cable capacity 4-16 mm², mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s04",
+    "specs": [
+      {
+        "label": "Cable capacity",
+        "value": "4-16",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 340600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000593",
+    "slug": "ampstead-am-drtc-500",
+    "sku": "REN-DRTC-42362",
+    "mpn": "AM-DRTC-500",
+    "brand": "Ampstead",
+    "name": "DIN rail & trunking cutters, Yellow, Glass-reinforced polyester, 500 mm, 10-35 mm²",
+    "summary": "DIN rail & trunking cutters from Ampstead with colour Yellow, material Glass-reinforced polyester, length 500 mm, cable capacity 10-35 mm².",
+    "categoryId": "c13",
+    "subcategoryId": "c13s05",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 19800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000594",
+    "slug": "ampstead-am-drtc-500-2",
+    "sku": "REN-DRTC-96720",
+    "mpn": "AM-DRTC-500-2",
+    "brand": "Ampstead",
+    "name": "DIN rail & trunking cutters, White, Galvanised steel, 500 mm, 4-16 mm²",
+    "summary": "DIN rail & trunking cutters from Ampstead with colour White, material Galvanised steel, length 500 mm, cable capacity 4-16 mm².",
+    "categoryId": "c13",
+    "subcategoryId": "c13s05",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "4-16",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000595",
+    "slug": "ampstead-am-drtc-250",
+    "sku": "REN-DRTC-41606",
+    "mpn": "AM-DRTC-250",
+    "brand": "Ampstead",
+    "name": "DIN rail & trunking cutters, Grey, Polycarbonate, 250 mm, 1.5-10 mm²",
+    "summary": "DIN rail & trunking cutters from Ampstead with colour Grey, material Polycarbonate, length 250 mm, cable capacity 1.5-10 mm².",
+    "categoryId": "c13",
+    "subcategoryId": "c13s05",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 24100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000596",
+    "slug": "duravolt-sample-co-dv-drtc-250",
+    "sku": "REN-DRTC-67751",
+    "mpn": "DV-DRTC-250",
+    "brand": "Duravolt Sample Co.",
+    "name": "DIN rail & trunking cutters, Green, Stainless steel 316, 250 mm, 1.5-10 mm²",
+    "summary": "DIN rail & trunking cutters from Duravolt Sample Co. with colour Green, material Stainless steel 316, length 250 mm, cable capacity 1.5-10 mm².",
+    "categoryId": "c13",
+    "subcategoryId": "c13s05",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 20800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000597",
+    "slug": "norvane-nv-drtc-250",
+    "sku": "REN-DRTC-48131",
+    "mpn": "NV-DRTC-250",
+    "brand": "Norvane",
+    "name": "DIN rail & trunking cutters, Black, Stainless steel 316, 250 mm, 1.5-10 mm²",
+    "summary": "DIN rail & trunking cutters from Norvane with colour Black, material Stainless steel 316, length 250 mm, cable capacity 1.5-10 mm².",
+    "categoryId": "c13",
+    "subcategoryId": "c13s05",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000598",
+    "slug": "duravolt-sample-co-dv-mcm-24vdc",
+    "sku": "REN-MCM-16078",
+    "mpn": "DV-MCM-24VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Multimeters & clamp meters, 24 V DC, Yellow, 1, CAT IV 600 V, 2400 lm",
+    "summary": "Multimeters & clamp meters from Duravolt Sample Co. with rated voltage 24 V DC, colour Yellow, accuracy class 1, measurement category CAT IV 600 V, luminous flux 2400 lm.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Measurement category",
+        "value": "CAT IV 600 V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000599",
+    "slug": "kapbridge-controls-kc-mcm-400vac",
+    "sku": "REN-MCM-52393",
+    "mpn": "KC-MCM-400VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Multimeters & clamp meters, 400 V AC, Grey, 0.5, CAT III 600 V, 4000 lm",
+    "summary": "Multimeters & clamp meters from Kapbridge Controls with rated voltage 400 V AC, colour Grey, accuracy class 0.5, measurement category CAT III 600 V, luminous flux 4000 lm.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Measurement category",
+        "value": "CAT III 600 V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 8100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000600",
+    "slug": "kapbridge-controls-kc-mcm-12vdc",
+    "sku": "REN-MCM-42992",
+    "mpn": "KC-MCM-12VDC",
+    "brand": "Kapbridge Controls",
+    "name": "Multimeters & clamp meters, 12 V DC, Black, 0.2S, CAT III 600 V, 6500 lm",
+    "summary": "Multimeters & clamp meters from Kapbridge Controls with rated voltage 12 V DC, colour Black, accuracy class 0.2S, measurement category CAT III 600 V, luminous flux 6500 lm.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      },
+      {
+        "label": "Measurement category",
+        "value": "CAT III 600 V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 20800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000601",
+    "slug": "norvane-nv-mcm-12vdc",
+    "sku": "REN-MCM-59040",
+    "mpn": "NV-MCM-12VDC",
+    "brand": "Norvane",
+    "name": "Multimeters & clamp meters, 12 V DC, Red, 0.2S, CAT IV 600 V, 2400 lm",
+    "summary": "Multimeters & clamp meters from Norvane with rated voltage 12 V DC, colour Red, accuracy class 0.2S, measurement category CAT IV 600 V, luminous flux 2400 lm.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      },
+      {
+        "label": "Measurement category",
+        "value": "CAT IV 600 V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 16500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000602",
+    "slug": "ampstead-am-mcm-24vdc",
+    "sku": "REN-MCM-33204",
+    "mpn": "AM-MCM-24VDC",
+    "brand": "Ampstead",
+    "name": "Multimeters & clamp meters, 24 V DC, Grey, 1, CAT III 600 V, 1200 lm",
+    "summary": "Multimeters & clamp meters from Ampstead with rated voltage 24 V DC, colour Grey, accuracy class 1, measurement category CAT III 600 V, luminous flux 1200 lm.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Measurement category",
+        "value": "CAT III 600 V"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 14200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000603",
+    "slug": "kapbridge-controls-kc-inst-680",
+    "sku": "REN-INST-12784",
+    "mpn": "KC-INST-680",
+    "brand": "Kapbridge Controls",
+    "name": "Installation testers, CAT IV 600 V, Surface, -25 to 70 °C",
+    "summary": "Installation testers from Kapbridge Controls with measurement category CAT IV 600 V, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s07",
+    "specs": [
+      {
+        "label": "Measurement category",
+        "value": "CAT IV 600 V"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 186800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000604",
+    "slug": "ampstead-am-inst-913",
+    "sku": "REN-INST-86372",
+    "mpn": "AM-INST-913",
+    "brand": "Ampstead",
+    "name": "Installation testers, CAT III 600 V, Surface, -20 to 60 °C",
+    "summary": "Installation testers from Ampstead with measurement category CAT III 600 V, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s07",
+    "specs": [
+      {
+        "label": "Measurement category",
+        "value": "CAT III 600 V"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 81600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000605",
+    "slug": "voltara-vt-inst-356",
+    "sku": "REN-INST-23460",
+    "mpn": "VT-INST-356",
+    "brand": "Voltara",
+    "name": "Installation testers, CAT III 600 V, Flush, -25 to 70 °C",
+    "summary": "Installation testers from Voltara with measurement category CAT III 600 V, mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s07",
+    "specs": [
+      {
+        "label": "Measurement category",
+        "value": "CAT III 600 V"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 242700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000606",
+    "slug": "kapbridge-controls-kc-inst-627",
+    "sku": "REN-INST-56965",
+    "mpn": "KC-INST-627",
+    "brand": "Kapbridge Controls",
+    "name": "Installation testers, CAT III 600 V, DIN rail, -20 to 60 °C",
+    "summary": "Installation testers from Kapbridge Controls with measurement category CAT III 600 V, mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s07",
+    "specs": [
+      {
+        "label": "Measurement category",
+        "value": "CAT III 600 V"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 155300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000607",
+    "slug": "lumeris-lm-inst-397",
+    "sku": "REN-INST-65322",
+    "mpn": "LM-INST-397",
+    "brand": "Lumeris",
+    "name": "Installation testers, CAT IV 600 V, Flush, 0 to 50 °C",
+    "summary": "Installation testers from Lumeris with measurement category CAT IV 600 V, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s07",
+    "specs": [
+      {
+        "label": "Measurement category",
+        "value": "CAT IV 600 V"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 151000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000608",
+    "slug": "norvane-nv-inst-510",
+    "sku": "REN-INST-35816",
+    "mpn": "NV-INST-510",
+    "brand": "Norvane",
+    "name": "Installation testers, CAT IV 600 V, Surface, -25 to 70 °C",
+    "summary": "Installation testers from Norvane with measurement category CAT IV 600 V, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s07",
+    "specs": [
+      {
+        "label": "Measurement category",
+        "value": "CAT IV 600 V"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 97300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000609",
+    "slug": "lumeris-lm-ther-842",
+    "sku": "REN-THER-36446",
+    "mpn": "LM-THER-842",
+    "brand": "Lumeris",
+    "name": "Thermal cameras, CAT III 600 V, -20 to 60 °C, DIN rail",
+    "summary": "Thermal cameras from Lumeris with measurement category CAT III 600 V, operating temperature -20 to 60 °C, mounting DIN rail.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s08",
+    "specs": [
+      {
+        "label": "Measurement category",
+        "value": "CAT III 600 V"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1285700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000610",
+    "slug": "kapbridge-controls-kc-ther-720",
+    "sku": "REN-THER-69692",
+    "mpn": "KC-THER-720",
+    "brand": "Kapbridge Controls",
+    "name": "Thermal cameras, CAT III 600 V, -20 to 60 °C, Panel cut-out",
+    "summary": "Thermal cameras from Kapbridge Controls with measurement category CAT III 600 V, operating temperature -20 to 60 °C, mounting Panel cut-out.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s08",
+    "specs": [
+      {
+        "label": "Measurement category",
+        "value": "CAT III 600 V"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3393100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000611",
+    "slug": "lumeris-lm-ther-515",
+    "sku": "REN-THER-71333",
+    "mpn": "LM-THER-515",
+    "brand": "Lumeris",
+    "name": "Thermal cameras, CAT III 600 V, -20 to 60 °C, Flush",
+    "summary": "Thermal cameras from Lumeris with measurement category CAT III 600 V, operating temperature -20 to 60 °C, mounting Flush.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s08",
+    "specs": [
+      {
+        "label": "Measurement category",
+        "value": "CAT III 600 V"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 633800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000612",
+    "slug": "duravolt-sample-co-dv-ther-552",
+    "sku": "REN-THER-47326",
+    "mpn": "DV-THER-552",
+    "brand": "Duravolt Sample Co.",
+    "name": "Thermal cameras, CAT III 600 V, -20 to 60 °C, Surface",
+    "summary": "Thermal cameras from Duravolt Sample Co. with measurement category CAT III 600 V, operating temperature -20 to 60 °C, mounting Surface.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s08",
+    "specs": [
+      {
+        "label": "Measurement category",
+        "value": "CAT III 600 V"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1006200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000613",
+    "slug": "kapbridge-controls-kc-ther-582",
+    "sku": "REN-THER-83048",
+    "mpn": "KC-THER-582",
+    "brand": "Kapbridge Controls",
+    "name": "Thermal cameras, CAT III 600 V, -25 to 70 °C, Surface",
+    "summary": "Thermal cameras from Kapbridge Controls with measurement category CAT III 600 V, operating temperature -25 to 70 °C, mounting Surface.",
+    "categoryId": "c13",
+    "subcategoryId": "c13s08",
+    "specs": [
+      {
+        "label": "Measurement category",
+        "value": "CAT III 600 V"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3360700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

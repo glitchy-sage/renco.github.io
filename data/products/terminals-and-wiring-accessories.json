@@ -1,0 +1,2992 @@
+[
+  {
+    "id": "p_000497",
+    "slug": "lumeris-lm-scre-20",
+    "sku": "REN-SCRE-36014",
+    "mpn": "LM-SCRE-20",
+    "brand": "Lumeris",
+    "name": "Screw terminals, 20 A, Flush, 0 to 50 °C",
+    "summary": "Screw terminals from Lumeris with rated current 20 A, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 15800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000498",
+    "slug": "duravolt-sample-co-dv-scre-20",
+    "sku": "REN-SCRE-17800",
+    "mpn": "DV-SCRE-20",
+    "brand": "Duravolt Sample Co.",
+    "name": "Screw terminals, 20 A, DIN rail, -25 to 70 °C",
+    "summary": "Screw terminals from Duravolt Sample Co. with rated current 20 A, mounting DIN rail, operating temperature -25 to 70 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 9600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000499",
+    "slug": "duravolt-sample-co-dv-scre-32",
+    "sku": "REN-SCRE-17287",
+    "mpn": "DV-SCRE-32",
+    "brand": "Duravolt Sample Co.",
+    "name": "Screw terminals, 32 A, Flush, -25 to 70 °C",
+    "summary": "Screw terminals from Duravolt Sample Co. with rated current 32 A, mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 16100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000500",
+    "slug": "lumeris-lm-scre-250",
+    "sku": "REN-SCRE-60534",
+    "mpn": "LM-SCRE-250",
+    "brand": "Lumeris",
+    "name": "Screw terminals, 250 A, Panel cut-out, 0 to 50 °C",
+    "summary": "Screw terminals from Lumeris with rated current 250 A, mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 10100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000501",
+    "slug": "voltara-vt-scre-400",
+    "sku": "REN-SCRE-54541",
+    "mpn": "VT-SCRE-400",
+    "brand": "Voltara",
+    "name": "Screw terminals, 400 A, Surface, -20 to 60 °C",
+    "summary": "Screw terminals from Voltara with rated current 400 A, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s01",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 12300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000502",
+    "slug": "kapbridge-controls-kc-pit-32",
+    "sku": "REN-PIT-29165",
+    "mpn": "KC-PIT-32",
+    "brand": "Kapbridge Controls",
+    "name": "Push-in terminals, 32 A, Flush, 0 to 50 °C",
+    "summary": "Push-in terminals from Kapbridge Controls with rated current 32 A, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 1600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000503",
+    "slug": "ampstead-am-pit-20",
+    "sku": "REN-PIT-93533",
+    "mpn": "AM-PIT-20",
+    "brand": "Ampstead",
+    "name": "Push-in terminals, 20 A, Flush, -20 to 60 °C",
+    "summary": "Push-in terminals from Ampstead with rated current 20 A, mounting Flush, operating temperature -20 to 60 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 5000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000504",
+    "slug": "voltara-vt-pit-16",
+    "sku": "REN-PIT-75814",
+    "mpn": "VT-PIT-16",
+    "brand": "Voltara",
+    "name": "Push-in terminals, 16 A, DIN rail, -25 to 70 °C",
+    "summary": "Push-in terminals from Voltara with rated current 16 A, mounting DIN rail, operating temperature -25 to 70 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 18800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000505",
+    "slug": "lumeris-lm-pit-32",
+    "sku": "REN-PIT-81843",
+    "mpn": "LM-PIT-32",
+    "brand": "Lumeris",
+    "name": "Push-in terminals, 32 A, Flush, 0 to 50 °C",
+    "summary": "Push-in terminals from Lumeris with rated current 32 A, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 24900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000506",
+    "slug": "norvane-nv-pit-6",
+    "sku": "REN-PIT-91927",
+    "mpn": "NV-PIT-6",
+    "brand": "Norvane",
+    "name": "Push-in terminals, 6 A, Surface, -25 to 70 °C",
+    "summary": "Push-in terminals from Norvane with rated current 6 A, mounting Surface, operating temperature -25 to 70 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s02",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 14200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000507",
+    "slug": "kapbridge-controls-kc-term-6",
+    "sku": "REN-TERM-22953",
+    "mpn": "KC-TERM-6",
+    "brand": "Kapbridge Controls",
+    "name": "Terminal accessories, 6 A, Flush, -20 to 60 °C",
+    "summary": "Terminal accessories from Kapbridge Controls with rated current 6 A, mounting Flush, operating temperature -20 to 60 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 19700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000508",
+    "slug": "ampstead-am-term-32",
+    "sku": "REN-TERM-82370",
+    "mpn": "AM-TERM-32",
+    "brand": "Ampstead",
+    "name": "Terminal accessories, 32 A, Panel cut-out, -20 to 60 °C",
+    "summary": "Terminal accessories from Ampstead with rated current 32 A, mounting Panel cut-out, operating temperature -20 to 60 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 23500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000509",
+    "slug": "lumeris-lm-term-32",
+    "sku": "REN-TERM-93537",
+    "mpn": "LM-TERM-32",
+    "brand": "Lumeris",
+    "name": "Terminal accessories, 32 A, DIN rail, -20 to 60 °C",
+    "summary": "Terminal accessories from Lumeris with rated current 32 A, mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 7700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000510",
+    "slug": "duravolt-sample-co-dv-term-400",
+    "sku": "REN-TERM-71644",
+    "mpn": "DV-TERM-400",
+    "brand": "Duravolt Sample Co.",
+    "name": "Terminal accessories, 400 A, DIN rail, -20 to 60 °C",
+    "summary": "Terminal accessories from Duravolt Sample Co. with rated current 400 A, mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 15000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000511",
+    "slug": "norvane-nv-term-6",
+    "sku": "REN-TERM-62270",
+    "mpn": "NV-TERM-6",
+    "brand": "Norvane",
+    "name": "Terminal accessories, 6 A, Flush, 0 to 50 °C",
+    "summary": "Terminal accessories from Norvane with rated current 6 A, mounting Flush, operating temperature 0 to 50 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 13700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000512",
+    "slug": "duravolt-sample-co-dv-term-32",
+    "sku": "REN-TERM-82153",
+    "mpn": "DV-TERM-32",
+    "brand": "Duravolt Sample Co.",
+    "name": "Terminal accessories, 32 A, DIN rail, -20 to 60 °C",
+    "summary": "Terminal accessories from Duravolt Sample Co. with rated current 32 A, mounting DIN rail, operating temperature -20 to 60 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s03",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 9200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000513",
+    "slug": "ampstead-am-slot-250",
+    "sku": "REN-SLOT-44983",
+    "mpn": "AM-SLOT-250",
+    "brand": "Ampstead",
+    "name": "Slotted trunking, Yellow, Stainless steel 316, 250 mm",
+    "summary": "Slotted trunking from Ampstead with colour Yellow, material Stainless steel 316, length 250 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s04",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 5300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000514",
+    "slug": "voltara-vt-slot-100",
+    "sku": "REN-SLOT-37347",
+    "mpn": "VT-SLOT-100",
+    "brand": "Voltara",
+    "name": "Slotted trunking, Black, Polycarbonate, 100 mm",
+    "summary": "Slotted trunking from Voltara with colour Black, material Polycarbonate, length 100 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s04",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 9800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000515",
+    "slug": "norvane-nv-slot-100",
+    "sku": "REN-SLOT-69997",
+    "mpn": "NV-SLOT-100",
+    "brand": "Norvane",
+    "name": "Slotted trunking, Red, Stainless steel 316, 100 mm",
+    "summary": "Slotted trunking from Norvane with colour Red, material Stainless steel 316, length 100 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s04",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 13300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000516",
+    "slug": "ampstead-am-slot-100",
+    "sku": "REN-SLOT-62776",
+    "mpn": "AM-SLOT-100",
+    "brand": "Ampstead",
+    "name": "Slotted trunking, Grey, Stainless steel 316, 100 mm",
+    "summary": "Slotted trunking from Ampstead with colour Grey, material Stainless steel 316, length 100 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s04",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 19600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000517",
+    "slug": "lumeris-lm-slot-1000",
+    "sku": "REN-SLOT-93789",
+    "mpn": "LM-SLOT-1000",
+    "brand": "Lumeris",
+    "name": "Slotted trunking, Black, Galvanised steel, 1000 mm",
+    "summary": "Slotted trunking from Lumeris with colour Black, material Galvanised steel, length 1000 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s04",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 9900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000518",
+    "slug": "ampstead-am-din-500",
+    "sku": "REN-DIN-46788",
+    "mpn": "AM-DIN-500",
+    "brand": "Ampstead",
+    "name": "DIN rail, Yellow, Galvanised steel, 500 mm",
+    "summary": "DIN rail from Ampstead with colour Yellow, material Galvanised steel, length 500 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s05",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 24000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000519",
+    "slug": "duravolt-sample-co-dv-din-100",
+    "sku": "REN-DIN-94649",
+    "mpn": "DV-DIN-100",
+    "brand": "Duravolt Sample Co.",
+    "name": "DIN rail, Grey, Powder-coated steel, 100 mm",
+    "summary": "DIN rail from Duravolt Sample Co. with colour Grey, material Powder-coated steel, length 100 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s05",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 19800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000520",
+    "slug": "kapbridge-controls-kc-din-2000",
+    "sku": "REN-DIN-41860",
+    "mpn": "KC-DIN-2000",
+    "brand": "Kapbridge Controls",
+    "name": "DIN rail, White, Powder-coated steel, 2000 mm",
+    "summary": "DIN rail from Kapbridge Controls with colour White, material Powder-coated steel, length 2000 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s05",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 17200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000521",
+    "slug": "lumeris-lm-din-500",
+    "sku": "REN-DIN-12041",
+    "mpn": "LM-DIN-500",
+    "brand": "Lumeris",
+    "name": "DIN rail, Black, Stainless steel 316, 500 mm",
+    "summary": "DIN rail from Lumeris with colour Black, material Stainless steel 316, length 500 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s05",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 8600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000522",
+    "slug": "norvane-nv-din-1000",
+    "sku": "REN-DIN-88655",
+    "mpn": "NV-DIN-1000",
+    "brand": "Norvane",
+    "name": "DIN rail, Yellow, Powder-coated steel, 1000 mm",
+    "summary": "DIN rail from Norvane with colour Yellow, material Powder-coated steel, length 1000 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s05",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 7600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000523",
+    "slug": "ampstead-am-cabl-140-36-nat",
+    "sku": "REN-CABL-44417",
+    "mpn": "AM-CABL-140-36-NAT",
+    "brand": "Ampstead",
+    "name": "Cable tie, 140 mm, 3.6 mm wide, Natural",
+    "summary": "Cable tie from Ampstead with length 140 mm, width 3.6 mm, colour Natural.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s06",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "140",
+        "unit": "mm"
+      },
+      {
+        "label": "Width",
+        "value": "3.6",
+        "unit": "mm"
+      },
+      {
+        "label": "Colour",
+        "value": "Natural"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 8100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000524",
+    "slug": "norvane-nv-cabl-500-48-bk",
+    "sku": "REN-CABL-49472",
+    "mpn": "NV-CABL-500-48-BK",
+    "brand": "Norvane",
+    "name": "Cable tie, 500 mm, 4.8 mm wide, Black",
+    "summary": "Cable tie from Norvane with length 500 mm, width 4.8 mm, colour Black.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s06",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Width",
+        "value": "4.8",
+        "unit": "mm"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 12900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000525",
+    "slug": "ampstead-am-cabl-500-90-bk",
+    "sku": "REN-CABL-55133",
+    "mpn": "AM-CABL-500-90-BK",
+    "brand": "Ampstead",
+    "name": "Cable tie, 500 mm, 9.0 mm wide, Black",
+    "summary": "Cable tie from Ampstead with length 500 mm, width 9.0 mm, colour Black.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s06",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Width",
+        "value": "9.0",
+        "unit": "mm"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 2200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000526",
+    "slug": "voltara-vt-cabl-500-36-nat",
+    "sku": "REN-CABL-80928",
+    "mpn": "VT-CABL-500-36-NAT",
+    "brand": "Voltara",
+    "name": "Cable tie, 500 mm, 3.6 mm wide, Natural",
+    "summary": "Cable tie from Voltara with length 500 mm, width 3.6 mm, colour Natural.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s06",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Width",
+        "value": "3.6",
+        "unit": "mm"
+      },
+      {
+        "label": "Colour",
+        "value": "Natural"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 1800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000527",
+    "slug": "kapbridge-controls-kc-cabl-100-36-bk",
+    "sku": "REN-CABL-78293",
+    "mpn": "KC-CABL-100-36-BK",
+    "brand": "Kapbridge Controls",
+    "name": "Cable tie, 100 mm, 3.6 mm wide, Black",
+    "summary": "Cable tie from Kapbridge Controls with length 100 mm, width 3.6 mm, colour Black.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s06",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Width",
+        "value": "3.6",
+        "unit": "mm"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 5400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000528",
+    "slug": "ampstead-am-cabl-290-76-nat",
+    "sku": "REN-CABL-38699",
+    "mpn": "AM-CABL-290-76-NAT",
+    "brand": "Ampstead",
+    "name": "Cable tie, 290 mm, 7.6 mm wide, Natural",
+    "summary": "Cable tie from Ampstead with length 290 mm, width 7.6 mm, colour Natural.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s06",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "290",
+        "unit": "mm"
+      },
+      {
+        "label": "Width",
+        "value": "7.6",
+        "unit": "mm"
+      },
+      {
+        "label": "Colour",
+        "value": "Natural"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 6800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000529",
+    "slug": "kapbridge-controls-kc-ferr-1000",
+    "sku": "REN-FERR-73791",
+    "mpn": "KC-FERR-1000",
+    "brand": "Kapbridge Controls",
+    "name": "Ferrules, Black, 1000 mm, 10-35 mm²",
+    "summary": "Ferrules from Kapbridge Controls with colour Black, length 1000 mm, cable capacity 10-35 mm².",
+    "categoryId": "c12",
+    "subcategoryId": "c12s07",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 11300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000530",
+    "slug": "voltara-vt-ferr-500",
+    "sku": "REN-FERR-37813",
+    "mpn": "VT-FERR-500",
+    "brand": "Voltara",
+    "name": "Ferrules, Grey, 500 mm, 4-16 mm²",
+    "summary": "Ferrules from Voltara with colour Grey, length 500 mm, cable capacity 4-16 mm².",
+    "categoryId": "c12",
+    "subcategoryId": "c12s07",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "4-16",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 7700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000531",
+    "slug": "ampstead-am-ferr-100",
+    "sku": "REN-FERR-81394",
+    "mpn": "AM-FERR-100",
+    "brand": "Ampstead",
+    "name": "Ferrules, Yellow, 100 mm, 1.5-10 mm²",
+    "summary": "Ferrules from Ampstead with colour Yellow, length 100 mm, cable capacity 1.5-10 mm².",
+    "categoryId": "c12",
+    "subcategoryId": "c12s07",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 5700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000532",
+    "slug": "ampstead-am-ferr-500",
+    "sku": "REN-FERR-75156",
+    "mpn": "AM-FERR-500",
+    "brand": "Ampstead",
+    "name": "Ferrules, White, 500 mm, 4-16 mm²",
+    "summary": "Ferrules from Ampstead with colour White, length 500 mm, cable capacity 4-16 mm².",
+    "categoryId": "c12",
+    "subcategoryId": "c12s07",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "4-16",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 7700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000533",
+    "slug": "voltara-vt-ferr-2000",
+    "sku": "REN-FERR-48233",
+    "mpn": "VT-FERR-2000",
+    "brand": "Voltara",
+    "name": "Ferrules, Grey, 2000 mm, 10-35 mm²",
+    "summary": "Ferrules from Voltara with colour Grey, length 2000 mm, cable capacity 10-35 mm².",
+    "categoryId": "c12",
+    "subcategoryId": "c12s07",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 20800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000534",
+    "slug": "voltara-vt-crim-1000",
+    "sku": "REN-CRIM-91138",
+    "mpn": "VT-CRIM-1000",
+    "brand": "Voltara",
+    "name": "Crimp lugs, 1000 mm, 0.5-6 mm², Surface",
+    "summary": "Crimp lugs from Voltara with length 1000 mm, cable capacity 0.5-6 mm², mounting Surface.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s08",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "0.5-6",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 15000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000535",
+    "slug": "voltara-vt-crim-250",
+    "sku": "REN-CRIM-95811",
+    "mpn": "VT-CRIM-250",
+    "brand": "Voltara",
+    "name": "Crimp lugs, 250 mm, 10-35 mm², Panel cut-out",
+    "summary": "Crimp lugs from Voltara with length 250 mm, cable capacity 10-35 mm², mounting Panel cut-out.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s08",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 8600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000536",
+    "slug": "duravolt-sample-co-dv-crim-250",
+    "sku": "REN-CRIM-69449",
+    "mpn": "DV-CRIM-250",
+    "brand": "Duravolt Sample Co.",
+    "name": "Crimp lugs, 250 mm, 1.5-10 mm², Flush",
+    "summary": "Crimp lugs from Duravolt Sample Co. with length 250 mm, cable capacity 1.5-10 mm², mounting Flush.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s08",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 14200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000537",
+    "slug": "voltara-vt-crim-500",
+    "sku": "REN-CRIM-24393",
+    "mpn": "VT-CRIM-500",
+    "brand": "Voltara",
+    "name": "Crimp lugs, 500 mm, 1.5-10 mm², Panel cut-out",
+    "summary": "Crimp lugs from Voltara with length 500 mm, cable capacity 1.5-10 mm², mounting Panel cut-out.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s08",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 15800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000538",
+    "slug": "norvane-nv-crim-1000",
+    "sku": "REN-CRIM-89492",
+    "mpn": "NV-CRIM-1000",
+    "brand": "Norvane",
+    "name": "Crimp lugs, 1000 mm, 1.5-10 mm², Flush",
+    "summary": "Crimp lugs from Norvane with length 1000 mm, cable capacity 1.5-10 mm², mounting Flush.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s08",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 100,
+    "priceExclVatCents": 18600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000539",
+    "slug": "duravolt-sample-co-dv-cgc-ip66-100",
+    "sku": "REN-CGC-28820",
+    "mpn": "DV-CGC-IP66-100",
+    "brand": "Duravolt Sample Co.",
+    "name": "Cable glands & conduit, IP66, Yellow, Galvanised steel, 100 mm, 1.5-10 mm²",
+    "summary": "Cable glands & conduit from Duravolt Sample Co. with ip rating IP66, colour Yellow, material Galvanised steel, length 100 mm, cable capacity 1.5-10 mm².",
+    "categoryId": "c12",
+    "subcategoryId": "c12s09",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 15700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000540",
+    "slug": "norvane-nv-cgc-ip66-100",
+    "sku": "REN-CGC-26613",
+    "mpn": "NV-CGC-IP66-100",
+    "brand": "Norvane",
+    "name": "Cable glands & conduit, IP66, Grey, Polycarbonate, 100 mm, 0.5-6 mm²",
+    "summary": "Cable glands & conduit from Norvane with ip rating IP66, colour Grey, material Polycarbonate, length 100 mm, cable capacity 0.5-6 mm².",
+    "categoryId": "c12",
+    "subcategoryId": "c12s09",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "0.5-6",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 9800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000541",
+    "slug": "duravolt-sample-co-dv-cgc-ip66-250",
+    "sku": "REN-CGC-25055",
+    "mpn": "DV-CGC-IP66-250",
+    "brand": "Duravolt Sample Co.",
+    "name": "Cable glands & conduit, IP66, Black, Powder-coated steel, 250 mm, 1.5-10 mm²",
+    "summary": "Cable glands & conduit from Duravolt Sample Co. with ip rating IP66, colour Black, material Powder-coated steel, length 250 mm, cable capacity 1.5-10 mm².",
+    "categoryId": "c12",
+    "subcategoryId": "c12s09",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "1.5-10",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 5100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000542",
+    "slug": "duravolt-sample-co-dv-cgc-ip66-500",
+    "sku": "REN-CGC-15739",
+    "mpn": "DV-CGC-IP66-500",
+    "brand": "Duravolt Sample Co.",
+    "name": "Cable glands & conduit, IP66, White, Powder-coated steel, 500 mm, 4-16 mm²",
+    "summary": "Cable glands & conduit from Duravolt Sample Co. with ip rating IP66, colour White, material Powder-coated steel, length 500 mm, cable capacity 4-16 mm².",
+    "categoryId": "c12",
+    "subcategoryId": "c12s09",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "4-16",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 14700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000543",
+    "slug": "kapbridge-controls-kc-cgc-ip67-500",
+    "sku": "REN-CGC-34411",
+    "mpn": "KC-CGC-IP67-500",
+    "brand": "Kapbridge Controls",
+    "name": "Cable glands & conduit, IP67, Green, Stainless steel 316, 500 mm, 4-16 mm²",
+    "summary": "Cable glands & conduit from Kapbridge Controls with ip rating IP67, colour Green, material Stainless steel 316, length 500 mm, cable capacity 4-16 mm².",
+    "categoryId": "c12",
+    "subcategoryId": "c12s09",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "4-16",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 5200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000544",
+    "slug": "lumeris-lm-cgc-ip20-100",
+    "sku": "REN-CGC-45220",
+    "mpn": "LM-CGC-IP20-100",
+    "brand": "Lumeris",
+    "name": "Cable glands & conduit, IP20, Grey, Stainless steel 316, 100 mm, 10-35 mm²",
+    "summary": "Cable glands & conduit from Lumeris with ip rating IP20, colour Grey, material Stainless steel 316, length 100 mm, cable capacity 10-35 mm².",
+    "categoryId": "c12",
+    "subcategoryId": "c12s09",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Cable capacity",
+        "value": "10-35",
+        "unit": "mm²"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 14000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000545",
+    "slug": "kapbridge-controls-kc-junc-ip67-300x400",
+    "sku": "REN-JUNC-23890",
+    "mpn": "KC-JUNC-IP67-300X400",
+    "brand": "Kapbridge Controls",
+    "name": "Junction boxes, IP67, Black, Glass-reinforced polyester, 300 x 400 mm",
+    "summary": "Junction boxes from Kapbridge Controls with ip rating IP67, colour Black, material Glass-reinforced polyester, dimensions (w x h) 300 x 400 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s10",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "300 x 400",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 11700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000546",
+    "slug": "duravolt-sample-co-dv-junc-ip66-300x400",
+    "sku": "REN-JUNC-69877",
+    "mpn": "DV-JUNC-IP66-300X400",
+    "brand": "Duravolt Sample Co.",
+    "name": "Junction boxes, IP66, Green, Powder-coated steel, 300 x 400 mm",
+    "summary": "Junction boxes from Duravolt Sample Co. with ip rating IP66, colour Green, material Powder-coated steel, dimensions (w x h) 300 x 400 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s10",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "300 x 400",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 12900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000547",
+    "slug": "ampstead-am-junc-ip65-600x800",
+    "sku": "REN-JUNC-35158",
+    "mpn": "AM-JUNC-IP65-600X800",
+    "brand": "Ampstead",
+    "name": "Junction boxes, IP65, Black, Glass-reinforced polyester, 600 x 800 mm",
+    "summary": "Junction boxes from Ampstead with ip rating IP65, colour Black, material Glass-reinforced polyester, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s10",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 14900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000548",
+    "slug": "lumeris-lm-junc-ip54-600x800",
+    "sku": "REN-JUNC-59899",
+    "mpn": "LM-JUNC-IP54-600X800",
+    "brand": "Lumeris",
+    "name": "Junction boxes, IP54, Red, Polycarbonate, 600 x 800 mm",
+    "summary": "Junction boxes from Lumeris with ip rating IP54, colour Red, material Polycarbonate, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s10",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000549",
+    "slug": "duravolt-sample-co-dv-junc-ip54-600x800",
+    "sku": "REN-JUNC-83795",
+    "mpn": "DV-JUNC-IP54-600X800",
+    "brand": "Duravolt Sample Co.",
+    "name": "Junction boxes, IP54, Green, Stainless steel 316, 600 x 800 mm",
+    "summary": "Junction boxes from Duravolt Sample Co. with ip rating IP54, colour Green, material Stainless steel 316, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s10",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 18700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000550",
+    "slug": "lumeris-lm-heat-2000",
+    "sku": "REN-HEAT-89142",
+    "mpn": "LM-HEAT-2000",
+    "brand": "Lumeris",
+    "name": "Heat shrink, Grey, 2000 mm, -20 to 60 °C",
+    "summary": "Heat shrink from Lumeris with colour Grey, length 2000 mm, operating temperature -20 to 60 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s11",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 6700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000551",
+    "slug": "lumeris-lm-heat-2000-2",
+    "sku": "REN-HEAT-85099",
+    "mpn": "LM-HEAT-2000-2",
+    "brand": "Lumeris",
+    "name": "Heat shrink, Green, 2000 mm, 0 to 50 °C",
+    "summary": "Heat shrink from Lumeris with colour Green, length 2000 mm, operating temperature 0 to 50 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s11",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 12700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000552",
+    "slug": "kapbridge-controls-kc-heat-250",
+    "sku": "REN-HEAT-49082",
+    "mpn": "KC-HEAT-250",
+    "brand": "Kapbridge Controls",
+    "name": "Heat shrink, Grey, 250 mm, -25 to 70 °C",
+    "summary": "Heat shrink from Kapbridge Controls with colour Grey, length 250 mm, operating temperature -25 to 70 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s11",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 11400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000553",
+    "slug": "ampstead-am-heat-2000",
+    "sku": "REN-HEAT-29952",
+    "mpn": "AM-HEAT-2000",
+    "brand": "Ampstead",
+    "name": "Heat shrink, Green, 2000 mm, -25 to 70 °C",
+    "summary": "Heat shrink from Ampstead with colour Green, length 2000 mm, operating temperature -25 to 70 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s11",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 1500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000554",
+    "slug": "voltara-vt-heat-2000",
+    "sku": "REN-HEAT-71198",
+    "mpn": "VT-HEAT-2000",
+    "brand": "Voltara",
+    "name": "Heat shrink, Yellow, 2000 mm, 0 to 50 °C",
+    "summary": "Heat shrink from Voltara with colour Yellow, length 2000 mm, operating temperature 0 to 50 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s11",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 11600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000555",
+    "slug": "duravolt-sample-co-dv-dist-100",
+    "sku": "REN-DIST-48781",
+    "mpn": "DV-DIST-100",
+    "brand": "Duravolt Sample Co.",
+    "name": "Distribution blocks, 100 A, DIN rail, 0 to 50 °C",
+    "summary": "Distribution blocks from Duravolt Sample Co. with rated current 100 A, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s12",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 30500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000556",
+    "slug": "voltara-vt-dist-250",
+    "sku": "REN-DIST-76315",
+    "mpn": "VT-DIST-250",
+    "brand": "Voltara",
+    "name": "Distribution blocks, 250 A, Flush, -20 to 60 °C",
+    "summary": "Distribution blocks from Voltara with rated current 250 A, mounting Flush, operating temperature -20 to 60 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s12",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 118100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000557",
+    "slug": "duravolt-sample-co-dv-dist-20",
+    "sku": "REN-DIST-59822",
+    "mpn": "DV-DIST-20",
+    "brand": "Duravolt Sample Co.",
+    "name": "Distribution blocks, 20 A, Surface, 0 to 50 °C",
+    "summary": "Distribution blocks from Duravolt Sample Co. with rated current 20 A, mounting Surface, operating temperature 0 to 50 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s12",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 89000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000558",
+    "slug": "voltara-vt-dist-6",
+    "sku": "REN-DIST-50534",
+    "mpn": "VT-DIST-6",
+    "brand": "Voltara",
+    "name": "Distribution blocks, 6 A, Panel cut-out, -25 to 70 °C",
+    "summary": "Distribution blocks from Voltara with rated current 6 A, mounting Panel cut-out, operating temperature -25 to 70 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s12",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 54000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000559",
+    "slug": "kapbridge-controls-kc-dist-250",
+    "sku": "REN-DIST-61854",
+    "mpn": "KC-DIST-250",
+    "brand": "Kapbridge Controls",
+    "name": "Distribution blocks, 250 A, Flush, -20 to 60 °C",
+    "summary": "Distribution blocks from Kapbridge Controls with rated current 250 A, mounting Flush, operating temperature -20 to 60 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s12",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 162800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000560",
+    "slug": "norvane-nv-dist-400",
+    "sku": "REN-DIST-32923",
+    "mpn": "NV-DIST-400",
+    "brand": "Norvane",
+    "name": "Distribution blocks, 400 A, Flush, -25 to 70 °C",
+    "summary": "Distribution blocks from Norvane with rated current 400 A, mounting Flush, operating temperature -25 to 70 °C.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s12",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 87100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000561",
+    "slug": "norvane-nv-flex-400-1000",
+    "sku": "REN-FLEX-87300",
+    "mpn": "NV-FLEX-400-1000",
+    "brand": "Norvane",
+    "name": "Flexible busbar, 400 A, 1000 mm, Surface",
+    "summary": "Flexible busbar from Norvane with rated current 400 A, length 1000 mm, mounting Surface.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s13",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 20200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000562",
+    "slug": "ampstead-am-flex-250-250",
+    "sku": "REN-FLEX-46470",
+    "mpn": "AM-FLEX-250-250",
+    "brand": "Ampstead",
+    "name": "Flexible busbar, 250 A, 250 mm, Panel cut-out",
+    "summary": "Flexible busbar from Ampstead with rated current 250 A, length 250 mm, mounting Panel cut-out.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s13",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 16700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000563",
+    "slug": "voltara-vt-flex-16-500",
+    "sku": "REN-FLEX-26812",
+    "mpn": "VT-FLEX-16-500",
+    "brand": "Voltara",
+    "name": "Flexible busbar, 16 A, 500 mm, DIN rail",
+    "summary": "Flexible busbar from Voltara with rated current 16 A, length 500 mm, mounting DIN rail.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s13",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 246800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000564",
+    "slug": "voltara-vt-flex-63-1000",
+    "sku": "REN-FLEX-89027",
+    "mpn": "VT-FLEX-63-1000",
+    "brand": "Voltara",
+    "name": "Flexible busbar, 63 A, 1000 mm, Panel cut-out",
+    "summary": "Flexible busbar from Voltara with rated current 63 A, length 1000 mm, mounting Panel cut-out.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s13",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 244300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000565",
+    "slug": "ampstead-am-flex-250-500",
+    "sku": "REN-FLEX-39142",
+    "mpn": "AM-FLEX-250-500",
+    "brand": "Ampstead",
+    "name": "Flexible busbar, 250 A, 500 mm, Surface",
+    "summary": "Flexible busbar from Ampstead with rated current 250 A, length 500 mm, mounting Surface.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s13",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "metre",
+    "packQty": 1,
+    "priceExclVatCents": 113300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000566",
+    "slug": "lumeris-lm-cabl-2000",
+    "sku": "REN-CABL-81086",
+    "mpn": "LM-CABL-2000",
+    "brand": "Lumeris",
+    "name": "Cable markers, Black, 2000 mm, Panel cut-out",
+    "summary": "Cable markers from Lumeris with colour Black, length 2000 mm, mounting Panel cut-out.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s14",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 10400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000567",
+    "slug": "duravolt-sample-co-dv-cabl-500",
+    "sku": "REN-CABL-54308",
+    "mpn": "DV-CABL-500",
+    "brand": "Duravolt Sample Co.",
+    "name": "Cable markers, Green, 500 mm, DIN rail",
+    "summary": "Cable markers from Duravolt Sample Co. with colour Green, length 500 mm, mounting DIN rail.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s14",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 22800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000568",
+    "slug": "lumeris-lm-cabl-250",
+    "sku": "REN-CABL-14169",
+    "mpn": "LM-CABL-250",
+    "brand": "Lumeris",
+    "name": "Cable markers, Grey, 250 mm, DIN rail",
+    "summary": "Cable markers from Lumeris with colour Grey, length 250 mm, mounting DIN rail.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s14",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 13100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000569",
+    "slug": "kapbridge-controls-kc-cabl-1000",
+    "sku": "REN-CABL-44615",
+    "mpn": "KC-CABL-1000",
+    "brand": "Kapbridge Controls",
+    "name": "Cable markers, White, 1000 mm, DIN rail",
+    "summary": "Cable markers from Kapbridge Controls with colour White, length 1000 mm, mounting DIN rail.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s14",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 24800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000570",
+    "slug": "duravolt-sample-co-dv-cabl-1000",
+    "sku": "REN-CABL-92518",
+    "mpn": "DV-CABL-1000",
+    "brand": "Duravolt Sample Co.",
+    "name": "Cable markers, Red, 1000 mm, Surface",
+    "summary": "Cable markers from Duravolt Sample Co. with colour Red, length 1000 mm, mounting Surface.",
+    "categoryId": "c12",
+    "subcategoryId": "c12s14",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "pack",
+    "packQty": 50,
+    "priceExclVatCents": 21200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

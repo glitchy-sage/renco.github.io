@@ -1,0 +1,1207 @@
+[
+  {
+    "id": "p_000187",
+    "slug": "duravolt-sample-co-dv-ener-400vac",
+    "sku": "REN-ENER-38553",
+    "mpn": "DV-ENER-400VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Energy meters, 400 V AC, 0.2S, Panel cut-out",
+    "summary": "Energy meters from Duravolt Sample Co. with rated voltage 400 V AC, accuracy class 0.2S, mounting Panel cut-out.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 602100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000188",
+    "slug": "duravolt-sample-co-dv-ener-24vdc",
+    "sku": "REN-ENER-10034",
+    "mpn": "DV-ENER-24VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Energy meters, 24 V DC, 1, DIN rail",
+    "summary": "Energy meters from Duravolt Sample Co. with rated voltage 24 V DC, accuracy class 1, mounting DIN rail.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 708800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000189",
+    "slug": "kapbridge-controls-kc-ener-230vac",
+    "sku": "REN-ENER-61308",
+    "mpn": "KC-ENER-230VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Energy meters, 230 V AC, 0.5, Flush",
+    "summary": "Energy meters from Kapbridge Controls with rated voltage 230 V AC, accuracy class 0.5, mounting Flush.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 623700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000190",
+    "slug": "norvane-nv-ener-400vac",
+    "sku": "REN-ENER-87734",
+    "mpn": "NV-ENER-400VAC",
+    "brand": "Norvane",
+    "name": "Energy meters, 400 V AC, 1, DIN rail",
+    "summary": "Energy meters from Norvane with rated voltage 400 V AC, accuracy class 1, mounting DIN rail.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 220900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000191",
+    "slug": "voltara-vt-ener-24vdc",
+    "sku": "REN-ENER-64750",
+    "mpn": "VT-ENER-24VDC",
+    "brand": "Voltara",
+    "name": "Energy meters, 24 V DC, 0.5, Panel cut-out",
+    "summary": "Energy meters from Voltara with rated voltage 24 V DC, accuracy class 0.5, mounting Panel cut-out.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 624900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000192",
+    "slug": "duravolt-sample-co-dv-ener-230vac",
+    "sku": "REN-ENER-56621",
+    "mpn": "DV-ENER-230VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Energy meters, 230 V AC, 0.2S, Surface",
+    "summary": "Energy meters from Duravolt Sample Co. with rated voltage 230 V AC, accuracy class 0.2S, mounting Surface.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 339400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000193",
+    "slug": "duravolt-sample-co-dv-mult-110vac",
+    "sku": "REN-MULT-77829",
+    "mpn": "DV-MULT-110VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Multifunction meters, 110 V AC, 0.5, Flush",
+    "summary": "Multifunction meters from Duravolt Sample Co. with rated voltage 110 V AC, accuracy class 0.5, mounting Flush.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 782600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000194",
+    "slug": "ampstead-am-mult-12vdc",
+    "sku": "REN-MULT-81031",
+    "mpn": "AM-MULT-12VDC",
+    "brand": "Ampstead",
+    "name": "Multifunction meters, 12 V DC, 0.5, DIN rail",
+    "summary": "Multifunction meters from Ampstead with rated voltage 12 V DC, accuracy class 0.5, mounting DIN rail.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 425100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000195",
+    "slug": "norvane-nv-mult-110vac",
+    "sku": "REN-MULT-62840",
+    "mpn": "NV-MULT-110VAC",
+    "brand": "Norvane",
+    "name": "Multifunction meters, 110 V AC, 1, Panel cut-out",
+    "summary": "Multifunction meters from Norvane with rated voltage 110 V AC, accuracy class 1, mounting Panel cut-out.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 466100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000196",
+    "slug": "kapbridge-controls-kc-mult-400vac",
+    "sku": "REN-MULT-54283",
+    "mpn": "KC-MULT-400VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Multifunction meters, 400 V AC, 0.5, DIN rail",
+    "summary": "Multifunction meters from Kapbridge Controls with rated voltage 400 V AC, accuracy class 0.5, mounting DIN rail.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 263100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000197",
+    "slug": "voltara-vt-mult-400vac",
+    "sku": "REN-MULT-79423",
+    "mpn": "VT-MULT-400VAC",
+    "brand": "Voltara",
+    "name": "Multifunction meters, 400 V AC, 1, Panel cut-out",
+    "summary": "Multifunction meters from Voltara with rated voltage 400 V AC, accuracy class 1, mounting Panel cut-out.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 396100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000198",
+    "slug": "norvane-nv-powe-851",
+    "sku": "REN-POWE-74876",
+    "mpn": "NV-POWE-851",
+    "brand": "Norvane",
+    "name": "Power monitoring, 0.2S, DIN rail, -25 to 70 °C",
+    "summary": "Power monitoring from Norvane with accuracy class 0.2S, mounting DIN rail, operating temperature -25 to 70 °C.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s03",
+    "specs": [
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 588800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000199",
+    "slug": "duravolt-sample-co-dv-powe-447",
+    "sku": "REN-POWE-66859",
+    "mpn": "DV-POWE-447",
+    "brand": "Duravolt Sample Co.",
+    "name": "Power monitoring, 0.5, Flush, -20 to 60 °C",
+    "summary": "Power monitoring from Duravolt Sample Co. with accuracy class 0.5, mounting Flush, operating temperature -20 to 60 °C.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s03",
+    "specs": [
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 174800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000200",
+    "slug": "voltara-vt-powe-389",
+    "sku": "REN-POWE-81577",
+    "mpn": "VT-POWE-389",
+    "brand": "Voltara",
+    "name": "Power monitoring, 0.5, Surface, -20 to 60 °C",
+    "summary": "Power monitoring from Voltara with accuracy class 0.5, mounting Surface, operating temperature -20 to 60 °C.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s03",
+    "specs": [
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 850400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000201",
+    "slug": "voltara-vt-powe-426",
+    "sku": "REN-POWE-20822",
+    "mpn": "VT-POWE-426",
+    "brand": "Voltara",
+    "name": "Power monitoring, 1, DIN rail, 0 to 50 °C",
+    "summary": "Power monitoring from Voltara with accuracy class 1, mounting DIN rail, operating temperature 0 to 50 °C.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s03",
+    "specs": [
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 885500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000202",
+    "slug": "kapbridge-controls-kc-powe-109",
+    "sku": "REN-POWE-46909",
+    "mpn": "KC-POWE-109",
+    "brand": "Kapbridge Controls",
+    "name": "Power monitoring, 1, Panel cut-out, 0 to 50 °C",
+    "summary": "Power monitoring from Kapbridge Controls with accuracy class 1, mounting Panel cut-out, operating temperature 0 to 50 °C.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s03",
+    "specs": [
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 273800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000203",
+    "slug": "ampstead-am-dpm-24vdc-ip20",
+    "sku": "REN-DPM-44985",
+    "mpn": "AM-DPM-24VDC-IP20",
+    "brand": "Ampstead",
+    "name": "Digital panel meters, 24 V DC, IP20, 0.2S",
+    "summary": "Digital panel meters from Ampstead with rated voltage 24 V DC, ip rating IP20, accuracy class 0.2S.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 93100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000204",
+    "slug": "duravolt-sample-co-dv-dpm-400vac-ip54",
+    "sku": "REN-DPM-24804",
+    "mpn": "DV-DPM-400VAC-IP54",
+    "brand": "Duravolt Sample Co.",
+    "name": "Digital panel meters, 400 V AC, IP54, 0.2S",
+    "summary": "Digital panel meters from Duravolt Sample Co. with rated voltage 400 V AC, ip rating IP54, accuracy class 0.2S.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 88800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000205",
+    "slug": "kapbridge-controls-kc-dpm-400vac-ip20",
+    "sku": "REN-DPM-12841",
+    "mpn": "KC-DPM-400VAC-IP20",
+    "brand": "Kapbridge Controls",
+    "name": "Digital panel meters, 400 V AC, IP20, 1",
+    "summary": "Digital panel meters from Kapbridge Controls with rated voltage 400 V AC, ip rating IP20, accuracy class 1.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 90500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000206",
+    "slug": "duravolt-sample-co-dv-dpm-110vac-ip65",
+    "sku": "REN-DPM-44962",
+    "mpn": "DV-DPM-110VAC-IP65",
+    "brand": "Duravolt Sample Co.",
+    "name": "Digital panel meters, 110 V AC, IP65, 0.5",
+    "summary": "Digital panel meters from Duravolt Sample Co. with rated voltage 110 V AC, ip rating IP65, accuracy class 0.5.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 110900,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000207",
+    "slug": "lumeris-lm-dpm-110vac-ip66",
+    "sku": "REN-DPM-74292",
+    "mpn": "LM-DPM-110VAC-IP66",
+    "brand": "Lumeris",
+    "name": "Digital panel meters, 110 V AC, IP66, 0.5",
+    "summary": "Digital panel meters from Lumeris with rated voltage 110 V AC, ip rating IP66, accuracy class 0.5.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 90700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000208",
+    "slug": "lumeris-lm-dpm-110vac-ip66-2",
+    "sku": "REN-DPM-81479",
+    "mpn": "LM-DPM-110VAC-IP66-2",
+    "brand": "Lumeris",
+    "name": "Digital panel meters, 110 V AC, IP66, 0.2S",
+    "summary": "Digital panel meters from Lumeris with rated voltage 110 V AC, ip rating IP66, accuracy class 0.2S.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 18700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000209",
+    "slug": "voltara-vt-apm-230vac-ip67",
+    "sku": "REN-APM-47244",
+    "mpn": "VT-APM-230VAC-IP67",
+    "brand": "Voltara",
+    "name": "Analogue panel meters, 230 V AC, IP67, 0.5",
+    "summary": "Analogue panel meters from Voltara with rated voltage 230 V AC, ip rating IP67, accuracy class 0.5.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 234700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000210",
+    "slug": "duravolt-sample-co-dv-apm-400vac-ip44",
+    "sku": "REN-APM-62856",
+    "mpn": "DV-APM-400VAC-IP44",
+    "brand": "Duravolt Sample Co.",
+    "name": "Analogue panel meters, 400 V AC, IP44, 0.2S",
+    "summary": "Analogue panel meters from Duravolt Sample Co. with rated voltage 400 V AC, ip rating IP44, accuracy class 0.2S.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 126600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000211",
+    "slug": "kapbridge-controls-kc-apm-24vdc-ip20",
+    "sku": "REN-APM-47966",
+    "mpn": "KC-APM-24VDC-IP20",
+    "brand": "Kapbridge Controls",
+    "name": "Analogue panel meters, 24 V DC, IP20, 1",
+    "summary": "Analogue panel meters from Kapbridge Controls with rated voltage 24 V DC, ip rating IP20, accuracy class 1.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 184700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000212",
+    "slug": "duravolt-sample-co-dv-apm-400vac-ip44-2",
+    "sku": "REN-APM-77443",
+    "mpn": "DV-APM-400VAC-IP44-2",
+    "brand": "Duravolt Sample Co.",
+    "name": "Analogue panel meters, 400 V AC, IP44, 1",
+    "summary": "Analogue panel meters from Duravolt Sample Co. with rated voltage 400 V AC, ip rating IP44, accuracy class 1.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "1"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 49300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000213",
+    "slug": "ampstead-am-apm-110vac-ip67",
+    "sku": "REN-APM-45358",
+    "mpn": "AM-APM-110VAC-IP67",
+    "brand": "Ampstead",
+    "name": "Analogue panel meters, 110 V AC, IP67, 0.2S",
+    "summary": "Analogue panel meters from Ampstead with rated voltage 110 V AC, ip rating IP67, accuracy class 0.2S.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s05",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 117800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000214",
+    "slug": "voltara-vt-curr-24vdc",
+    "sku": "REN-CURR-90421",
+    "mpn": "VT-CURR-24VDC",
+    "brand": "Voltara",
+    "name": "Current transformers, 24 V DC, 0.5, Panel cut-out",
+    "summary": "Current transformers from Voltara with rated voltage 24 V DC, accuracy class 0.5, mounting Panel cut-out.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 78900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000215",
+    "slug": "lumeris-lm-curr-24vdc",
+    "sku": "REN-CURR-71762",
+    "mpn": "LM-CURR-24VDC",
+    "brand": "Lumeris",
+    "name": "Current transformers, 24 V DC, 0.2S, Panel cut-out",
+    "summary": "Current transformers from Lumeris with rated voltage 24 V DC, accuracy class 0.2S, mounting Panel cut-out.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 220800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000216",
+    "slug": "lumeris-lm-curr-12vdc",
+    "sku": "REN-CURR-29012",
+    "mpn": "LM-CURR-12VDC",
+    "brand": "Lumeris",
+    "name": "Current transformers, 12 V DC, 0.5, Surface",
+    "summary": "Current transformers from Lumeris with rated voltage 12 V DC, accuracy class 0.5, mounting Surface.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 115100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000217",
+    "slug": "ampstead-am-curr-230vac",
+    "sku": "REN-CURR-17143",
+    "mpn": "AM-CURR-230VAC",
+    "brand": "Ampstead",
+    "name": "Current transformers, 230 V AC, 0.2S, Panel cut-out",
+    "summary": "Current transformers from Ampstead with rated voltage 230 V AC, accuracy class 0.2S, mounting Panel cut-out.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.2S"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 22200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000218",
+    "slug": "norvane-nv-curr-110vac",
+    "sku": "REN-CURR-64485",
+    "mpn": "NV-CURR-110VAC",
+    "brand": "Norvane",
+    "name": "Current transformers, 110 V AC, 0.5, Panel cut-out",
+    "summary": "Current transformers from Norvane with rated voltage 110 V AC, accuracy class 0.5, mounting Panel cut-out.",
+    "categoryId": "c05",
+    "subcategoryId": "c05s06",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Accuracy class",
+        "value": "0.5"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 219900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

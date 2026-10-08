@@ -1,0 +1,2752 @@
+[
+  {
+    "id": "p_000427",
+    "slug": "kapbridge-controls-kc-ips-12vdc-ip67",
+    "sku": "REN-IPS-32841",
+    "mpn": "KC-IPS-12VDC-IP67",
+    "brand": "Kapbridge Controls",
+    "name": "Inductive proximity sensors, 12 V DC, IP67, DIN rail",
+    "summary": "Inductive proximity sensors from Kapbridge Controls with rated voltage 12 V DC, ip rating IP67, mounting DIN rail.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 115100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000428",
+    "slug": "lumeris-lm-ips-400vac-ip65",
+    "sku": "REN-IPS-93667",
+    "mpn": "LM-IPS-400VAC-IP65",
+    "brand": "Lumeris",
+    "name": "Inductive proximity sensors, 400 V AC, IP65, Panel cut-out",
+    "summary": "Inductive proximity sensors from Lumeris with rated voltage 400 V AC, ip rating IP65, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 205700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000429",
+    "slug": "duravolt-sample-co-dv-ips-400vac-ip44",
+    "sku": "REN-IPS-48130",
+    "mpn": "DV-IPS-400VAC-IP44",
+    "brand": "Duravolt Sample Co.",
+    "name": "Inductive proximity sensors, 400 V AC, IP44, Flush",
+    "summary": "Inductive proximity sensors from Duravolt Sample Co. with rated voltage 400 V AC, ip rating IP44, mounting Flush.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 101000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000430",
+    "slug": "norvane-nv-ips-110vac-ip67",
+    "sku": "REN-IPS-83953",
+    "mpn": "NV-IPS-110VAC-IP67",
+    "brand": "Norvane",
+    "name": "Inductive proximity sensors, 110 V AC, IP67, Surface",
+    "summary": "Inductive proximity sensors from Norvane with rated voltage 110 V AC, ip rating IP67, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 17500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000431",
+    "slug": "ampstead-am-ips-24vdc-ip54",
+    "sku": "REN-IPS-99605",
+    "mpn": "AM-IPS-24VDC-IP54",
+    "brand": "Ampstead",
+    "name": "Inductive proximity sensors, 24 V DC, IP54, Surface",
+    "summary": "Inductive proximity sensors from Ampstead with rated voltage 24 V DC, ip rating IP54, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 84400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000432",
+    "slug": "ampstead-am-ips-400vac-ip67",
+    "sku": "REN-IPS-44941",
+    "mpn": "AM-IPS-400VAC-IP67",
+    "brand": "Ampstead",
+    "name": "Inductive proximity sensors, 400 V AC, IP67, Panel cut-out",
+    "summary": "Inductive proximity sensors from Ampstead with rated voltage 400 V AC, ip rating IP67, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s01",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 199300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000433",
+    "slug": "duravolt-sample-co-dv-capa-24vdc-ip54",
+    "sku": "REN-CAPA-87589",
+    "mpn": "DV-CAPA-24VDC-IP54",
+    "brand": "Duravolt Sample Co.",
+    "name": "Capacitive sensors, 24 V DC, IP54, DIN rail",
+    "summary": "Capacitive sensors from Duravolt Sample Co. with rated voltage 24 V DC, ip rating IP54, mounting DIN rail.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 31400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000434",
+    "slug": "lumeris-lm-capa-230vac-ip44",
+    "sku": "REN-CAPA-19887",
+    "mpn": "LM-CAPA-230VAC-IP44",
+    "brand": "Lumeris",
+    "name": "Capacitive sensors, 230 V AC, IP44, DIN rail",
+    "summary": "Capacitive sensors from Lumeris with rated voltage 230 V AC, ip rating IP44, mounting DIN rail.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 224200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000435",
+    "slug": "lumeris-lm-capa-400vac-ip54",
+    "sku": "REN-CAPA-17792",
+    "mpn": "LM-CAPA-400VAC-IP54",
+    "brand": "Lumeris",
+    "name": "Capacitive sensors, 400 V AC, IP54, Surface",
+    "summary": "Capacitive sensors from Lumeris with rated voltage 400 V AC, ip rating IP54, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 89000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000436",
+    "slug": "voltara-vt-capa-230vac-ip65",
+    "sku": "REN-CAPA-12404",
+    "mpn": "VT-CAPA-230VAC-IP65",
+    "brand": "Voltara",
+    "name": "Capacitive sensors, 230 V AC, IP65, DIN rail",
+    "summary": "Capacitive sensors from Voltara with rated voltage 230 V AC, ip rating IP65, mounting DIN rail.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 49500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000437",
+    "slug": "duravolt-sample-co-dv-capa-12vdc-ip44",
+    "sku": "REN-CAPA-71162",
+    "mpn": "DV-CAPA-12VDC-IP44",
+    "brand": "Duravolt Sample Co.",
+    "name": "Capacitive sensors, 12 V DC, IP44, Flush",
+    "summary": "Capacitive sensors from Duravolt Sample Co. with rated voltage 12 V DC, ip rating IP44, mounting Flush.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s02",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 205400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000438",
+    "slug": "ampstead-am-phot-24vdc-ip44",
+    "sku": "REN-PHOT-45920",
+    "mpn": "AM-PHOT-24VDC-IP44",
+    "brand": "Ampstead",
+    "name": "Photoelectric sensors, 24 V DC, IP44, DIN rail",
+    "summary": "Photoelectric sensors from Ampstead with rated voltage 24 V DC, ip rating IP44, mounting DIN rail.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 82700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000439",
+    "slug": "ampstead-am-phot-24vdc-ip67",
+    "sku": "REN-PHOT-56105",
+    "mpn": "AM-PHOT-24VDC-IP67",
+    "brand": "Ampstead",
+    "name": "Photoelectric sensors, 24 V DC, IP67, Panel cut-out",
+    "summary": "Photoelectric sensors from Ampstead with rated voltage 24 V DC, ip rating IP67, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 120300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000440",
+    "slug": "norvane-nv-phot-110vac-ip66",
+    "sku": "REN-PHOT-90297",
+    "mpn": "NV-PHOT-110VAC-IP66",
+    "brand": "Norvane",
+    "name": "Photoelectric sensors, 110 V AC, IP66, Surface",
+    "summary": "Photoelectric sensors from Norvane with rated voltage 110 V AC, ip rating IP66, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 59800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000441",
+    "slug": "voltara-vt-phot-12vdc-ip44",
+    "sku": "REN-PHOT-83037",
+    "mpn": "VT-PHOT-12VDC-IP44",
+    "brand": "Voltara",
+    "name": "Photoelectric sensors, 12 V DC, IP44, Surface",
+    "summary": "Photoelectric sensors from Voltara with rated voltage 12 V DC, ip rating IP44, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 36400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000442",
+    "slug": "ampstead-am-phot-400vac-ip65",
+    "sku": "REN-PHOT-38903",
+    "mpn": "AM-PHOT-400VAC-IP65",
+    "brand": "Ampstead",
+    "name": "Photoelectric sensors, 400 V AC, IP65, Flush",
+    "summary": "Photoelectric sensors from Ampstead with rated voltage 400 V AC, ip rating IP65, mounting Flush.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s03",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 201300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000443",
+    "slug": "lumeris-lm-ultr-110vac-ip66",
+    "sku": "REN-ULTR-35281",
+    "mpn": "LM-ULTR-110VAC-IP66",
+    "brand": "Lumeris",
+    "name": "Ultrasonic sensors, 110 V AC, IP66, Flush",
+    "summary": "Ultrasonic sensors from Lumeris with rated voltage 110 V AC, ip rating IP66, mounting Flush.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 18500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000444",
+    "slug": "duravolt-sample-co-dv-ultr-110vac-ip67",
+    "sku": "REN-ULTR-20724",
+    "mpn": "DV-ULTR-110VAC-IP67",
+    "brand": "Duravolt Sample Co.",
+    "name": "Ultrasonic sensors, 110 V AC, IP67, Panel cut-out",
+    "summary": "Ultrasonic sensors from Duravolt Sample Co. with rated voltage 110 V AC, ip rating IP67, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 117500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000445",
+    "slug": "ampstead-am-ultr-24vdc-ip66",
+    "sku": "REN-ULTR-12705",
+    "mpn": "AM-ULTR-24VDC-IP66",
+    "brand": "Ampstead",
+    "name": "Ultrasonic sensors, 24 V DC, IP66, Panel cut-out",
+    "summary": "Ultrasonic sensors from Ampstead with rated voltage 24 V DC, ip rating IP66, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 126500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000446",
+    "slug": "norvane-nv-ultr-230vac-ip20",
+    "sku": "REN-ULTR-15475",
+    "mpn": "NV-ULTR-230VAC-IP20",
+    "brand": "Norvane",
+    "name": "Ultrasonic sensors, 230 V AC, IP20, Surface",
+    "summary": "Ultrasonic sensors from Norvane with rated voltage 230 V AC, ip rating IP20, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 103800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000447",
+    "slug": "ampstead-am-ultr-12vdc-ip54",
+    "sku": "REN-ULTR-69942",
+    "mpn": "AM-ULTR-12VDC-IP54",
+    "brand": "Ampstead",
+    "name": "Ultrasonic sensors, 12 V DC, IP54, DIN rail",
+    "summary": "Ultrasonic sensors from Ampstead with rated voltage 12 V DC, ip rating IP54, mounting DIN rail.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 239300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000448",
+    "slug": "ampstead-am-ultr-230vac-ip44",
+    "sku": "REN-ULTR-72727",
+    "mpn": "AM-ULTR-230VAC-IP44",
+    "brand": "Ampstead",
+    "name": "Ultrasonic sensors, 230 V AC, IP44, Surface",
+    "summary": "Ultrasonic sensors from Ampstead with rated voltage 230 V AC, ip rating IP44, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s04",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 182700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000449",
+    "slug": "voltara-vt-pst-6",
+    "sku": "REN-PST-28360",
+    "mpn": "VT-PST-6",
+    "brand": "Voltara",
+    "name": "Pressure switches & transmitters, 6 A, 8 x RJ45, 2 C/O",
+    "summary": "Pressure switches & transmitters from Voltara with rated current 6 A, ports 8 x RJ45, contacts 2 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 126500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000450",
+    "slug": "lumeris-lm-pst-16",
+    "sku": "REN-PST-50151",
+    "mpn": "LM-PST-16",
+    "brand": "Lumeris",
+    "name": "Pressure switches & transmitters, 16 A, 5 x RJ45 + 1 x SFP, 4 C/O",
+    "summary": "Pressure switches & transmitters from Lumeris with rated current 16 A, ports 5 x RJ45 + 1 x SFP, contacts 4 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 112500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000451",
+    "slug": "kapbridge-controls-kc-pst-20",
+    "sku": "REN-PST-47391",
+    "mpn": "KC-PST-20",
+    "brand": "Kapbridge Controls",
+    "name": "Pressure switches & transmitters, 20 A, 4 x RJ45, 1 C/O",
+    "summary": "Pressure switches & transmitters from Kapbridge Controls with rated current 20 A, ports 4 x RJ45, contacts 1 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 36000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000452",
+    "slug": "ampstead-am-pst-32",
+    "sku": "REN-PST-65318",
+    "mpn": "AM-PST-32",
+    "brand": "Ampstead",
+    "name": "Pressure switches & transmitters, 32 A, 5 x RJ45 + 1 x SFP, 4 C/O",
+    "summary": "Pressure switches & transmitters from Ampstead with rated current 32 A, ports 5 x RJ45 + 1 x SFP, contacts 4 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 140400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000453",
+    "slug": "voltara-vt-pst-400",
+    "sku": "REN-PST-42845",
+    "mpn": "VT-PST-400",
+    "brand": "Voltara",
+    "name": "Pressure switches & transmitters, 400 A, 8 x RJ45, 1 C/O",
+    "summary": "Pressure switches & transmitters from Voltara with rated current 400 A, ports 8 x RJ45, contacts 1 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s05",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 227400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000454",
+    "slug": "duravolt-sample-co-dv-flow-100-ip65",
+    "sku": "REN-FLOW-43268",
+    "mpn": "DV-FLOW-100-IP65",
+    "brand": "Duravolt Sample Co.",
+    "name": "Flow switches, 100 A, IP65, 8 x RJ45, 2 NO",
+    "summary": "Flow switches from Duravolt Sample Co. with rated current 100 A, ip rating IP65, ports 8 x RJ45, contacts 2 NO.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "100",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 90600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000455",
+    "slug": "duravolt-sample-co-dv-flow-16-ip54",
+    "sku": "REN-FLOW-90624",
+    "mpn": "DV-FLOW-16-IP54",
+    "brand": "Duravolt Sample Co.",
+    "name": "Flow switches, 16 A, IP54, 8 x RJ45, 4 C/O",
+    "summary": "Flow switches from Duravolt Sample Co. with rated current 16 A, ip rating IP54, ports 8 x RJ45, contacts 4 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 85300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000456",
+    "slug": "norvane-nv-flow-16-ip20",
+    "sku": "REN-FLOW-48513",
+    "mpn": "NV-FLOW-16-IP20",
+    "brand": "Norvane",
+    "name": "Flow switches, 16 A, IP20, 5 x RJ45 + 1 x SFP, 2 NO",
+    "summary": "Flow switches from Norvane with rated current 16 A, ip rating IP20, ports 5 x RJ45 + 1 x SFP, contacts 2 NO.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 237900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000457",
+    "slug": "voltara-vt-flow-20-ip66",
+    "sku": "REN-FLOW-45143",
+    "mpn": "VT-FLOW-20-IP66",
+    "brand": "Voltara",
+    "name": "Flow switches, 20 A, IP66, 5 x RJ45 + 1 x SFP, 1 C/O",
+    "summary": "Flow switches from Voltara with rated current 20 A, ip rating IP66, ports 5 x RJ45 + 1 x SFP, contacts 1 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 166700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000458",
+    "slug": "voltara-vt-flow-20-ip44",
+    "sku": "REN-FLOW-36231",
+    "mpn": "VT-FLOW-20-IP44",
+    "brand": "Voltara",
+    "name": "Flow switches, 20 A, IP44, 5 x RJ45 + 1 x SFP, 4 C/O",
+    "summary": "Flow switches from Voltara with rated current 20 A, ip rating IP44, ports 5 x RJ45 + 1 x SFP, contacts 4 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 219500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000459",
+    "slug": "duravolt-sample-co-dv-tcp-24vdc",
+    "sku": "REN-TCP-56008",
+    "mpn": "DV-TCP-24VDC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Temperature controllers & probes, 24 V DC, -25 to 70 °C, Panel cut-out",
+    "summary": "Temperature controllers & probes from Duravolt Sample Co. with rated voltage 24 V DC, operating temperature -25 to 70 °C, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 87500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000460",
+    "slug": "lumeris-lm-tcp-110vac",
+    "sku": "REN-TCP-41720",
+    "mpn": "LM-TCP-110VAC",
+    "brand": "Lumeris",
+    "name": "Temperature controllers & probes, 110 V AC, 0 to 50 °C, Panel cut-out",
+    "summary": "Temperature controllers & probes from Lumeris with rated voltage 110 V AC, operating temperature 0 to 50 °C, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 55300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000461",
+    "slug": "ampstead-am-tcp-400vac",
+    "sku": "REN-TCP-77635",
+    "mpn": "AM-TCP-400VAC",
+    "brand": "Ampstead",
+    "name": "Temperature controllers & probes, 400 V AC, -20 to 60 °C, Panel cut-out",
+    "summary": "Temperature controllers & probes from Ampstead with rated voltage 400 V AC, operating temperature -20 to 60 °C, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 34600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000462",
+    "slug": "duravolt-sample-co-dv-tcp-110vac",
+    "sku": "REN-TCP-83860",
+    "mpn": "DV-TCP-110VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Temperature controllers & probes, 110 V AC, -25 to 70 °C, Surface",
+    "summary": "Temperature controllers & probes from Duravolt Sample Co. with rated voltage 110 V AC, operating temperature -25 to 70 °C, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-25 to 70",
+        "unit": "°C"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 226500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000463",
+    "slug": "lumeris-lm-tcp-12vdc",
+    "sku": "REN-TCP-18074",
+    "mpn": "LM-TCP-12VDC",
+    "brand": "Lumeris",
+    "name": "Temperature controllers & probes, 12 V DC, 0 to 50 °C, DIN rail",
+    "summary": "Temperature controllers & probes from Lumeris with rated voltage 12 V DC, operating temperature 0 to 50 °C, mounting DIN rail.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 218800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000464",
+    "slug": "ampstead-am-tcp-230vac",
+    "sku": "REN-TCP-50946",
+    "mpn": "AM-TCP-230VAC",
+    "brand": "Ampstead",
+    "name": "Temperature controllers & probes, 230 V AC, -20 to 60 °C, Flush",
+    "summary": "Temperature controllers & probes from Ampstead with rated voltage 230 V AC, operating temperature -20 to 60 °C, mounting Flush.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s07",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 93700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000465",
+    "slug": "norvane-nv-limi-63",
+    "sku": "REN-LIMI-44606",
+    "mpn": "NV-LIMI-63",
+    "brand": "Norvane",
+    "name": "Limit switches, 63 A, 8 x RJ45, 2 C/O",
+    "summary": "Limit switches from Norvane with rated current 63 A, ports 8 x RJ45, contacts 2 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s08",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 196600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000466",
+    "slug": "kapbridge-controls-kc-limi-63",
+    "sku": "REN-LIMI-64671",
+    "mpn": "KC-LIMI-63",
+    "brand": "Kapbridge Controls",
+    "name": "Limit switches, 63 A, 8 x RJ45, 2 NO",
+    "summary": "Limit switches from Kapbridge Controls with rated current 63 A, ports 8 x RJ45, contacts 2 NO.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s08",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 NO"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 169700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000467",
+    "slug": "voltara-vt-limi-6",
+    "sku": "REN-LIMI-26821",
+    "mpn": "VT-LIMI-6",
+    "brand": "Voltara",
+    "name": "Limit switches, 6 A, 8 x RJ45, 4 C/O",
+    "summary": "Limit switches from Voltara with rated current 6 A, ports 8 x RJ45, contacts 4 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s08",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 111500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000468",
+    "slug": "norvane-nv-limi-6",
+    "sku": "REN-LIMI-26982",
+    "mpn": "NV-LIMI-6",
+    "brand": "Norvane",
+    "name": "Limit switches, 6 A, 4 x RJ45, 4 C/O",
+    "summary": "Limit switches from Norvane with rated current 6 A, ports 4 x RJ45, contacts 4 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s08",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 29700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000469",
+    "slug": "norvane-nv-limi-250",
+    "sku": "REN-LIMI-95656",
+    "mpn": "NV-LIMI-250",
+    "brand": "Norvane",
+    "name": "Limit switches, 250 A, 8 x RJ45, 1 C/O",
+    "summary": "Limit switches from Norvane with rated current 250 A, ports 8 x RJ45, contacts 1 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s08",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "250",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 70300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000470",
+    "slug": "kapbridge-controls-kc-fsls-6-230vac-ip67",
+    "sku": "REN-FSLS-32987",
+    "mpn": "KC-FSLS-6-230VAC-IP67",
+    "brand": "Kapbridge Controls",
+    "name": "Float switches & level sensors, 6 A, 230 V AC, IP67, 8 x RJ45, 4 C/O",
+    "summary": "Float switches & level sensors from Kapbridge Controls with rated current 6 A, rated voltage 230 V AC, ip rating IP67, ports 8 x RJ45, contacts 4 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s09",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "6",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 182100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000471",
+    "slug": "lumeris-lm-fsls-32-12vdc-ip44",
+    "sku": "REN-FSLS-53322",
+    "mpn": "LM-FSLS-32-12VDC-IP44",
+    "brand": "Lumeris",
+    "name": "Float switches & level sensors, 32 A, 12 V DC, IP44, 4 x RJ45, 2 C/O",
+    "summary": "Float switches & level sensors from Lumeris with rated current 32 A, rated voltage 12 V DC, ip rating IP44, ports 4 x RJ45, contacts 2 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s09",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "32",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 138800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000472",
+    "slug": "norvane-nv-fsls-16-12vdc-ip44",
+    "sku": "REN-FSLS-10173",
+    "mpn": "NV-FSLS-16-12VDC-IP44",
+    "brand": "Norvane",
+    "name": "Float switches & level sensors, 16 A, 12 V DC, IP44, 5 x RJ45 + 1 x SFP, 2 C/O",
+    "summary": "Float switches & level sensors from Norvane with rated current 16 A, rated voltage 12 V DC, ip rating IP44, ports 5 x RJ45 + 1 x SFP, contacts 2 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s09",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 163200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000473",
+    "slug": "lumeris-lm-fsls-400-230vac-ip44",
+    "sku": "REN-FSLS-99086",
+    "mpn": "LM-FSLS-400-230VAC-IP44",
+    "brand": "Lumeris",
+    "name": "Float switches & level sensors, 400 A, 230 V AC, IP44, 4 x RJ45, 4 C/O",
+    "summary": "Float switches & level sensors from Lumeris with rated current 400 A, rated voltage 230 V AC, ip rating IP44, ports 4 x RJ45, contacts 4 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s09",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 212500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000474",
+    "slug": "lumeris-lm-fsls-20-230vac-ip66",
+    "sku": "REN-FSLS-22791",
+    "mpn": "LM-FSLS-20-230VAC-IP66",
+    "brand": "Lumeris",
+    "name": "Float switches & level sensors, 20 A, 230 V AC, IP66, 4 x RJ45, 4 C/O",
+    "summary": "Float switches & level sensors from Lumeris with rated current 20 A, rated voltage 230 V AC, ip rating IP66, ports 4 x RJ45, contacts 4 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s09",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "20",
+        "unit": "A"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 93600,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000475",
+    "slug": "ampstead-am-occu-24vdc-ip54",
+    "sku": "REN-OCCU-60134",
+    "mpn": "AM-OCCU-24VDC-IP54",
+    "brand": "Ampstead",
+    "name": "Occupancy sensors, 24 V DC, IP54, DIN rail",
+    "summary": "Occupancy sensors from Ampstead with rated voltage 24 V DC, ip rating IP54, mounting DIN rail.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 158400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000476",
+    "slug": "ampstead-am-occu-400vac-ip67",
+    "sku": "REN-OCCU-91156",
+    "mpn": "AM-OCCU-400VAC-IP67",
+    "brand": "Ampstead",
+    "name": "Occupancy sensors, 400 V AC, IP67, Surface",
+    "summary": "Occupancy sensors from Ampstead with rated voltage 400 V AC, ip rating IP67, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 81700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000477",
+    "slug": "norvane-nv-occu-110vac-ip54",
+    "sku": "REN-OCCU-15666",
+    "mpn": "NV-OCCU-110VAC-IP54",
+    "brand": "Norvane",
+    "name": "Occupancy sensors, 110 V AC, IP54, DIN rail",
+    "summary": "Occupancy sensors from Norvane with rated voltage 110 V AC, ip rating IP54, mounting DIN rail.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 58200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000478",
+    "slug": "duravolt-sample-co-dv-occu-12vdc-ip65",
+    "sku": "REN-OCCU-66540",
+    "mpn": "DV-OCCU-12VDC-IP65",
+    "brand": "Duravolt Sample Co.",
+    "name": "Occupancy sensors, 12 V DC, IP65, DIN rail",
+    "summary": "Occupancy sensors from Duravolt Sample Co. with rated voltage 12 V DC, ip rating IP65, mounting DIN rail.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 169900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000479",
+    "slug": "duravolt-sample-co-dv-occu-230vac-ip67",
+    "sku": "REN-OCCU-49669",
+    "mpn": "DV-OCCU-230VAC-IP67",
+    "brand": "Duravolt Sample Co.",
+    "name": "Occupancy sensors, 230 V AC, IP67, Panel cut-out",
+    "summary": "Occupancy sensors from Duravolt Sample Co. with rated voltage 230 V AC, ip rating IP67, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 147800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000480",
+    "slug": "duravolt-sample-co-dv-occu-400vac-ip44",
+    "sku": "REN-OCCU-53344",
+    "mpn": "DV-OCCU-400VAC-IP44",
+    "brand": "Duravolt Sample Co.",
+    "name": "Occupancy sensors, 400 V AC, IP44, Flush",
+    "summary": "Occupancy sensors from Duravolt Sample Co. with rated voltage 400 V AC, ip rating IP44, mounting Flush.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s10",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 32300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000481",
+    "slug": "norvane-nv-safe-63",
+    "sku": "REN-SAFE-12944",
+    "mpn": "NV-SAFE-63",
+    "brand": "Norvane",
+    "name": "Safety switches, 63 A, 5 x RJ45 + 1 x SFP, 1 C/O",
+    "summary": "Safety switches from Norvane with rated current 63 A, ports 5 x RJ45 + 1 x SFP, contacts 1 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s11",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "5 x RJ45 + 1 x SFP"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 480500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000482",
+    "slug": "ampstead-am-safe-400",
+    "sku": "REN-SAFE-86219",
+    "mpn": "AM-SAFE-400",
+    "brand": "Ampstead",
+    "name": "Safety switches, 400 A, 8 x RJ45, 2 C/O",
+    "summary": "Safety switches from Ampstead with rated current 400 A, ports 8 x RJ45, contacts 2 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s11",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 566000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000483",
+    "slug": "duravolt-sample-co-dv-safe-63",
+    "sku": "REN-SAFE-87532",
+    "mpn": "DV-SAFE-63",
+    "brand": "Duravolt Sample Co.",
+    "name": "Safety switches, 63 A, 4 x RJ45, 4 C/O",
+    "summary": "Safety switches from Duravolt Sample Co. with rated current 63 A, ports 4 x RJ45, contacts 4 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s11",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "4 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "4 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 507200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000484",
+    "slug": "duravolt-sample-co-dv-safe-400",
+    "sku": "REN-SAFE-11654",
+    "mpn": "DV-SAFE-400",
+    "brand": "Duravolt Sample Co.",
+    "name": "Safety switches, 400 A, 8 x RJ45, 1 C/O",
+    "summary": "Safety switches from Duravolt Sample Co. with rated current 400 A, ports 8 x RJ45, contacts 1 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s11",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "1 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 353100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000485",
+    "slug": "kapbridge-controls-kc-safe-400",
+    "sku": "REN-SAFE-60141",
+    "mpn": "KC-SAFE-400",
+    "brand": "Kapbridge Controls",
+    "name": "Safety switches, 400 A, 8 x RJ45, 2 C/O",
+    "summary": "Safety switches from Kapbridge Controls with rated current 400 A, ports 8 x RJ45, contacts 2 C/O.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s11",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Ports",
+        "value": "8 x RJ45"
+      },
+      {
+        "label": "Contacts",
+        "value": "2 C/O"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 366000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000486",
+    "slug": "kapbridge-controls-kc-slc-230vac",
+    "sku": "REN-SLC-57564",
+    "mpn": "KC-SLC-230VAC",
+    "brand": "Kapbridge Controls",
+    "name": "Safety light curtains, 230 V AC, 1200 lm, Flush",
+    "summary": "Safety light curtains from Kapbridge Controls with rated voltage 230 V AC, luminous flux 1200 lm, mounting Flush.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s12",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 625800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000487",
+    "slug": "duravolt-sample-co-dv-slc-400vac",
+    "sku": "REN-SLC-44006",
+    "mpn": "DV-SLC-400VAC",
+    "brand": "Duravolt Sample Co.",
+    "name": "Safety light curtains, 400 V AC, 4000 lm, Panel cut-out",
+    "summary": "Safety light curtains from Duravolt Sample Co. with rated voltage 400 V AC, luminous flux 4000 lm, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s12",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 321400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000488",
+    "slug": "duravolt-sample-co-dv-slc-400vac-2",
+    "sku": "REN-SLC-99575",
+    "mpn": "DV-SLC-400VAC-2",
+    "brand": "Duravolt Sample Co.",
+    "name": "Safety light curtains, 400 V AC, 4000 lm, DIN rail",
+    "summary": "Safety light curtains from Duravolt Sample Co. with rated voltage 400 V AC, luminous flux 4000 lm, mounting DIN rail.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s12",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN rail"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 398600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000489",
+    "slug": "voltara-vt-slc-400vac",
+    "sku": "REN-SLC-87442",
+    "mpn": "VT-SLC-400VAC",
+    "brand": "Voltara",
+    "name": "Safety light curtains, 400 V AC, 2400 lm, Panel cut-out",
+    "summary": "Safety light curtains from Voltara with rated voltage 400 V AC, luminous flux 2400 lm, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s12",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 792300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000490",
+    "slug": "voltara-vt-slc-110vac",
+    "sku": "REN-SLC-99286",
+    "mpn": "VT-SLC-110VAC",
+    "brand": "Voltara",
+    "name": "Safety light curtains, 110 V AC, 2400 lm, Panel cut-out",
+    "summary": "Safety light curtains from Voltara with rated voltage 110 V AC, luminous flux 2400 lm, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s12",
+    "specs": [
+      {
+        "label": "Rated voltage",
+        "value": "110 V AC"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 587800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000491",
+    "slug": "duravolt-sample-co-dv-lock-689",
+    "sku": "REN-LOCK-10398",
+    "mpn": "DV-LOCK-689",
+    "brand": "Duravolt Sample Co.",
+    "name": "Lockout hasps, White, Powder-coated steel, Surface",
+    "summary": "Lockout hasps from Duravolt Sample Co. with colour White, material Powder-coated steel, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s13",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 23700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000492",
+    "slug": "norvane-nv-lock-852",
+    "sku": "REN-LOCK-66908",
+    "mpn": "NV-LOCK-852",
+    "brand": "Norvane",
+    "name": "Lockout hasps, Grey, Glass-reinforced polyester, Surface",
+    "summary": "Lockout hasps from Norvane with colour Grey, material Glass-reinforced polyester, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s13",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 16100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000493",
+    "slug": "lumeris-lm-lock-176",
+    "sku": "REN-LOCK-64936",
+    "mpn": "LM-LOCK-176",
+    "brand": "Lumeris",
+    "name": "Lockout hasps, Grey, Glass-reinforced polyester, Surface",
+    "summary": "Lockout hasps from Lumeris with colour Grey, material Glass-reinforced polyester, mounting Surface.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s13",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Mounting",
+        "value": "Surface"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 4600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000494",
+    "slug": "norvane-nv-lock-810",
+    "sku": "REN-LOCK-42237",
+    "mpn": "NV-LOCK-810",
+    "brand": "Norvane",
+    "name": "Lockout hasps, White, Powder-coated steel, Flush",
+    "summary": "Lockout hasps from Norvane with colour White, material Powder-coated steel, mounting Flush.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s13",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 13700,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000495",
+    "slug": "norvane-nv-lock-513",
+    "sku": "REN-LOCK-57622",
+    "mpn": "NV-LOCK-513",
+    "brand": "Norvane",
+    "name": "Lockout hasps, Red, Glass-reinforced polyester, Flush",
+    "summary": "Lockout hasps from Norvane with colour Red, material Glass-reinforced polyester, mounting Flush.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s13",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 7600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000496",
+    "slug": "kapbridge-controls-kc-lock-928",
+    "sku": "REN-LOCK-97020",
+    "mpn": "KC-LOCK-928",
+    "brand": "Kapbridge Controls",
+    "name": "Lockout hasps, Grey, Polycarbonate, Panel cut-out",
+    "summary": "Lockout hasps from Kapbridge Controls with colour Grey, material Polycarbonate, mounting Panel cut-out.",
+    "categoryId": "c11",
+    "subcategoryId": "c11s13",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 12100,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]

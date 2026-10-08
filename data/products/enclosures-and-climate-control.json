@@ -1,0 +1,1961 @@
+[
+  {
+    "id": "p_000283",
+    "slug": "norvane-nv-insu-ip20-500-800x1000",
+    "sku": "REN-INSU-23120",
+    "mpn": "NV-INSU-IP20-500-800X1000",
+    "brand": "Norvane",
+    "name": "Insulated enclosures, IP20, Red, Glass-reinforced polyester, 500 mm, 800 x 1000 mm",
+    "summary": "Insulated enclosures from Norvane with ip rating IP20, colour Red, material Glass-reinforced polyester, length 500 mm, dimensions (w x h) 800 x 1000 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s01",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "800 x 1000",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 196200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000284",
+    "slug": "ampstead-am-insu-ip54-2000-200x300",
+    "sku": "REN-INSU-80680",
+    "mpn": "AM-INSU-IP54-2000-200X300",
+    "brand": "Ampstead",
+    "name": "Insulated enclosures, IP54, Green, Stainless steel 316, 2000 mm, 200 x 300 mm",
+    "summary": "Insulated enclosures from Ampstead with ip rating IP54, colour Green, material Stainless steel 316, length 2000 mm, dimensions (w x h) 200 x 300 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s01",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "200 x 300",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 112100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000285",
+    "slug": "kapbridge-controls-kc-insu-ip66-2000-400x600",
+    "sku": "REN-INSU-64397",
+    "mpn": "KC-INSU-IP66-2000-400X600",
+    "brand": "Kapbridge Controls",
+    "name": "Insulated enclosures, IP66, White, Galvanised steel, 2000 mm, 400 x 600 mm",
+    "summary": "Insulated enclosures from Kapbridge Controls with ip rating IP66, colour White, material Galvanised steel, length 2000 mm, dimensions (w x h) 400 x 600 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s01",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "400 x 600",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 182600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000286",
+    "slug": "duravolt-sample-co-dv-insu-ip20-500-200x300",
+    "sku": "REN-INSU-66312",
+    "mpn": "DV-INSU-IP20-500-200X300",
+    "brand": "Duravolt Sample Co.",
+    "name": "Insulated enclosures, IP20, Green, Stainless steel 316, 500 mm, 200 x 300 mm",
+    "summary": "Insulated enclosures from Duravolt Sample Co. with ip rating IP20, colour Green, material Stainless steel 316, length 500 mm, dimensions (w x h) 200 x 300 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s01",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "200 x 300",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 34300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000287",
+    "slug": "lumeris-lm-insu-ip20-250-400x600",
+    "sku": "REN-INSU-26137",
+    "mpn": "LM-INSU-IP20-250-400X600",
+    "brand": "Lumeris",
+    "name": "Insulated enclosures, IP20, Red, Glass-reinforced polyester, 250 mm, 400 x 600 mm",
+    "summary": "Insulated enclosures from Lumeris with ip rating IP20, colour Red, material Glass-reinforced polyester, length 250 mm, dimensions (w x h) 400 x 600 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s01",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "400 x 600",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 204800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000288",
+    "slug": "voltara-vt-insu-ip54-2000-200x300",
+    "sku": "REN-INSU-73571",
+    "mpn": "VT-INSU-IP54-2000-200X300",
+    "brand": "Voltara",
+    "name": "Insulated enclosures, IP54, White, Stainless steel 316, 2000 mm, 200 x 300 mm",
+    "summary": "Insulated enclosures from Voltara with ip rating IP54, colour White, material Stainless steel 316, length 2000 mm, dimensions (w x h) 200 x 300 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s01",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "200 x 300",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 144900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000289",
+    "slug": "lumeris-lm-dbsf-ip54-600x800",
+    "sku": "REN-DBSF-32836",
+    "mpn": "LM-DBSF-IP54-600X800",
+    "brand": "Lumeris",
+    "name": "Distribution boards (surface & flush), IP54, Yellow, Galvanised steel, 600 x 800 mm",
+    "summary": "Distribution boards (surface & flush) from Lumeris with ip rating IP54, colour Yellow, material Galvanised steel, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s02",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 223200,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000290",
+    "slug": "lumeris-lm-dbsf-ip20-800x1000",
+    "sku": "REN-DBSF-30749",
+    "mpn": "LM-DBSF-IP20-800X1000",
+    "brand": "Lumeris",
+    "name": "Distribution boards (surface & flush), IP20, Red, Powder-coated steel, 800 x 1000 mm",
+    "summary": "Distribution boards (surface & flush) from Lumeris with ip rating IP20, colour Red, material Powder-coated steel, dimensions (w x h) 800 x 1000 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s02",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "800 x 1000",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 136000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000291",
+    "slug": "kapbridge-controls-kc-dbsf-ip44-300x400",
+    "sku": "REN-DBSF-17815",
+    "mpn": "KC-DBSF-IP44-300X400",
+    "brand": "Kapbridge Controls",
+    "name": "Distribution boards (surface & flush), IP44, Black, Powder-coated steel, 300 x 400 mm",
+    "summary": "Distribution boards (surface & flush) from Kapbridge Controls with ip rating IP44, colour Black, material Powder-coated steel, dimensions (w x h) 300 x 400 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s02",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "300 x 400",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 27600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000292",
+    "slug": "ampstead-am-dbsf-ip67-200x300",
+    "sku": "REN-DBSF-96089",
+    "mpn": "AM-DBSF-IP67-200X300",
+    "brand": "Ampstead",
+    "name": "Distribution boards (surface & flush), IP67, Green, Galvanised steel, 200 x 300 mm",
+    "summary": "Distribution boards (surface & flush) from Ampstead with ip rating IP67, colour Green, material Galvanised steel, dimensions (w x h) 200 x 300 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s02",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "200 x 300",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 156400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000293",
+    "slug": "voltara-vt-dbsf-ip66-800x1000",
+    "sku": "REN-DBSF-70264",
+    "mpn": "VT-DBSF-IP66-800X1000",
+    "brand": "Voltara",
+    "name": "Distribution boards (surface & flush), IP66, Red, Glass-reinforced polyester, 800 x 1000 mm",
+    "summary": "Distribution boards (surface & flush) from Voltara with ip rating IP66, colour Red, material Glass-reinforced polyester, dimensions (w x h) 800 x 1000 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s02",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "800 x 1000",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 216300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000294",
+    "slug": "lumeris-lm-fsb-ip20-300x400",
+    "sku": "REN-FSB-48678",
+    "mpn": "LM-FSB-IP20-300X400",
+    "brand": "Lumeris",
+    "name": "Floor-standing boards, IP20, Green, Polycarbonate, 300 x 400 mm",
+    "summary": "Floor-standing boards from Lumeris with ip rating IP20, colour Green, material Polycarbonate, dimensions (w x h) 300 x 400 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s03",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "300 x 400",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 62000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000295",
+    "slug": "duravolt-sample-co-dv-fsb-ip66-200x300",
+    "sku": "REN-FSB-47675",
+    "mpn": "DV-FSB-IP66-200X300",
+    "brand": "Duravolt Sample Co.",
+    "name": "Floor-standing boards, IP66, Grey, Galvanised steel, 200 x 300 mm",
+    "summary": "Floor-standing boards from Duravolt Sample Co. with ip rating IP66, colour Grey, material Galvanised steel, dimensions (w x h) 200 x 300 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s03",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "200 x 300",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 187700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000296",
+    "slug": "voltara-vt-fsb-ip44-300x400",
+    "sku": "REN-FSB-19924",
+    "mpn": "VT-FSB-IP44-300X400",
+    "brand": "Voltara",
+    "name": "Floor-standing boards, IP44, Grey, Glass-reinforced polyester, 300 x 400 mm",
+    "summary": "Floor-standing boards from Voltara with ip rating IP44, colour Grey, material Glass-reinforced polyester, dimensions (w x h) 300 x 400 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s03",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "300 x 400",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 26400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000297",
+    "slug": "duravolt-sample-co-dv-fsb-ip67-800x1000",
+    "sku": "REN-FSB-55866",
+    "mpn": "DV-FSB-IP67-800X1000",
+    "brand": "Duravolt Sample Co.",
+    "name": "Floor-standing boards, IP67, Yellow, Stainless steel 316, 800 x 1000 mm",
+    "summary": "Floor-standing boards from Duravolt Sample Co. with ip rating IP67, colour Yellow, material Stainless steel 316, dimensions (w x h) 800 x 1000 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s03",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "800 x 1000",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 83500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000298",
+    "slug": "ampstead-am-fsb-ip67-600x800",
+    "sku": "REN-FSB-25951",
+    "mpn": "AM-FSB-IP67-600X800",
+    "brand": "Ampstead",
+    "name": "Floor-standing boards, IP67, Red, Galvanised steel, 600 x 800 mm",
+    "summary": "Floor-standing boards from Ampstead with ip rating IP67, colour Red, material Galvanised steel, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s03",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 221700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000299",
+    "slug": "lumeris-lm-spe-ip66-2000-600x800",
+    "sku": "REN-SPE-73896",
+    "mpn": "LM-SPE-IP66-2000-600X800",
+    "brand": "Lumeris",
+    "name": "Steel & polyester enclosures, IP66, White, Galvanised steel, 2000 mm, 600 x 800 mm",
+    "summary": "Steel & polyester enclosures from Lumeris with ip rating IP66, colour White, material Galvanised steel, length 2000 mm, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s04",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 87600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000300",
+    "slug": "norvane-nv-spe-ip65-250-600x800",
+    "sku": "REN-SPE-54084",
+    "mpn": "NV-SPE-IP65-250-600X800",
+    "brand": "Norvane",
+    "name": "Steel & polyester enclosures, IP65, Green, Polycarbonate, 250 mm, 600 x 800 mm",
+    "summary": "Steel & polyester enclosures from Norvane with ip rating IP65, colour Green, material Polycarbonate, length 250 mm, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s04",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 133800,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000301",
+    "slug": "lumeris-lm-spe-ip66-250-300x400",
+    "sku": "REN-SPE-34919",
+    "mpn": "LM-SPE-IP66-250-300X400",
+    "brand": "Lumeris",
+    "name": "Steel & polyester enclosures, IP66, Black, Galvanised steel, 250 mm, 300 x 400 mm",
+    "summary": "Steel & polyester enclosures from Lumeris with ip rating IP66, colour Black, material Galvanised steel, length 250 mm, dimensions (w x h) 300 x 400 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s04",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "300 x 400",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 50400,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000302",
+    "slug": "duravolt-sample-co-dv-spe-ip67-2000-400x600",
+    "sku": "REN-SPE-34168",
+    "mpn": "DV-SPE-IP67-2000-400X600",
+    "brand": "Duravolt Sample Co.",
+    "name": "Steel & polyester enclosures, IP67, Black, Galvanised steel, 2000 mm, 400 x 600 mm",
+    "summary": "Steel & polyester enclosures from Duravolt Sample Co. with ip rating IP67, colour Black, material Galvanised steel, length 2000 mm, dimensions (w x h) 400 x 600 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s04",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "400 x 600",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 134800,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000303",
+    "slug": "duravolt-sample-co-dv-spe-ip67-500-600x800",
+    "sku": "REN-SPE-91776",
+    "mpn": "DV-SPE-IP67-500-600X800",
+    "brand": "Duravolt Sample Co.",
+    "name": "Steel & polyester enclosures, IP67, White, Powder-coated steel, 500 mm, 600 x 800 mm",
+    "summary": "Steel & polyester enclosures from Duravolt Sample Co. with ip rating IP67, colour White, material Powder-coated steel, length 500 mm, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s04",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Material",
+        "value": "Powder-coated steel"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 34700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000304",
+    "slug": "duravolt-sample-co-dv-spe-ip66-100-600x800",
+    "sku": "REN-SPE-22849",
+    "mpn": "DV-SPE-IP66-100-600X800",
+    "brand": "Duravolt Sample Co.",
+    "name": "Steel & polyester enclosures, IP66, Red, Glass-reinforced polyester, 100 mm, 600 x 800 mm",
+    "summary": "Steel & polyester enclosures from Duravolt Sample Co. with ip rating IP66, colour Red, material Glass-reinforced polyester, length 100 mm, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s04",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 39700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000305",
+    "slug": "voltara-vt-sse-ip67-500-600x800",
+    "sku": "REN-SSE-99525",
+    "mpn": "VT-SSE-IP67-500-600X800",
+    "brand": "Voltara",
+    "name": "Stainless steel enclosures, IP67, Green, Galvanised steel, 500 mm, 600 x 800 mm",
+    "summary": "Stainless steel enclosures from Voltara with ip rating IP67, colour Green, material Galvanised steel, length 500 mm, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s05",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 79200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000306",
+    "slug": "kapbridge-controls-kc-sse-ip66-100-600x800",
+    "sku": "REN-SSE-89334",
+    "mpn": "KC-SSE-IP66-100-600X800",
+    "brand": "Kapbridge Controls",
+    "name": "Stainless steel enclosures, IP66, Green, Galvanised steel, 100 mm, 600 x 800 mm",
+    "summary": "Stainless steel enclosures from Kapbridge Controls with ip rating IP66, colour Green, material Galvanised steel, length 100 mm, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s05",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Green"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 17900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000307",
+    "slug": "ampstead-am-sse-ip66-2000-600x800",
+    "sku": "REN-SSE-12936",
+    "mpn": "AM-SSE-IP66-2000-600X800",
+    "brand": "Ampstead",
+    "name": "Stainless steel enclosures, IP66, Yellow, Glass-reinforced polyester, 2000 mm, 600 x 800 mm",
+    "summary": "Stainless steel enclosures from Ampstead with ip rating IP66, colour Yellow, material Glass-reinforced polyester, length 2000 mm, dimensions (w x h) 600 x 800 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s05",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Material",
+        "value": "Glass-reinforced polyester"
+      },
+      {
+        "label": "Length",
+        "value": "2000",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 70500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000308",
+    "slug": "voltara-vt-sse-ip67-250-400x600",
+    "sku": "REN-SSE-78991",
+    "mpn": "VT-SSE-IP67-250-400X600",
+    "brand": "Voltara",
+    "name": "Stainless steel enclosures, IP67, Black, Galvanised steel, 250 mm, 400 x 600 mm",
+    "summary": "Stainless steel enclosures from Voltara with ip rating IP67, colour Black, material Galvanised steel, length 250 mm, dimensions (w x h) 400 x 600 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s05",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "400 x 600",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 216500,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000309",
+    "slug": "norvane-nv-sse-ip44-250-300x400",
+    "sku": "REN-SSE-39601",
+    "mpn": "NV-SSE-IP44-250-300X400",
+    "brand": "Norvane",
+    "name": "Stainless steel enclosures, IP44, White, Polycarbonate, 250 mm, 300 x 400 mm",
+    "summary": "Stainless steel enclosures from Norvane with ip rating IP44, colour White, material Polycarbonate, length 250 mm, dimensions (w x h) 300 x 400 mm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s05",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Colour",
+        "value": "White"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Length",
+        "value": "250",
+        "unit": "mm"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "300 x 400",
+        "unit": "mm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 158300,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000310",
+    "slug": "ampstead-am-busb-63-100",
+    "sku": "REN-BUSB-24970",
+    "mpn": "AM-BUSB-63-100",
+    "brand": "Ampstead",
+    "name": "Busbar accessories, 63 A, 100 mm, Panel cut-out",
+    "summary": "Busbar accessories from Ampstead with rated current 63 A, length 100 mm, mounting Panel cut-out.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "63",
+        "unit": "A"
+      },
+      {
+        "label": "Length",
+        "value": "100",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 167900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000311",
+    "slug": "voltara-vt-busb-400-1000",
+    "sku": "REN-BUSB-14712",
+    "mpn": "VT-BUSB-400-1000",
+    "brand": "Voltara",
+    "name": "Busbar accessories, 400 A, 1000 mm, Panel cut-out",
+    "summary": "Busbar accessories from Voltara with rated current 400 A, length 1000 mm, mounting Panel cut-out.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 178300,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000312",
+    "slug": "lumeris-lm-busb-16-1000",
+    "sku": "REN-BUSB-93249",
+    "mpn": "LM-BUSB-16-1000",
+    "brand": "Lumeris",
+    "name": "Busbar accessories, 16 A, 1000 mm, Panel cut-out",
+    "summary": "Busbar accessories from Lumeris with rated current 16 A, length 1000 mm, mounting Panel cut-out.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Panel cut-out"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 179500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000313",
+    "slug": "duravolt-sample-co-dv-busb-400-1000",
+    "sku": "REN-BUSB-49041",
+    "mpn": "DV-BUSB-400-1000",
+    "brand": "Duravolt Sample Co.",
+    "name": "Busbar accessories, 400 A, 1000 mm, Flush",
+    "summary": "Busbar accessories from Duravolt Sample Co. with rated current 400 A, length 1000 mm, mounting Flush.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "400",
+        "unit": "A"
+      },
+      {
+        "label": "Length",
+        "value": "1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 187000,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000314",
+    "slug": "lumeris-lm-busb-16-500",
+    "sku": "REN-BUSB-72518",
+    "mpn": "LM-BUSB-16-500",
+    "brand": "Lumeris",
+    "name": "Busbar accessories, 16 A, 500 mm, Flush",
+    "summary": "Busbar accessories from Lumeris with rated current 16 A, length 500 mm, mounting Flush.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s06",
+    "specs": [
+      {
+        "label": "Rated current",
+        "value": "16",
+        "unit": "A"
+      },
+      {
+        "label": "Length",
+        "value": "500",
+        "unit": "mm"
+      },
+      {
+        "label": "Mounting",
+        "value": "Flush"
+      }
+    ],
+    "unit": "set",
+    "packQty": 1,
+    "priceExclVatCents": 22400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        5,
+        7
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000315",
+    "slug": "norvane-nv-pfl-075-12vdc-ip66",
+    "sku": "REN-PFL-44783",
+    "mpn": "NV-PFL-075-12VDC-IP66",
+    "brand": "Norvane",
+    "name": "Panel fans & lamps, 0.75 kW, 12 V DC, IP66, Grey, 6500 lm",
+    "summary": "Panel fans & lamps from Norvane with rated power 0.75 kW, rated voltage 12 V DC, ip rating IP66, colour Grey, luminous flux 6500 lm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s07",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.75",
+        "unit": "kW"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "12 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Grey"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "6500",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 8000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000316",
+    "slug": "kapbridge-controls-kc-pfl-15-400vac-ip66",
+    "sku": "REN-PFL-11158",
+    "mpn": "KC-PFL-15-400VAC-IP66",
+    "brand": "Kapbridge Controls",
+    "name": "Panel fans & lamps, 15 kW, 400 V AC, IP66, Yellow, 4000 lm",
+    "summary": "Panel fans & lamps from Kapbridge Controls with rated power 15 kW, rated voltage 400 V AC, ip rating IP66, colour Yellow, luminous flux 4000 lm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s07",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "15",
+        "unit": "kW"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "400 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 4100,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000317",
+    "slug": "lumeris-lm-pfl-037-230vac-ip20",
+    "sku": "REN-PFL-83216",
+    "mpn": "LM-PFL-037-230VAC-IP20",
+    "brand": "Lumeris",
+    "name": "Panel fans & lamps, 0.37 kW, 230 V AC, IP20, Red, 1200 lm",
+    "summary": "Panel fans & lamps from Lumeris with rated power 0.37 kW, rated voltage 230 V AC, ip rating IP20, colour Red, luminous flux 1200 lm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s07",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "0.37",
+        "unit": "kW"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP20"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "1200",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 13500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000318",
+    "slug": "lumeris-lm-pfl-30-24vdc-ip67",
+    "sku": "REN-PFL-31562",
+    "mpn": "LM-PFL-30-24VDC-IP67",
+    "brand": "Lumeris",
+    "name": "Panel fans & lamps, 30 kW, 24 V DC, IP67, Red, 4000 lm",
+    "summary": "Panel fans & lamps from Lumeris with rated power 30 kW, rated voltage 24 V DC, ip rating IP67, colour Red, luminous flux 4000 lm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s07",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "30",
+        "unit": "kW"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "24 V DC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 9700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000319",
+    "slug": "voltara-vt-pfl-15-230vac-ip65",
+    "sku": "REN-PFL-76772",
+    "mpn": "VT-PFL-15-230VAC-IP65",
+    "brand": "Voltara",
+    "name": "Panel fans & lamps, 1.5 kW, 230 V AC, IP65, Red, 4000 lm",
+    "summary": "Panel fans & lamps from Voltara with rated power 1.5 kW, rated voltage 230 V AC, ip rating IP65, colour Red, luminous flux 4000 lm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s07",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "1.5",
+        "unit": "kW"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Colour",
+        "value": "Red"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "4000",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 7600,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000320",
+    "slug": "voltara-vt-pfl-30-230vac-ip65",
+    "sku": "REN-PFL-61744",
+    "mpn": "VT-PFL-30-230VAC-IP65",
+    "brand": "Voltara",
+    "name": "Panel fans & lamps, 30 kW, 230 V AC, IP65, Yellow, 2400 lm",
+    "summary": "Panel fans & lamps from Voltara with rated power 30 kW, rated voltage 230 V AC, ip rating IP65, colour Yellow, luminous flux 2400 lm.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s07",
+    "specs": [
+      {
+        "label": "Rated power",
+        "value": "30",
+        "unit": "kW"
+      },
+      {
+        "label": "Rated voltage",
+        "value": "230 V AC"
+      },
+      {
+        "label": "IP rating",
+        "value": "IP65"
+      },
+      {
+        "label": "Colour",
+        "value": "Yellow"
+      },
+      {
+        "label": "Luminous flux",
+        "value": "2400",
+        "unit": "lm"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 19900,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000321",
+    "slug": "duravolt-sample-co-dv-cac-ip67-300x400",
+    "sku": "REN-CAC-66537",
+    "mpn": "DV-CAC-IP67-300X400",
+    "brand": "Duravolt Sample Co.",
+    "name": "Cabinet air conditioners, IP67, Polycarbonate, 300 x 400 mm, -20 to 60 °C",
+    "summary": "Cabinet air conditioners from Duravolt Sample Co. with ip rating IP67, material Polycarbonate, dimensions (w x h) 300 x 400 mm, operating temperature -20 to 60 °C.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s08",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Material",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "300 x 400",
+        "unit": "mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3507400,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        3,
+        5
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000322",
+    "slug": "voltara-vt-cac-ip66-200x300",
+    "sku": "REN-CAC-15697",
+    "mpn": "VT-CAC-IP66-200X300",
+    "brand": "Voltara",
+    "name": "Cabinet air conditioners, IP66, Stainless steel 316, 200 x 300 mm, -20 to 60 °C",
+    "summary": "Cabinet air conditioners from Voltara with ip rating IP66, material Stainless steel 316, dimensions (w x h) 200 x 300 mm, operating temperature -20 to 60 °C.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s08",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP66"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "200 x 300",
+        "unit": "mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 3406000,
+    "stock": {
+      "status": "to_order",
+      "leadTimeDays": [
+        7,
+        10
+      ]
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000323",
+    "slug": "duravolt-sample-co-dv-cac-ip67-200x300",
+    "sku": "REN-CAC-60541",
+    "mpn": "DV-CAC-IP67-200X300",
+    "brand": "Duravolt Sample Co.",
+    "name": "Cabinet air conditioners, IP67, Stainless steel 316, 200 x 300 mm, -20 to 60 °C",
+    "summary": "Cabinet air conditioners from Duravolt Sample Co. with ip rating IP67, material Stainless steel 316, dimensions (w x h) 200 x 300 mm, operating temperature -20 to 60 °C.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s08",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel 316"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "200 x 300",
+        "unit": "mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 2255500,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000324",
+    "slug": "norvane-nv-cac-ip44-600x800",
+    "sku": "REN-CAC-48484",
+    "mpn": "NV-CAC-IP44-600X800",
+    "brand": "Norvane",
+    "name": "Cabinet air conditioners, IP44, Galvanised steel, 600 x 800 mm, 0 to 50 °C",
+    "summary": "Cabinet air conditioners from Norvane with ip rating IP44, material Galvanised steel, dimensions (w x h) 600 x 800 mm, operating temperature 0 to 50 °C.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s08",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP44"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "600 x 800",
+        "unit": "mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "0 to 50",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1188200,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "p_000325",
+    "slug": "norvane-nv-cac-ip67-800x1000",
+    "sku": "REN-CAC-22251",
+    "mpn": "NV-CAC-IP67-800X1000",
+    "brand": "Norvane",
+    "name": "Cabinet air conditioners, IP67, Galvanised steel, 800 x 1000 mm, -20 to 60 °C",
+    "summary": "Cabinet air conditioners from Norvane with ip rating IP67, material Galvanised steel, dimensions (w x h) 800 x 1000 mm, operating temperature -20 to 60 °C.",
+    "categoryId": "c08",
+    "subcategoryId": "c08s08",
+    "specs": [
+      {
+        "label": "IP rating",
+        "value": "IP67"
+      },
+      {
+        "label": "Material",
+        "value": "Galvanised steel"
+      },
+      {
+        "label": "Dimensions (W x H)",
+        "value": "800 x 1000",
+        "unit": "mm"
+      },
+      {
+        "label": "Operating temperature",
+        "value": "-20 to 60",
+        "unit": "°C"
+      }
+    ],
+    "unit": "each",
+    "packQty": 1,
+    "priceExclVatCents": 1823700,
+    "stock": {
+      "status": "in_stock"
+    },
+    "images": [],
+    "source": {
+      "origin": "dummy"
+    },
+    "active": true,
+    "updatedAt": "2026-10-01"
+  }
+]
