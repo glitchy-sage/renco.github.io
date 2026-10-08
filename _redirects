@@ -1,0 +1,5 @@
+# Old Joomla site URLs (plan section 3). Order matters: first match wins.
+/index.php/contact-us /contact 301
+/index.php/examples /products 301
+/index.php/* / 301
+/index.php / 301

@@ -1,0 +1,1 @@
+import{j as s}from"./jsx-runtime-B3g_wNmb.js";const e="_page_1mhqo_1",n="_narrow_1mhqo_6",a={page:e,narrow:n};function p({children:o,narrow:r=!1}){return s.jsx("div",{className:r?`${a.page} ${a.narrow}`:a.page,children:o})}export{p as P};
