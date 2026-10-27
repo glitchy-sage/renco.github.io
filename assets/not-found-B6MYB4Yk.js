@@ -1,1 +1,0 @@
-import{w as o,j as t}from"./jsx-runtime-CyYFNfYT.js";import{N as n}from"./NotFoundContent-CMjV2mCv.js";import{b as r}from"./meta-sD_3Kk1G.js";import"./Page-Cto4v67l.js";function i(){return[...r("Page not found","Sorry, we could not find that page."),{name:"robots",content:"noindex"}]}const p=o(function(){return t.jsx(n,{})});export{p as default,i as meta};
